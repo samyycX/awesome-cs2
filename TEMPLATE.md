@@ -22,6 +22,7 @@
 - [Plugins](#plugins)
   - [Metamod Plugins](#metamod-plugins)
   - [CounterStrikeSharp Plugins](#counterstrikesharp-plugins)
+  - [Swiftly Plugins](#swiftly-plugins)
 - [Contributions](#contributions)
 
 # General
@@ -157,6 +158,10 @@ $METAMOD_PLUGINS
 ## CounterStrikeSharp Plugins
 
 $COUNTERSTRIKESHARP_PLUGINS
+
+## Swiftly Plugins
+
+$SWIFTLY_PLUGINS
 
 # Contributions
 This project is a free and open-source project. We welcome any community resource websites/repositories/plugins, regardless of their popularity.\
