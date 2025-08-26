@@ -25,7 +25,7 @@
   *Valve's official documentation for cs2 and other source games.*\
   ***Not recommended for checking cs2 information, most of them are outdated or absent.***
 
-- **[gamebanana.net](https://gamebanana.com/games/18134)**\
+- **[gamebanana.com](https://gamebanana.com/games/18134)**\
   *A workshop resource website that contains cs2 models, maps and etc.*
 
 # Tools
