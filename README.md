@@ -30,7 +30,10 @@
 
 - **[VPulse Editor](https://github.com/LionDoge/vpulse-editor)**\
   *A visual programming tool to write the vpulse script, which is a new unreleased visualized script system for source2 to replace vscript.*
-  
+
+- **[Schema Dumper](https://github.com/GAMMACASE/Source2SchemaDumper)**\
+  *A metamod plugin for dumping schemas from game binary, and also able to generate a header file that can be imported in IDA for reverse engineering.*
+
 # Modding Frameworks
 - **[Metamod](https://github.com/alliedmodders/metamod-source)** [[Website](https://www.sourcemm.net/downloads.php?branch=dev)] [[Discord](https://discord.com/invite/HUc67zN)]\
   *The cobblestone of all of the current open source framework since source1, written in C++, hard to develop but have access to fundamental things.*\
