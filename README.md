@@ -4,10 +4,10 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2 minutes ago</strong>
+  Last Sync: <strong>1 minute ago</strong>
 </p>
 <p>
-  Project Uptime: <strong>55 minutes</strong>
+  Project Uptime: <strong>56 minutes</strong>
 </p>
 
 </div>
@@ -22,6 +22,7 @@
 - [Plugins](#plugins)
   - [Metamod Plugins](#metamod-plugins)
   - [CounterStrikeSharp Plugins](#counterstrikesharp-plugins)
+  - [Swiftly Plugins](#swiftly-plugins)
 - [Contributions](#contributions)
 
 # General
@@ -162,6 +163,12 @@ These are the websites with resources that you might need to check during develo
 | --- | --- | --- | --- |
 | [samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger) | A cssharp plugin to change player models. | 105 | 7 months ago |
 | [samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher) | A plugin with various patches for cs2. | 8 | 1 week ago |
+
+## Swiftly Plugins
+
+| Repository | Description | Stars | Last Active |
+| --- | --- | --- | --- |
+| [swiftly-solution/admins](https://github.com/swiftly-solution/admins) | A simple plugin for samyycX that implements an admin system. | 4 | 5 months ago |
 
 # Contributions
 This project is a free and open-source project. We welcome any community resource websites/repositories/plugins, regardless of their popularity.\
