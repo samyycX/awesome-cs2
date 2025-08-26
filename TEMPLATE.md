@@ -4,10 +4,10 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>3 minutes ago</strong>
+  Last Sync: <strong>$LAST_UPDATE</strong>
 </p>
 <p>
-  Project Uptime: <strong>46 minutes</strong>
+  Project Uptime: <strong>$RUNNING_TIME</strong>
 </p>
 
 </div>
@@ -149,16 +149,11 @@ These are the websites with resources that you might need to check during develo
 
 # Metamod Plugins
 
-| Repository | Description | Stars | Last Active |
-| --- | --- | --- | --- |
-| [Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes) | A plugin with tons of fixes and features aimed but not limited to zombie escape. | 316 | 3 days ago |
+$METAMOD_PLUGINS
 
 # CounterStrikeSharp Plugins
 
-| Repository | Description | Stars | Last Active |
-| --- | --- | --- | --- |
-| [samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger) | A cssharp plugin to change player models. | 105 | 7 months ago |
-| [samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher) | A plugin with various patches for cs2. | 8 | 1 week ago |
+$COUNTERSTRIKESHARP_PLUGINS
 
 # Contributions
 This project is a free and open-source project. We welcome any community resource websites/repositories/plugins, regardless of their popularity.\
