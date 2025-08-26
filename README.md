@@ -7,7 +7,7 @@
   Last Sync: <strong>1 minute ago</strong>
 </p>
 <p>
-  Project Uptime: <strong>56 minutes</strong>
+  Project Uptime: <strong>58 minutes</strong>
 </p>
 
 </div>
@@ -168,7 +168,7 @@ These are the websites with resources that you might need to check during develo
 
 | Repository | Description | Stars | Last Active |
 | --- | --- | --- | --- |
-| [swiftly-solution/admins](https://github.com/swiftly-solution/admins) | A simple plugin for samyycX that implements an admin system. | 4 | 5 months ago |
+| [swiftly-solution/admins](https://github.com/swiftly-solution/admins) | A simple plugin for swiftly that implements an admin system. | 4 | 5 months ago |
 
 # Contributions
 This project is a free and open-source project. We welcome any community resource websites/repositories/plugins, regardless of their popularity.\
