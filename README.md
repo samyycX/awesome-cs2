@@ -3,10 +3,14 @@
 <p>
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
+<p>
+  10 seconds ago
+</p>
+<p>
+  22 minutes
+</p>
 
 </div>
-Last updated: 17 seconds ago  
-Project running for: 18 seconds
 
 # Contents
 - [General](#general)
@@ -146,7 +150,7 @@ These are the websites with resources that you might need to check during develo
 
 | Repository | Description | Stars | Last Active |
 | --- | --- | --- | --- |
-| [CS2Fixes](https://github.com/Source2ZE/CS2Fixes) | A plugin with tons of fixes and features aimed but not limited to zombie escape. | 316 | 43 minutes ago |
+| [Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes) | A plugin with tons of fixes and features aimed but not limited to zombie escape.<br> TEST | 316 | 3 days ago |
 
 # Contributions
 This project is a free and open-source project. We welcome any community resource websites/repositories/plugins, regardless of their popularity.\

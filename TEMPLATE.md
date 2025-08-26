@@ -3,6 +3,12 @@
 <p>
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
+<p>
+  $LAST_UPDATE
+</p>
+<p>
+  $RUNNING_TIME
+</p>
 
 </div>
 

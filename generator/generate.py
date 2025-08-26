@@ -19,6 +19,7 @@ MANIFESTS_DIR = REPO_ROOT / "manifests"
 TEMPLATE_MD = REPO_ROOT / "TEMPLATE.md"
 README_MD = REPO_ROOT / "README.md"
 TAG_FILE = REPO_ROOT / "current.tag"
+DATA_DIR = REPO_ROOT / "data"
 
 
 def read_json_file(file_path: Path) -> Any:
@@ -29,6 +30,11 @@ def read_json_file(file_path: Path) -> Any:
 def write_text_file(file_path: Path, content: str) -> None:
 	with file_path.open("w", encoding="utf-8", newline="\n") as f:
 		f.write(content)
+
+
+def write_json_file(file_path: Path, obj: Any) -> None:
+	with file_path.open("w", encoding="utf-8", newline="\n") as f:
+		json.dump(obj, f, ensure_ascii=False, indent=2)
 
 
 def load_or_init_tags(tag_path: Path) -> Dict[str, str]:
@@ -100,15 +106,7 @@ def parse_iso8601_z(s: Optional[str]) -> Optional[datetime]:
 
 
 def safe_get_last_activity(repo_obj: Any) -> datetime:
-	# Prefer pushed_at (code activity), fallback to updated_at
-	pushed_at = getattr(repo_obj, "pushed_at", None)
-	updated_at = getattr(repo_obj, "updated_at", None)
-	candidates = [d for d in [pushed_at, updated_at] if isinstance(d, datetime)]
-	if not candidates:
-		return datetime.now(timezone.utc)
-	# Ensure timezone-aware
-	candidates_tz = [c if c.tzinfo else c.replace(tzinfo=timezone.utc) for c in candidates]
-	return max(candidates_tz)
+	return getattr(repo_obj, "pushed_at", None)
 
 
 def fetch_repo_metadata_via_rest(full_name: str, token: Optional[str]) -> Dict[str, Any]:
@@ -128,7 +126,7 @@ def fetch_repo_metadata_via_rest(full_name: str, token: Optional[str]) -> Dict[s
 			"last_active": None,
 			"error": str(e),
 		}
-	last_active = parse_iso8601_z(data.get("pushed_at")) or parse_iso8601_z(data.get("updated_at")) or datetime.now(timezone.utc)
+	last_active = parse_iso8601_z(data.get("pushed_at"))
 	if last_active.tzinfo is None:
 		last_active = last_active.replace(tzinfo=timezone.utc)
 	return {
@@ -146,7 +144,7 @@ def fetch_repo_metadata(gh: Optional[Any], full_name: str, token: Optional[str])
 		repo = gh.get_repo(full_name)
 	except GithubException as e:  # type: ignore
 		return {
-			"name": full_name.split("/")[-1],
+			"name": full_name,
 			"html_url": f"https://github.com/{full_name}",
 			"stars": 0,
 			"last_active": None,
@@ -154,7 +152,7 @@ def fetch_repo_metadata(gh: Optional[Any], full_name: str, token: Optional[str])
 		}
 	last_active = safe_get_last_activity(repo)
 	return {
-		"name": repo.name,
+		"name": full_name,
 		"html_url": repo.html_url,
 		"stars": int(repo.stargazers_count or 0),
 		"last_active": last_active,
@@ -163,7 +161,7 @@ def fetch_repo_metadata(gh: Optional[Any], full_name: str, token: Optional[str])
 
 def normalize_description(desc_field: Any) -> str:
 	if isinstance(desc_field, list):
-		return " ".join(str(x).strip() for x in desc_field if str(x).strip())
+		return "<br> ".join(str(x).strip() for x in desc_field if str(x).strip())
 	if isinstance(desc_field, str):
 		return desc_field.strip()
 	return ""
@@ -187,20 +185,13 @@ def manifest_to_placeholder(manifest_filename: str) -> str:
 	name_no_ext = manifest_filename.rsplit(".", 1)[0]
 	return "$" + name_no_ext.replace("-", "_").upper()
 
-
-def insert_stats_block(template_md: str, stats_block: str) -> str:
-	marker = "\n# Contents"
-	idx = template_md.find(marker)
-	if idx == -1:
-		# Fallback: prepend
-		return stats_block + "\n\n" + template_md
-	return template_md[:idx] + stats_block + "\n\n" + template_md[idx + 1:]
-
-
 def main() -> None:
 	# Setup GitHub client
 	token = os.environ.get("GITHUB_TOKEN")
 	gh = Github(login_or_token=token) if (Github is not None and token) else (Github() if Github is not None else None)  # type: ignore
+
+	# Ensure data directory exists
+	DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 	# Load and update tag data
 	tag_data = load_or_init_tags(TAG_FILE)
@@ -211,11 +202,12 @@ def main() -> None:
 	except Exception:
 		project_start = now
 
-	# Build per-manifest tables
+	# Build per-manifest tables and write stats
 	placeholder_to_table: Dict[str, str] = {}
 	for manifest_path in sorted(MANIFESTS_DIR.glob("*.json")):
 		entries = parse_manifest(manifest_path)
 		rows: List[Dict[str, Any]] = []
+		stats_rows: List[Dict[str, Any]] = []
 		for entry in entries:
 			repo_full_name = str(entry.get("repo", "")).strip()
 			if not repo_full_name:
@@ -223,8 +215,20 @@ def main() -> None:
 			meta = fetch_repo_metadata(gh, repo_full_name, token)
 			meta["description"] = normalize_description(entry.get("description", ""))
 			rows.append(meta)
+			pushed_at_dt: Optional[datetime] = meta.get("last_active")
+			pushed_at_iso = pushed_at_dt.isoformat() if isinstance(pushed_at_dt, datetime) else None
+			stats_rows.append({
+				"repo": repo_full_name,
+				"stars": meta.get("stars", 0),
+				"pushed_at": pushed_at_iso,
+				"fetched_at": now.isoformat(),
+			})
 		placeholder = manifest_to_placeholder(manifest_path.name)
 		placeholder_to_table[placeholder] = build_markdown_table(rows, now)
+		# Write stats file per manifest
+		manifest_base = manifest_path.stem  # e.g., metamod-plugins
+		stats_path = DATA_DIR / f"{manifest_base}.stats.json"
+		write_json_file(stats_path, stats_rows)
 
 	# Read template
 	template_text = TEMPLATE_MD.read_text(encoding="utf-8")
@@ -242,20 +246,16 @@ def main() -> None:
 		last_update_dt = now
 	last_update_human = humanize_since(last_update_dt, now)
 	total_runtime_human = humanize_duration(int((now - project_start).total_seconds()))
-	stats_block = (
-		f"Last updated: {last_update_human}  \n"
-		f"Project running for: {total_runtime_human}"
-	)
 
-	# Inject stats before contents
-	output_text = insert_stats_block(output_text, stats_block)
+	output_text = output_text.replace("$LAST_UPDATE", last_update_human)
+	output_text = output_text.replace("$RUNNING_TIME", total_runtime_human)
 
 	# Write README
 	write_text_file(README_MD, output_text)
 
 	# Update tag file with new last_update
 	new_tag_data = update_last_update(tag_data)
-	write_text_file(TAG_FILE, json.dumps(new_tag_data, ensure_ascii=False, indent=2))
+	write_json_file(TAG_FILE, new_tag_data)
 
 	print(f"README generated at {README_MD}")
 
