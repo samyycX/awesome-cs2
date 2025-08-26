@@ -4,15 +4,8 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Tuple, Optional
-import urllib.request
-
-# Try to import PyGithub; fall back to REST API if unavailable
-try:
-	from github import Github  # type: ignore
-	from github.GithubException import GithubException  # type: ignore
-except Exception:
-	Github = None  # type: ignore
-	GithubException = Exception  # type: ignore
+import asyncio
+import aiohttp
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 MANIFESTS_DIR = REPO_ROOT / "manifests"
@@ -108,48 +101,8 @@ def parse_iso8601_z(s: Optional[str]) -> Optional[datetime]:
 def safe_get_last_activity(repo_obj: Any) -> datetime:
 	return getattr(repo_obj, "pushed_at", None)
 
-
-def fetch_repo_metadata_via_rest(full_name: str, token: Optional[str]) -> Dict[str, Any]:
-	url = f"https://api.github.com/repos/{full_name}"
-	req = urllib.request.Request(url)
-	req.add_header("Accept", "application/vnd.github+json")
-	if token:
-		req.add_header("Authorization", f"Bearer {token}")
-	try:
-		with urllib.request.urlopen(req, timeout=20) as resp:
-			data = json.loads(resp.read().decode("utf-8"))
-	except Exception as e:
-		return {
-			"name": full_name.split("/")[-1],
-			"html_url": f"https://github.com/{full_name}",
-			"stars": 0,
-			"last_active": None,
-			"error": str(e),
-		}
-	last_active = parse_iso8601_z(data.get("pushed_at"))
-	if last_active.tzinfo is None:
-		last_active = last_active.replace(tzinfo=timezone.utc)
-	return {
-		"name": data.get("name") or full_name.split("/")[-1],
-		"html_url": data.get("html_url") or f"https://github.com/{full_name}",
-		"stars": int(data.get("stargazers_count") or 0),
-		"last_active": last_active,
-	}
-
-
 def fetch_repo_metadata(gh: Optional[Any], full_name: str, token: Optional[str]) -> Dict[str, Any]:
-	if gh is None:
-		return fetch_repo_metadata_via_rest(full_name, token)
-	try:
-		repo = gh.get_repo(full_name)
-	except GithubException as e:  # type: ignore
-		return {
-			"name": full_name,
-			"html_url": f"https://github.com/{full_name}",
-			"stars": 0,
-			"last_active": None,
-			"error": str(e),
-		}
+	repo = gh.get_repo(full_name)
 	last_active = safe_get_last_activity(repo)
 	return {
 		"name": full_name,
@@ -158,6 +111,48 @@ def fetch_repo_metadata(gh: Optional[Any], full_name: str, token: Optional[str])
 		"last_active": last_active,
 	}
 
+
+async def _fetch_repo_aiohttp(session: "aiohttp.ClientSession", full_name: str) -> Dict[str, Any]:  # type: ignore
+	url = f"https://api.github.com/repos/{full_name}"
+	async with session.get(url, timeout=aiohttp.ClientTimeout(total=20)) as resp:  # type: ignore
+		data = await resp.json()
+		pushed_at = data.get("pushed_at")
+		last_active = parse_iso8601_z(pushed_at) or datetime.now(timezone.utc)
+		if last_active.tzinfo is None:
+			last_active = last_active.replace(tzinfo=timezone.utc)
+		return {
+			"name": data.get("full_name") or full_name,
+			"html_url": data.get("html_url") or f"https://github.com/{full_name}",
+			"stars": int(data.get("stargazers_count") or 0),
+			"last_active": last_active,
+		}
+
+async def fetch_many_async(full_names: List[str], token: Optional[str]) -> Dict[str, Dict[str, Any]]:
+	headers = {
+		"Accept": "application/vnd.github+json",
+	}
+	if token:
+		headers["Authorization"] = f"Bearer {token}"
+	connector = aiohttp.TCPConnector(limit=10) if aiohttp else None  # type: ignore
+	async with aiohttp.ClientSession(headers=headers, connector=connector) as session:  # type: ignore
+		tasks = [_fetch_repo_aiohttp(session, full_name) for full_name in full_names]
+		results = await asyncio.gather(*tasks, return_exceptions=True)
+		out: Dict[str, Dict[str, Any]] = {}
+		for full_name, res in zip(full_names, results):
+			if isinstance(res, Exception):
+				out[full_name] = {
+					"name": full_name,
+					"html_url": f"https://github.com/{full_name}",
+					"stars": 0,
+					"last_active": None,
+					"error": str(res),
+				}
+			else:
+				out[full_name] = res
+		return out
+
+def fetch_many(full_names: List[str], token: Optional[str]) -> Dict[str, Dict[str, Any]]:
+		return asyncio.run(fetch_many_async(full_names, token))
 
 def normalize_description(desc_field: Any) -> str:
 	if isinstance(desc_field, list):
@@ -188,7 +183,6 @@ def manifest_to_placeholder(manifest_filename: str) -> str:
 def main() -> None:
 	# Setup GitHub client
 	token = os.environ.get("GITHUB_TOKEN")
-	gh = Github(login_or_token=token) if (Github is not None and token) else (Github() if Github is not None else None)  # type: ignore
 
 	# Ensure data directory exists
 	DATA_DIR.mkdir(parents=True, exist_ok=True)
@@ -208,17 +202,27 @@ def main() -> None:
 		entries = parse_manifest(manifest_path)
 		rows: List[Dict[str, Any]] = []
 		stats_rows: List[Dict[str, Any]] = []
+		full_names: List[str] = []
+		entry_map: Dict[str, Dict[str, Any]] = {}
 		for entry in entries:
 			repo_full_name = str(entry.get("repo", "")).strip()
 			if not repo_full_name:
 				continue
-			meta = fetch_repo_metadata(gh, repo_full_name, token)
-			meta["description"] = normalize_description(entry.get("description", ""))
+			full_names.append(repo_full_name)
+			entry_map[repo_full_name] = entry
+		# Concurrent fetch
+		meta_map = fetch_many(full_names, token)
+		for repo_full_name in full_names:
+			meta = meta_map.get(repo_full_name)
+			meta["description"] = normalize_description(entry_map[repo_full_name].get("description", ""))
 			rows.append(meta)
+		# Sort by stars desc
+		rows.sort(key=lambda r: int(r.get("stars", 0) or 0), reverse=True)
+		for meta in rows:
 			pushed_at_dt: Optional[datetime] = meta.get("last_active")
 			pushed_at_iso = pushed_at_dt.isoformat() if isinstance(pushed_at_dt, datetime) else None
 			stats_rows.append({
-				"repo": repo_full_name,
+				"repo": meta.get("name"),
 				"stars": meta.get("stars", 0),
 				"pushed_at": pushed_at_iso,
 				"fetched_at": now.isoformat(),
@@ -246,7 +250,6 @@ def main() -> None:
 		last_update_dt = now
 	last_update_human = humanize_since(last_update_dt, now)
 	total_runtime_human = humanize_duration(int((now - project_start).total_seconds()))
-
 	output_text = output_text.replace("$LAST_UPDATE", last_update_human)
 	output_text = output_text.replace("$RUNNING_TIME", total_runtime_human)
 
