@@ -9,13 +9,14 @@
 # Contents
 - [General](#general)
 - [Tools](#tools)
+- [Status Trackers](#status-trackers)
 - [Modding Frameworks](#modding-frameworks)
 - [Development Resources](#development-resources)
 - [Communities](#communities)
 
 # General
 - **[Source2 Wiki](https://source2.wiki)**\
-  *An actively maintained source2 wiki, where you can learn information about workshop tools.*
+  *An actively maintained source2 wiki, where you can learn information about workshop tools and entities.*
 
 - **[cs2browser.net](https://cs2browser.net)**\
   *A clean and live cs2 community server browser without fake servers and advertisements.*
@@ -33,6 +34,17 @@
 
 - **[Schema Dumper](https://github.com/GAMMACASE/Source2SchemaDumper)**\
   *A metamod plugin for dumping schemas from game binary, and also able to generate a header file that can be imported in IDA for reverse engineering.*
+
+- **[DepotDownloader](https://github.com/SteamRE/DepotDownloader)**\
+  *A tool to download game files of a specific version.*
+
+# Status Trackers
+
+- **[SteamDB](https://steamdb.info/app/730/charts/)**\
+  *A website tracking steam games information.*
+
+- **[cs2-signatures](https://github.com/ianlucas/cs2-signatures)**\
+  *A github repo for tracking gamedata status after a game update.*
 
 # Modding Frameworks
 - **[Metamod](https://github.com/alliedmodders/metamod-source)** [[Website](https://www.sourcemm.net/downloads.php?branch=dev)] [[Discord](https://discord.com/invite/HUc67zN)]\
@@ -82,6 +94,9 @@ These are the websites with resources that you might need to check during develo
 
 - **[HL2SDK Wend4r's fork](https://github.com/Wend4r/sourcesdk)**\
   *A fork of hl2sdk, if there's a game update, you might find what have changed in here or in pull requests.*
+
+- **[cs2.poggu.me](https://cs2.poggu.me/)**\
+  *A general information website made by poggu.*
 
 # Communities
 - **[Alliedmodders Discord](https://discord.com/invite/HUc67zN)**\
