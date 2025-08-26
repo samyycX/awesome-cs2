@@ -133,6 +133,9 @@ These are the websites with resources that you might need to check during develo
 - **[bbs.csgocn.net](https://bbs.csgocn.net/)**\
   *A Chinese forum for cs2 server development.*
 
+- **[hlmod.net](https://hlmod.net/)**\
+  *A Russian forum for source games development.*
+
 # Contributions
 This project is a free and open-source project. We welcome any community resource websites/repositories/plugins, regardless of their popularity.\
 Please feel free to submit pull requests or issues, we need your contributions!
