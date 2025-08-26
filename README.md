@@ -1,7 +1,7 @@
 <div align="center" style="text-align: center">
 <h3>Awesome CS2</h3>
 <p>
-  This project is an awesome list for all available cs2 server development information, including modding frameworks, development resources and plugins.
+  An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 
 </div>
