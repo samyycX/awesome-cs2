@@ -102,6 +102,9 @@ These are the websites with resources that you might need to check during develo
 - **[HL2SDK Wend4r's fork](https://github.com/Wend4r/sourcesdk)**\
   *A fork of hl2sdk, if there's a game update, you might find what have changed in here or in pull requests.*
 
+- **[cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src)**\
+  *CSGO Leaked source code in 2020, cs2 is still using some codes from it.*
+
 - **[cs2.poggu.me](https://cs2.poggu.me/)**\
   *A general information website made by poggu.*
 
