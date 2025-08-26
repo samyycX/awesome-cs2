@@ -95,4 +95,6 @@ These are the websites with resources that you might need to check during develo
 
 - **[Plugify Discord](https://discord.gg/untrustedmodders)**\
   *Official discord for plugify, you can find plugify plugins, code snippets, and discuss about plugify modding framework here.*
-  
+
+- **[bbs.csgocn.net](https://bbs.csgocn.net/)**\
+  *A Chinese forum for cs2 server development.*
