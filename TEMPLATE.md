@@ -19,8 +19,9 @@
 - [Modding Frameworks](#modding-frameworks)
 - [Development Resources](#development-resources)
 - [Communities](#communities)
-- [Metamod Plugins](#metamod-plugins)
-- [CounterStrikeSharp Plugins](#counterstrikesharp-plugins)
+- [Plugins](#plugins)
+  - [Metamod Plugins](#metamod-plugins)
+  - [CounterStrikeSharp Plugins](#counterstrikesharp-plugins)
 - [Contributions](#contributions)
 
 # General
@@ -147,11 +148,13 @@ These are the websites with resources that you might need to check during develo
 - **[hlmod.net](https://hlmod.net/)**\
   *A Russian forum for source games development.*
 
-# Metamod Plugins
+# Plugins
+
+## Metamod Plugins
 
 $METAMOD_PLUGINS
 
-# CounterStrikeSharp Plugins
+## CounterStrikeSharp Plugins
 
 $COUNTERSTRIKESHARP_PLUGINS
 
