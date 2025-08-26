@@ -4,10 +4,10 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  $LAST_UPDATE
+  Last Sync: **$LAST_UPDATE**
 </p>
 <p>
-  $RUNNING_TIME
+  Project Uptime: **$RUNNING_TIME**
 </p>
 
 </div>
@@ -20,6 +20,7 @@
 - [Development Resources](#development-resources)
 - [Communities](#communities)
 - [Metamod Plugins](#metamod-plugins)
+- [CounterStrikeSharp Plugins](#counterstrikesharp-plugins)
 - [Contributions](#contributions)
 
 # General
@@ -149,6 +150,10 @@ These are the websites with resources that you might need to check during develo
 # Metamod Plugins
 
 $METAMOD_PLUGINS
+
+# CounterStrikeSharp Plugins
+
+$COUNTERSTRIKESHARP_PLUGINS
 
 # Contributions
 This project is a free and open-source project. We welcome any community resource websites/repositories/plugins, regardless of their popularity.\
