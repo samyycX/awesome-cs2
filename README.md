@@ -13,6 +13,7 @@
 - [Modding Frameworks](#modding-frameworks)
 - [Development Resources](#development-resources)
 - [Communities](#communities)
+- [Contributions](#contributions)
 
 # General
 - **[Source2 Wiki](https://source2.wiki)**\
@@ -125,3 +126,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[bbs.csgocn.net](https://bbs.csgocn.net/)**\
   *A Chinese forum for cs2 server development.*
+
+# Contributions
+This project is a free and open-source project. We welcome any community resource websites/repositories/plugins, regardless of their popularity.\
+Please feel free to submit pull requests or issues, we need your contributions!
