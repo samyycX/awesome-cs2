@@ -4,10 +4,10 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: **$LAST_UPDATE**
+  Last Sync: <strong>$LAST_UPDATE</strong>
 </p>
 <p>
-  Project Uptime: **$RUNNING_TIME**
+  Project Uptime: <strong>$RUNNING_TIME</strong>
 </p>
 
 </div>
