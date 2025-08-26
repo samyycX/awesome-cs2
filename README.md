@@ -25,6 +25,9 @@
   *Valve's official documentation for cs2 and other source games.*\
   ***Not recommended for checking cs2 information, most of them are outdated or absent.***
 
+- **[gamebanana.net](https://gamebanana.com/games/18134)**\
+  *A workshop resource website that contains cs2 models, maps and etc.*
+
 # Tools
 - **[Source2Viewer](https://s2v.app/)**\
   *A powerful tool to unpack and decompile resources from vpk files.*
