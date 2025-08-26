@@ -92,6 +92,9 @@ These are the websites with resources that you might need to check during develo
 - **[gdc.eternar.dev](https://gdc.eternar.dev)**\
   *A online gamedata tracker and validator, maintaining an active list for function signatures and offsets. If there's an game update that break your server, you might find the new gamedata here.*
 
+- **[wiki.alliedmods.net](https://wiki.alliedmods.net/)**\
+  *Alliedmodders' wiki. You can find documentation about metamod, ambuild and sourcehook development here.*
+
 - **[HL2SDK](https://github.com/alliedmodders/hl2sdk/tree/cs2)**\
   *Actively maintained SDK for cs2.*
 
