@@ -42,6 +42,9 @@
 - **[DepotDownloader](https://github.com/SteamRE/DepotDownloader)**\
   *A tool to download game files of a specific version.*
 
+- **[PltPatcher](https://github.com/GAMMACASE/PltPatcher)**\
+  *A IDA python plugin to patch plt sections when IDA fails to do so automatically, you might encounter such problem when decompiling linux binaries, made by GAMMACASE.*
+
 # Status Trackers
 
 - **[SteamDB](https://steamdb.info/app/730/charts/)**\
