@@ -8,6 +8,7 @@ on:
   pull_request:
     branches: [ master ]
     types: [ closed ]
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -51,5 +52,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md current.tag data/
-          git commit -m "chore: update README and data"
+          git commit -m "Auto update"
           git push 
