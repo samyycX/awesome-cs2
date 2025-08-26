@@ -111,6 +111,9 @@ These are the websites with resources that you might need to check during develo
 - **[CounterStrikeSharp Discord](https://discord.com/invite/eAZU3guKWU)**\
   *Official discord for counterstrikesharp, you can find plugins, code snippets and development discussion here.*
 
+- **[ModSharp Discord](https://discord.gg/wKarAjHm2G)**\
+  *Official discord for modsharp, which is a currently unreleased modding framework.*
+
 - **[Swiftly Discord](https://discord.com/invite/Yv7hAM6erd)**\
   *Official discord for swiftly, you can find swiftly plugins, code snippets, and discuss about swiftly modding framework here.*
 
