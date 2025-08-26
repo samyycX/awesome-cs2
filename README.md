@@ -8,15 +8,32 @@
 
 # Contents
 - [General](#general)
+- [Tools](#tools)
 - [Modding Frameworks](#modding-frameworks)
+- [Development Resources](#development-resources)
+- [Communities](#communities)
 
 # General
+- **[Source2 Wiki](https://source2.wiki)**\
+  *An actively maintained source2 wiki, where you can learn information about workshop tools.*
+
 - **[cs2browser.net](https://cs2browser.net)**\
   *A clean and live cs2 community server browser without fake servers and advertisements.*
 
+- **[Valve Official Documentation](https://developer.valvesoftware.com/)**\
+  *Valve's official documentation for cs2 and other source games.*\
+  ***Not recommended for checking cs2 information, most of them are outdated or absent.***
+
+# Tools
+- **[Source2Viewer](https://s2v.app/)**\
+  *A powerful tool to unpack and decompile resources from vpk files.*
+
+- **[VPulse Editor](https://github.com/LionDoge/vpulse-editor)**\
+  *A visual programming tool to write the vpulse script, which is a new unreleased visualized script system for source2 to replace vscript.*
+  
 # Modding Frameworks
 - **[Metamod](https://github.com/alliedmodders/metamod-source)** [[Website](https://www.sourcemm.net/downloads.php?branch=dev)] [[Discord](https://discord.com/invite/HUc67zN)]\
-  *The cobblestone of all of the current open source framework since source1, written in C++, hard to develop but have access to fundamental things*\
+  *The cobblestone of all of the current open source framework since source1, written in C++, hard to develop but have access to fundamental things.*\
   ***Please notice that it's the dev branch that support cs2, make sure you download the right version.***
   
 - **[CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)** [[Website](https://docs.cssharp.dev/)] [[Discord](https://discord.com/invite/eAZU3guKWU)]\
@@ -29,4 +46,53 @@
 - **[Plugify](https://github.com/untrustedmodders/plugify)** [[Website](https://plugify.net)] [[Discord](https://discord.gg/untrustedmodders)]\
   *A modding framework that support tons of programming languages, more information can be found in there discord channel and website.*
 
-# Developments
+# Development Resources
+These are the websites with resources that you might need to check during development.
+
+- **[ConVars](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/convars.txt)**\
+  *A list of all cs2 convars, directly dumped from latest cs2 binary.*
+
+- **[Commands](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/commands.txt)**\
+  *A list of all cs2 commands, directly dumped from latest cs2 binary.*
+
+- **[Game Events](https://cs2.poggu.me/dumped-data/game-events)**\
+  *A list of all cs2 game events.*\
+  *The data might be outdated, if so, you can find the latest ones here:*\
+  *[core.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/core/pak01_dir/resource/core.gameevents)*
+  *[game.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/game.gameevents)*
+  *[mod.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/mod.gameevents)*
+
+- **[Schemas](https://github.com/SteamDatabase/GameTracking-CS2/tree/master/DumpSource2/schemas)**\
+  *A list of all cs2 schema classes and fields, directly dumped from latest cs2 binary.*
+
+- **[Entities](https://source2.wiki)**\
+  *A list of all cs2 entities.*
+
+- **[Protobufs](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/Protobufs)**\
+  *A list of all cs2 protobuf definitions.*
+
+- **[gdc.eternal.dev](https://gdc.eternal.dev)**\
+  *A online gamedata tracker and validator, maintaining an active list for function signatures and offsets. If there's an game update that break your server, you might find the new gamedata here.*
+
+- **[HL2SDK](https://github.com/alliedmodders/hl2sdk/tree/cs2)**\
+  *Actively maintained SDK for cs2.*
+
+- **[HL2SDK Wend4r's fork](https://github.com/Wend4r/sourcesdk)**\
+  *A fork of hl2sdk, if there's a game update, you might find what have changed in here or in pull requests.*
+
+# Communities
+- **[Alliedmodders Discord](https://discord.com/invite/HUc67zN)**\
+  *Official discord for alliedmodders, you can find discussions about metamod and sdk here.*
+
+- **[Source2ZE Discord](https://discord.gg/QsSGf9ZEVs)**\
+  *Official discord for source2ze community, mainly targeting workshop developers, you can find discussions including maps, models and cs2fixes here.*
+
+- **[CounterStrikeSharp Discord](https://discord.com/invite/eAZU3guKWU)**\
+  *Official discord for counterstrikesharp, you can find plugins, code snippets and development discussion here.*
+
+- **[Swiftly Discord](https://discord.com/invite/Yv7hAM6erd)**\
+  *Official discord for swiftly, you can find swiftly plugins, code snippets, and discuss about swiftly modding framework here.*
+
+- **[Plugify Discord](https://discord.gg/untrustedmodders)**\
+  *Official discord for plugify, you can find plugify plugins, code snippets, and discuss about plugify modding framework here.*
+  
