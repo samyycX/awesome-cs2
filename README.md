@@ -105,6 +105,9 @@ These are the websites with resources that you might need to check during develo
 - **[cs2.poggu.me](https://cs2.poggu.me/)**\
   *A general information website made by poggu.*
 
+- **[Source2ZE Map Porting Guide](https://docs.google.com/document/d/1buKzjP-2com9GcXVxCfyRBi6sDiKmzMoVy9RNbYQqIo)**\
+  *A guide about porting map from csgo, written by s2ze community.*
+
 # Communities
 - **[Alliedmodders Discord](https://discord.com/invite/HUc67zN)**\
   *Official discord for alliedmodders, you can find discussions about metamod and sdk here.*
