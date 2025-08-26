@@ -4,10 +4,10 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>1 minute ago</strong>
+  Last Sync: <strong>2 minutes ago</strong>
 </p>
 <p>
-  Project Uptime: <strong>50 minutes</strong>
+  Project Uptime: <strong>52 minutes</strong>
 </p>
 
 </div>
@@ -19,8 +19,9 @@
 - [Modding Frameworks](#modding-frameworks)
 - [Development Resources](#development-resources)
 - [Communities](#communities)
-- [Metamod Plugins](#metamod-plugins)
-- [CounterStrikeSharp Plugins](#counterstrikesharp-plugins)
+- [Plugins](#plugins)
+  - [Metamod Plugins](#metamod-plugins)
+  - [CounterStrikeSharp Plugins](#counterstrikesharp-plugins)
 - [Contributions](#contributions)
 
 # General
@@ -147,13 +148,15 @@ These are the websites with resources that you might need to check during develo
 - **[hlmod.net](https://hlmod.net/)**\
   *A Russian forum for source games development.*
 
-# Metamod Plugins
+# Plugins
+
+## Metamod Plugins
 
 | Repository | Description | Stars | Last Active |
 | --- | --- | --- | --- |
 | [Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes) | A plugin with tons of fixes and features aimed but not limited to zombie escape. | 316 | 3 days ago |
 
-# CounterStrikeSharp Plugins
+## CounterStrikeSharp Plugins
 
 | Repository | Description | Stars | Last Active |
 | --- | --- | --- | --- |
