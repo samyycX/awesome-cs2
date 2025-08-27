@@ -393,9 +393,9 @@ def main() -> None:
 		last_update_dt = datetime.fromisoformat(last_update_iso)
 	except Exception:
 		last_update_dt = now
-	last_update_human = humanize_since(last_update_dt, now)
+	last_update_abs = last_update_dt.astimezone(timezone.utc).strftime("%Y/%m/%d %H:%M:%S")
 	total_runtime_human = humanize_duration(int((now - project_start).total_seconds()))
-	output_text = output_text.replace("$LAST_UPDATE", last_update_human)
+	output_text = output_text.replace("$LAST_UPDATE", last_update_abs)
 	output_text = output_text.replace("$RUNNING_TIME", total_runtime_human)
 
 	# Write README

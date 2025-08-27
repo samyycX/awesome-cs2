@@ -4,10 +4,10 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>7 minutes ago</strong>
+  Last Sync: <strong>2025/08/27 11:00:25</strong>
 </p>
 <p>
-  Project Uptime: <strong>14 hours</strong>
+  Project Uptime: <strong>15 hours</strong>
 </p>
 
 </div>
@@ -156,7 +156,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 316<br>
-  ⏱️ updated 6 hours ago<br>
+  ⏱️ updated 7 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -279,7 +279,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 26<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 3 weeks ago<br>
   *Notify players about entity interactions.*
 
 - **[schwarper/CS2TraceRay](https://github.com/schwarper/CS2TraceRay)**<br>
@@ -324,7 +324,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[schwarper/cs2-anticheat](https://github.com/schwarper/cs2-anticheat)**<br>
   ⭐ 14<br>
-  ⏱️ updated 15 hours ago<br>
+  ⏱️ updated 16 hours ago<br>
   *cs2-anticheat is an anti-cheat system in development for CounterStrike 2.*
 
 - **[K4ryuu/K4-AlwaysWeaponSkins](https://github.com/K4ryuu/K4-AlwaysWeaponSkins)**<br>
@@ -379,7 +379,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds)**<br>
   ⭐ 3<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *This plugin allows for server owners to create billboard type advertisements that are placed on wall.*
 
 - **[zakriamansoor47/SLAYER_Revive](https://github.com/zakriamansoor47/SLAYER_Revive)**<br>
@@ -394,7 +394,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[TICHOJEBEC-SK/cs2-WarnSystem](https://github.com/TICHOJEBEC-SK/cs2-WarnSystem)**<br>
   ⭐ 1<br>
-  ⏱️ updated 14 hours ago<br>
+  ⏱️ updated 15 hours ago<br>
   *A plugin that allows admins to warn players.*
 
 
