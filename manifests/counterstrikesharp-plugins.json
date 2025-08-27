@@ -1,10 +1,62 @@
 [
   {
     "repo": "samyycX/CSSharpPatcher",
-    "description": "A plugin with various patches for cs2."
+    "desc": "A plugin with various patches for cs2."
   },
   {
     "repo": "samyycX/CS2-PlayerModelChanger",
-    "description": "A cssharp plugin to change player models."
+    "desc": "A cssharp plugin to change player models."
+  },
+  {
+    "repo": "daffyyyy/CS2-SimpleAdmin",
+    "desc": "Manage your Counter-Strike 2 server with simple commands!"
+  },
+  {
+    "repo": "daffyyyy/CS2-Tags",
+    "desc": "Adds tags to the server that can be easily edited, tags can be assigned via permission or steamid64."
+  },
+  {
+    "repo": "Nereziel/cs2-WeaponPaints",
+    "desc": "A plugin to change weapon paints, gloves, agents and etc."
+  },
+  {
+    "repo": "samyycX/CS2-SkyboxChanger",
+    "desc": "A plugin allow player to change their own skybox material, color and brightness on every map dynamically and seamlessly."
+  },
+  {
+    "repo": "NockyCZ/CS2-Deathmatch",
+    "desc": "A plugin to implement deathmatch gamemode."
+  },
+  {
+    "repo": "b3none/cs2-retakes",
+    "desc": "CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis."
+  },
+  {
+    "repo": "schwarper/cs2-anticheat",
+    "desc": "cs2-anticheat is an anti-cheat system in development for CounterStrike 2."
+  },
+  {
+    "repo": "TICHOJEBEC-SK/cs2-WarnSystem",
+    "desc": "A plugin that allows admins to warn players."
+  },
+  {
+    "repo": "T3Marius/T3Menu-API",
+    "desc": "T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons."
+  },
+  {
+    "repo": "schwarper/CS2TraceRay",
+    "desc": "A trace ray library developed for use in Counter Strike 2, in conjunction with the CounterStrikeSharp API. This enables the use of trace ray with TraceMask, Contents and skip enums."
+  },
+  {
+    "repo": "schwarper/cs2-store",
+    "desc": "A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store."
+  },
+  {
+    "repo": "schwarper/CS2MenuManager",
+    "desc": "CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library."
+  },
+  {
+    "repo": "schwarper/cs2-tags",
+    "desc": "A tag plugin designed to enhance your CS2 experience with a dynamic tagging system. Customise and manage player tags effortlessly for a more interactive and engaging game environment."
   }
 ]

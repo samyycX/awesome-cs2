@@ -1,6 +1,6 @@
 [
   {
     "repo": "swiftly-solution/admins",
-    "description": "A simple plugin for swiftly that implements an admin system."
+    "desc": "A simple plugin for swiftly that implements an admin system."
   }
 ]
