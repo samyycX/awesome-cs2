@@ -164,5 +164,10 @@ $COUNTERSTRIKESHARP_PLUGINS
 $SWIFTLY_PLUGINS
 
 # Contributions
-This project is a free and open-source project. We welcome any community resource websites/repositories/plugins, regardless of their popularity.\
+
+## Rules
+- Plugin must be open source
+- Plugin must be functioning
+
+This project is a free and open-source project. We welcome any community resource websites/repositories/plugins as long as they follow the rules above, regardless of their popularity.\
 Please feel free to submit pull requests or issues, we need your contributions!
