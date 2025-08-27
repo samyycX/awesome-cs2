@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>17 minutes ago</strong>
+  Last Sync: <strong>23 minutes ago</strong>
 </p>
 <p>
   Project Uptime: <strong>12 hours</strong>
@@ -155,7 +155,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 316<br>
-  ⏱️ updated 3 hours ago<br>
+  ⏱️ updated 4 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -216,8 +216,13 @@ These are the websites with resources that you might need to check during develo
 
 ## CounterStrikeSharp Plugins
 
+- **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy)**<br>
+  ⭐ 368<br>
+  ⏱️ updated 2 days ago<br>
+  *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
+
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
-  ⭐ 312<br>
+  ⭐ 313<br>
   ⏱️ updated 1 week ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
@@ -246,10 +251,20 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 week ago<br>
   *A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.*
 
+- **[partiusfabaa/cs2-ranks](https://github.com/partiusfabaa/cs2-ranks)**<br>
+  ⭐ 60<br>
+  ⏱️ updated 3 weeks ago<br>
+  *Each player is assigned a rank based on their accumulated experience points. Ranks range from "None" to the prestigious "The Global Elite."*
+
 - **[daffyyyy/CS2-Tags](https://github.com/daffyyyy/CS2-Tags)**<br>
   ⭐ 52<br>
   ⏱️ updated 1 year ago<br>
   *Adds tags to the server that can be easily edited, tags can be assigned via permission or steamid64.*
+
+- **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
+  ⭐ 50<br>
+  ⏱️ updated 1 week ago<br>
+  *This plugin allows players to use Emotes & Dances just like Fortnite.*
 
 - **[schwarper/cs2-tags](https://github.com/schwarper/cs2-tags)**<br>
   ⭐ 41<br>
@@ -261,30 +276,90 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 3 weeks ago<br>
   *CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.*
 
+- **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
+  ⭐ 26<br>
+  ⏱️ updated 2 weeks ago<br>
+  *Notify players about entity interactions.*
+
 - **[schwarper/CS2TraceRay](https://github.com/schwarper/CS2TraceRay)**<br>
   ⭐ 20<br>
   ⏱️ updated 1 day ago<br>
   *A trace ray library developed for use in Counter Strike 2, in conjunction with the CounterStrikeSharp API. This enables the use of trace ray with TraceMask, Contents and skip enums.*
+
+- **[qstage/CS2-HidePlayers](https://github.com/qstage/CS2-HidePlayers)**<br>
+  ⭐ 20<br>
+  ⏱️ updated 3 days ago<br>
+  *Allows you to hide player models.*
+
+- **[KillStr3aK/CS2-AntiDLL](https://github.com/KillStr3aK/CS2-AntiDLL)**<br>
+  ⭐ 19<br>
+  ⏱️ updated 4 months ago<br>
+  *This plugin is similar to the CS:GO version.*
+
+- **[Cruze03/Clientprefs](https://github.com/Cruze03/Clientprefs)**<br>
+  ⭐ 19<br>
+  ⏱️ updated 1 week ago<br>
+  *This plugin exposes some natives for developers to save player data to SQLite / MySQL without actually adding sql code to your plugin giving developers easy access to save player cookie to database.*
 
 - **[samyycX/CS2-SkyboxChanger](https://github.com/samyycX/CS2-SkyboxChanger)**<br>
   ⭐ 17<br>
   ⏱️ updated 2 weeks ago<br>
   *A plugin allow player to change their own skybox material, color and brightness on every map dynamically and seamlessly.*
 
+- **[qstage/CS2-FixRandomSpawn](https://github.com/qstage/CS2-FixRandomSpawn)**<br>
+  ⭐ 16<br>
+  ⏱️ updated 3 days ago<br>
+  *Fixes convar `mp_randomspawn` for any game mode.*
+
+- **[phara1/advanced-ff-cs2](https://github.com/phara1/advanced-ff-cs2)**<br>
+  ⭐ 15<br>
+  ⏱️ updated 1 week ago<br>
+  *This plugin implements advanced control of friendly fire.*
+
 - **[schwarper/cs2-anticheat](https://github.com/schwarper/cs2-anticheat)**<br>
   ⭐ 14<br>
-  ⏱️ updated 12 hours ago<br>
+  ⏱️ updated 13 hours ago<br>
   *cs2-anticheat is an anti-cheat system in development for CounterStrike 2.*
+
+- **[K4ryuu/K4-AlwaysWeaponSkins](https://github.com/K4ryuu/K4-AlwaysWeaponSkins)**<br>
+  ⭐ 12<br>
+  ⏱️ updated 6 days ago<br>
+  *This plugin enhances weapon skin visibility by ensuring your equipped Steam inventory skins are displayed consistently across both teams.*
 
 - **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
   ⭐ 11<br>
   ⏱️ updated 17 hours ago<br>
   *T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.*
 
+- **[T3Marius/MVP-Anthem](https://github.com/T3Marius/MVP-Anthem)**<br>
+  ⭐ 9<br>
+  ⏱️ updated 2 days ago<br>
+  *A plugin that add custom mvp sound to the game.*
+
 - **[samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher)**<br>
   ⭐ 8<br>
   ⏱️ updated 1 week ago<br>
   *A plugin with various patches for cs2.*
+
+- **[darkerz7/CS2-HideTeammates](https://github.com/darkerz7/CS2-HideTeammates)**<br>
+  ⭐ 8<br>
+  ⏱️ updated 1 week ago<br>
+  *Hides Teammates on the entire map or distance.*
+
+- **[darkerz7/CS2-EntityFix](https://github.com/darkerz7/CS2-EntityFix)**<br>
+  ⭐ 7<br>
+  ⏱️ updated 2 weeks ago<br>
+  *Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.*
+
+- **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds)**<br>
+  ⭐ 3<br>
+  ⏱️ updated 1 day ago<br>
+  *This plugin allows for server owners to create billboard type advertisements that are placed on wall.*
+
+- **[TICHOJEBEC-SK/cs2-WeaponRestrict](https://github.com/TICHOJEBEC-SK/cs2-WeaponRestrict)**<br>
+  ⭐ 2<br>
+  ⏱️ updated 1 week ago<br>
+  *A plugin that lets you restrict weapons by rules.*
 
 - **[TICHOJEBEC-SK/cs2-WarnSystem](https://github.com/TICHOJEBEC-SK/cs2-WarnSystem)**<br>
   ⭐ 1<br>
