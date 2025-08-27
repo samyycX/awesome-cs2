@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>10 minutes ago</strong>
+  Last Sync: <strong>7 minutes ago</strong>
 </p>
 <p>
   Project Uptime: <strong>14 hours</strong>
