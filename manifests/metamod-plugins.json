@@ -46,5 +46,9 @@
   {
     "repo": "Cruze03/FakeRanks-RevealAll",
     "desc": "A metamod plugin that reveals ranks of all players in server for player who presses tab."
+  },
+  {
+    "repo": "KZGlobalTeam/cs2kz-metamod",
+    "desc": "KZ plugin for cs2. WIP, not ready for release."
   }
 ]
