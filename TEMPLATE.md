@@ -171,7 +171,7 @@ $CONTRIBUTORS
 # Contributing
 
 ## How to add plugins
-Add an entry in `manifests/xxx.json` and follow the same format as the other entries, the github workflow will auto update the `README.md`.
+You only need to add an entry in `manifests/xxx.json` and follow the same format as the other entries.
 
 ## Rules
 - Plugin must be open source
