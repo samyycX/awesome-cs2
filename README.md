@@ -4,10 +4,10 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>16 minutes ago</strong>
+  Last Sync: <strong>17 minutes ago</strong>
 </p>
 <p>
-  Project Uptime: <strong>11 hours</strong>
+  Project Uptime: <strong>12 hours</strong>
 </p>
 
 </div>
@@ -216,15 +216,80 @@ These are the websites with resources that you might need to check during develo
 
 ## CounterStrikeSharp Plugins
 
+- **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
+  ⭐ 312<br>
+  ⏱️ updated 1 week ago<br>
+  *A plugin to change weapon paints, gloves, agents and etc.*
+
+- **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
+  ⭐ 278<br>
+  ⏱️ updated 5 days ago<br>
+  *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
+
+- **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
+  ⭐ 148<br>
+  ⏱️ updated 3 days ago<br>
+  *Manage your Counter-Strike 2 server with simple commands!*
+
 - **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)**<br>
   ⭐ 105<br>
   ⏱️ updated 7 months ago<br>
   *A cssharp plugin to change player models.*
 
+- **[NockyCZ/CS2-Deathmatch](https://github.com/NockyCZ/CS2-Deathmatch)**<br>
+  ⭐ 101<br>
+  ⏱️ updated 3 weeks ago<br>
+  *A plugin to implement deathmatch gamemode.*
+
+- **[schwarper/cs2-store](https://github.com/schwarper/cs2-store)**<br>
+  ⭐ 66<br>
+  ⏱️ updated 1 week ago<br>
+  *A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.*
+
+- **[daffyyyy/CS2-Tags](https://github.com/daffyyyy/CS2-Tags)**<br>
+  ⭐ 52<br>
+  ⏱️ updated 1 year ago<br>
+  *Adds tags to the server that can be easily edited, tags can be assigned via permission or steamid64.*
+
+- **[schwarper/cs2-tags](https://github.com/schwarper/cs2-tags)**<br>
+  ⭐ 41<br>
+  ⏱️ updated 2 weeks ago<br>
+  *A tag plugin designed to enhance your CS2 experience with a dynamic tagging system. Customise and manage player tags effortlessly for a more interactive and engaging game environment.*
+
+- **[schwarper/CS2MenuManager](https://github.com/schwarper/CS2MenuManager)**<br>
+  ⭐ 35<br>
+  ⏱️ updated 3 weeks ago<br>
+  *CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.*
+
+- **[schwarper/CS2TraceRay](https://github.com/schwarper/CS2TraceRay)**<br>
+  ⭐ 20<br>
+  ⏱️ updated 1 day ago<br>
+  *A trace ray library developed for use in Counter Strike 2, in conjunction with the CounterStrikeSharp API. This enables the use of trace ray with TraceMask, Contents and skip enums.*
+
+- **[samyycX/CS2-SkyboxChanger](https://github.com/samyycX/CS2-SkyboxChanger)**<br>
+  ⭐ 17<br>
+  ⏱️ updated 2 weeks ago<br>
+  *A plugin allow player to change their own skybox material, color and brightness on every map dynamically and seamlessly.*
+
+- **[schwarper/cs2-anticheat](https://github.com/schwarper/cs2-anticheat)**<br>
+  ⭐ 14<br>
+  ⏱️ updated 12 hours ago<br>
+  *cs2-anticheat is an anti-cheat system in development for CounterStrike 2.*
+
+- **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
+  ⭐ 11<br>
+  ⏱️ updated 17 hours ago<br>
+  *T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.*
+
 - **[samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher)**<br>
   ⭐ 8<br>
   ⏱️ updated 1 week ago<br>
   *A plugin with various patches for cs2.*
+
+- **[TICHOJEBEC-SK/cs2-WarnSystem](https://github.com/TICHOJEBEC-SK/cs2-WarnSystem)**<br>
+  ⭐ 1<br>
+  ⏱️ updated 11 hours ago<br>
+  *A plugin that allows admins to warn players.*
 
 
 ## Swiftly Plugins
