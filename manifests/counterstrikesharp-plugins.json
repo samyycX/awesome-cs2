@@ -58,5 +58,65 @@
   {
     "repo": "schwarper/cs2-tags",
     "desc": "A tag plugin designed to enhance your CS2 experience with a dynamic tagging system. Customise and manage player tags effortlessly for a more interactive and engaging game environment."
+  },
+  {
+    "repo": "shobhit-pathak/MatchZy",
+    "desc": "MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!"
+  },
+  {
+    "repo": "T3Marius/MVP-Anthem",
+    "desc": "A plugin that add custom mvp sound to the game."
+  },
+  {
+    "repo": "Cruze03/FortniteEmotesNDances",
+    "desc": "This plugin allows players to use Emotes & Dances just like Fortnite."
+  },
+  {
+    "repo": "Letaryat/CS2-Poor-MapPropAds",
+    "desc": "This plugin allows for server owners to create billboard type advertisements that are placed on wall."
+  },
+  {
+    "repo": "phara1/advanced-ff-cs2",
+    "desc": "This plugin implements advanced control of friendly fire."
+  },
+  {
+    "repo": "TICHOJEBEC-SK/cs2-WeaponRestrict",
+    "desc": "A plugin that lets you restrict weapons by rules."
+  },
+  {
+    "repo": "KillStr3aK/CS2-AntiDLL",
+    "desc": "This plugin is similar to the CS:GO version."
+  },
+  {
+    "repo": "qstage/CS2-FixRandomSpawn",
+    "desc": "Fixes convar `mp_randomspawn` for any game mode."
+  },
+  {
+    "repo": "K4ryuu/K4-AlwaysWeaponSkins",
+    "desc": "This plugin enhances weapon skin visibility by ensuring your equipped Steam inventory skins are displayed consistently across both teams."
+  },
+  {
+    "repo": "qstage/CS2-HidePlayers",
+    "desc": "Allows you to hide player models."
+  },
+  {
+    "repo": "partiusfabaa/cs2-ranks",
+    "desc": "Each player is assigned a rank based on their accumulated experience points. Ranks range from \"None\" to the prestigious \"The Global Elite.\""
+  },
+  {
+    "repo": "Cruze03/Clientprefs",
+    "desc": "This plugin exposes some natives for developers to save player data to SQLite / MySQL without actually adding sql code to your plugin giving developers easy access to save player cookie to database."
+  },
+  {
+    "repo": "darkerz7/CS2-EntityFix",
+    "desc": "Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes."
+  },
+  {
+    "repo": "darkerz7/EntWatchSharp",
+    "desc": "Notify players about entity interactions."
+  },
+  {
+    "repo": "darkerz7/CS2-HideTeammates",
+    "desc": "Hides Teammates on the entire map or distance."
   }
 ]
