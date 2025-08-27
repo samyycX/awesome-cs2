@@ -337,7 +337,7 @@ def main() -> None:
 					"type": c.get("type") or "User",
 				}
 		sorted_contribs = sorted(login_to_contributor.values(), key=lambda d: str(d.get("login", "")).lower())
-		placeholder_to_table["$CONTRIBUTORS"] = build_contributors_table(sorted_contribs, columns=10)
+		placeholder_to_table["$CONTRIBUTORS"] = build_contributors_table(sorted_contribs, columns=5)
 		# Persist raw contributors list
 		write_json_file(DATA_DIR / "contributors.json", {
 			"generated_at": now.isoformat(),
