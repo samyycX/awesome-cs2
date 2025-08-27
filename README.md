@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>8 minutes ago</strong>
+  Last Sync: <strong>9 minutes ago</strong>
 </p>
 <p>
   Project Uptime: <strong>14 hours</strong>
@@ -307,6 +307,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 2 weeks ago<br>
   *A plugin allow player to change their own skybox material, color and brightness on every map dynamically and seamlessly.*
 
+- **[zakriamansoor47/SLAYER_Duel](https://github.com/zakriamansoor47/SLAYER_Duel)**<br>
+  ⭐ 16<br>
+  ⏱️ updated 1 week ago<br>
+  *This Plugin allows Players to do 1vs1 Duel*
+
 - **[qstage/CS2-FixRandomSpawn](https://github.com/qstage/CS2-FixRandomSpawn)**<br>
   ⭐ 16<br>
   ⏱️ updated 3 days ago<br>
@@ -332,6 +337,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 19 hours ago<br>
   *T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.*
 
+- **[zakriamansoor47/SLAYER_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp)**<br>
+  ⭐ 9<br>
+  ⏱️ updated 4 months ago<br>
+  *This Plugin Detect player who is camping for a specific time.*
+
 - **[T3Marius/MVP-Anthem](https://github.com/T3Marius/MVP-Anthem)**<br>
   ⭐ 9<br>
   ⏱️ updated 2 days ago<br>
@@ -347,15 +357,35 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 week ago<br>
   *Hides Teammates on the entire map or distance.*
 
+- **[zakriamansoor47/SLAYER_UnrestrictedFOV](https://github.com/zakriamansoor47/SLAYER_UnrestrictedFOV)**<br>
+  ⭐ 7<br>
+  ⏱️ updated 4 months ago<br>
+  *This simple plugin allow players to Change their FOV. Ported this plugin*
+
 - **[darkerz7/CS2-EntityFix](https://github.com/darkerz7/CS2-EntityFix)**<br>
   ⭐ 7<br>
   ⏱️ updated 2 weeks ago<br>
   *Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.*
 
+- **[zakriamansoor47/SLAYER_HeadshotOnly](https://github.com/zakriamansoor47/SLAYER_HeadshotOnly)**<br>
+  ⭐ 5<br>
+  ⏱️ updated 4 months ago<br>
+  *This plugin enables Headshot Only to all players OR Enables Headshot Only on Players themselves by using Public Command !hs.*
+
+- **[zakriamansoor47/SLAYER_Noscope](https://github.com/zakriamansoor47/SLAYER_Noscope)**<br>
+  ⭐ 5<br>
+  ⏱️ updated 4 months ago<br>
+  *This is my first plugin for CounterStrikeSharp. This plugin disables Scope of Scope Weapons like AWP, scout, etc..*
+
 - **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds)**<br>
   ⭐ 3<br>
   ⏱️ updated 1 day ago<br>
   *This plugin allows for server owners to create billboard type advertisements that are placed on wall.*
+
+- **[zakriamansoor47/SLAYER_Revive](https://github.com/zakriamansoor47/SLAYER_Revive)**<br>
+  ⭐ 2<br>
+  ⏱️ updated 5 days ago<br>
+  *Revive teammates with 'E' (+use button)*
 
 - **[TICHOJEBEC-SK/cs2-WeaponRestrict](https://github.com/TICHOJEBEC-SK/cs2-WeaponRestrict)**<br>
   ⭐ 2<br>
@@ -364,7 +394,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[TICHOJEBEC-SK/cs2-WarnSystem](https://github.com/TICHOJEBEC-SK/cs2-WarnSystem)**<br>
   ⭐ 1<br>
-  ⏱️ updated 13 hours ago<br>
+  ⏱️ updated 14 hours ago<br>
   *A plugin that allows admins to warn players.*
 
 
@@ -1035,11 +1065,15 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/yonilerner">@yonilerner</a>
     </td>
     <td align="center" valign="top" width="80">
-      <a href="https://github.com/Zeisenx"><img src="https://avatars.githubusercontent.com/u/19303143?v=4" width="64" height="64" alt="Zeisenx" /></a><br/>
-      <a href="https://github.com/Zeisenx">@Zeisenx</a>
+      <a href="https://github.com/zakriamansoor47"><img src="https://avatars.githubusercontent.com/u/56433510?v=4" width="64" height="64" alt="zakriamansoor47" /></a><br/>
+      <a href="https://github.com/zakriamansoor47">@zakriamansoor47</a>
     </td>
   </tr>
   <tr>
+    <td align="center" valign="top" width="80">
+      <a href="https://github.com/Zeisenx"><img src="https://avatars.githubusercontent.com/u/19303143?v=4" width="64" height="64" alt="Zeisenx" /></a><br/>
+      <a href="https://github.com/Zeisenx">@Zeisenx</a>
+    </td>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/zer0k-z"><img src="https://avatars.githubusercontent.com/u/61156310?v=4" width="64" height="64" alt="zer0k-z" /></a><br/>
       <a href="https://github.com/zer0k-z">@zer0k-z</a>
