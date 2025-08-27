@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>19 minutes ago</strong>
+  Last Sync: <strong>8 minutes ago</strong>
 </p>
 <p>
   Project Uptime: <strong>14 hours</strong>
@@ -156,7 +156,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 316<br>
-  ⏱️ updated 5 hours ago<br>
+  ⏱️ updated 6 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -189,6 +189,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 week ago<br>
   *A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.*
 
+- **[Cruze03/FakeRanks-RevealAll](https://github.com/Cruze03/FakeRanks-RevealAll)**<br>
+  ⭐ 42<br>
+  ⏱️ updated 3 weeks ago<br>
+  *A metamod plugin that reveals ranks of all players in server for player who presses tab*
+
 - **[Source2ZE/AcceleratorCS2](https://github.com/Source2ZE/AcceleratorCS2)**<br>
   ⭐ 28<br>
   ⏱️ updated 2 weeks ago<br>
@@ -203,6 +208,11 @@ These are the websites with resources that you might need to check during develo
   ⭐ 11<br>
   ⏱️ updated 5 days ago<br>
   *A plugin that can dump the schemas and generate a header file.*
+
+- **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
+  ⭐ 10<br>
+  ⏱️ updated 1 week ago<br>
+  *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
 
 
 ## CounterStrikeSharp Plugins
