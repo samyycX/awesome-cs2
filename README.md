@@ -4,10 +4,10 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>4 hours ago</strong>
+  Last Sync: <strong>17 seconds ago</strong>
 </p>
 <p>
-  Project Uptime: <strong>5 hours</strong>
+  Project Uptime: <strong>11 hours</strong>
 </p>
 
 </div>
@@ -153,22 +153,32 @@ These are the websites with resources that you might need to check during develo
 
 ## Metamod Plugins
 
-| Repository | Description | Stars | Last Active |
-| --- | --- | --- | --- |
-| [Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes) | A plugin with tons of fixes and features aimed but not limited to zombie escape. | 316 | 1 hour ago |
+- **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
+  ⭐ 316<br>
+  ⏱️ 2 hours ago<br>
+  *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
+
 
 ## CounterStrikeSharp Plugins
 
-| Repository | Description | Stars | Last Active |
-| --- | --- | --- | --- |
-| [samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger) | A cssharp plugin to change player models. | 105 | 7 months ago |
-| [samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher) | A plugin with various patches for cs2. | 8 | 1 week ago |
+- **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)**<br>
+  ⭐ 105<br>
+  ⏱️ 7 months ago<br>
+  *A cssharp plugin to change player models.*
+
+- **[samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher)**<br>
+  ⭐ 8<br>
+  ⏱️ 1 week ago<br>
+  *A plugin with various patches for cs2.*
+
 
 ## Swiftly Plugins
 
-| Repository | Description | Stars | Last Active |
-| --- | --- | --- | --- |
-| [swiftly-solution/admins](https://github.com/swiftly-solution/admins) | A simple plugin for swiftly that implements an admin system. | 4 | 5 months ago |
+- **[swiftly-solution/admins](https://github.com/swiftly-solution/admins)**<br>
+  ⭐ 4<br>
+  ⏱️ 5 months ago<br>
+  *A simple plugin for swiftly that implements an admin system.*
+
 
 # Contributions
 This project is a free and open-source project. We welcome any community resource websites/repositories/plugins, regardless of their popularity.\
