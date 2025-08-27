@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2 minutes ago</strong>
+  Last Sync: <strong>16 minutes ago</strong>
 </p>
 <p>
   Project Uptime: <strong>11 hours</strong>
@@ -158,6 +158,61 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 3 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
+- **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
+  ⭐ 104<br>
+  ⏱️ updated 1 week ago<br>
+  *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
+
+- **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2)**<br>
+  ⭐ 54<br>
+  ⏱️ updated 1 week ago<br>
+  *A simple plugin that allows you to filter out console prints with regular expressions.*
+
+- **[Source2ZE/ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix)**<br>
+  ⭐ 53<br>
+  ⏱️ updated 1 week ago<br>
+  *Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.*
+
+- **[Source2ZE/MovementUnlocker](https://github.com/Source2ZE/MovementUnlocker)**<br>
+  ⭐ 52<br>
+  ⏱️ updated 3 weeks ago<br>
+  *A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.*
+
+- **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
+  ⭐ 48<br>
+  ⏱️ updated 1 week ago<br>
+  *A plugin that shows entities, net messages, events and etc with a GUI.*
+
+- **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
+  ⭐ 48<br>
+  ⏱️ updated 1 week ago<br>
+  *A plugin that shows entities, net messages, events and etc with a GUI.*
+
+- **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
+  ⭐ 48<br>
+  ⏱️ updated 1 week ago<br>
+  *A plugin that shows entities, net messages, events and etc with a GUI.*
+
+- **[Source2ZE/StripperCS2](https://github.com/Source2ZE/StripperCS2)**<br>
+  ⭐ 45<br>
+  ⏱️ updated 1 week ago<br>
+  *A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.*
+
+- **[Source2ZE/AcceleratorCS2](https://github.com/Source2ZE/AcceleratorCS2)**<br>
+  ⭐ 28<br>
+  ⏱️ updated 2 weeks ago<br>
+  *A plugin that generate a crash dump when there's a crash.*
+
+- **[samyycX/Audio](https://github.com/samyycX/Audio)**<br>
+  ⭐ 13<br>
+  ⏱️ updated 4 days ago<br>
+  *A demo and a metamod lib to provide similar functions to the previous SM-Ext-Audio extension in csgo, that is, sending custom audio streams such as a song through a bot's voice chat.*
+
+- **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
+  ⭐ 11<br>
+  ⏱️ updated 5 days ago<br>
+  *A plugin that can dump the schemas and generate a header file.*
+
 
 ## CounterStrikeSharp Plugins
 
@@ -181,5 +236,10 @@ These are the websites with resources that you might need to check during develo
 
 
 # Contributions
-This project is a free and open-source project. We welcome any community resource websites/repositories/plugins, regardless of their popularity.\
+
+## Rules
+- Plugin must be open source
+- Plugin must be functioning
+
+This project is a free and open-source project. We welcome any community resource websites/repositories/plugins as long as they follow the rules above, regardless of their popularity.\
 Please feel free to submit pull requests or issues, we need your contributions!
