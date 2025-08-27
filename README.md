@@ -4,10 +4,10 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>1 minute ago</strong>
+  Last Sync: <strong>4 hours ago</strong>
 </p>
 <p>
-  Project Uptime: <strong>58 minutes</strong>
+  Project Uptime: <strong>5 hours</strong>
 </p>
 
 </div>
@@ -155,7 +155,7 @@ These are the websites with resources that you might need to check during develo
 
 | Repository | Description | Stars | Last Active |
 | --- | --- | --- | --- |
-| [Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes) | A plugin with tons of fixes and features aimed but not limited to zombie escape. | 316 | 3 days ago |
+| [Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes) | A plugin with tons of fixes and features aimed but not limited to zombie escape. | 316 | 1 hour ago |
 
 ## CounterStrikeSharp Plugins
 
