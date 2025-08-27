@@ -163,6 +163,10 @@ $COUNTERSTRIKESHARP_PLUGINS
 
 $SWIFTLY_PLUGINS
 
+# Contributors
+
+$CONTRIBUTORS
+
 # Contributions
 
 ## Rules
