@@ -5,9 +5,6 @@ on:
     - cron: '7 0 * * *'
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
-    types: [ closed ]
   workflow_dispatch:
 
 permissions:
@@ -19,7 +16,7 @@ concurrency:
 
 jobs:
   update:
-    if: github.actor != 'github-actions[bot]' && (github.event_name != 'pull_request' || github.event.pull_request.merged == true)
+    if: github.actor != 'github-actions[bot]' && (github.event_name != 'pull_request')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
