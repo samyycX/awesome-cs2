@@ -166,7 +166,7 @@ def build_markdown_table(rows: List[Dict[str, Any]], now: datetime) -> str:
 	lines: List[str] = []
 	for row in rows:
 		repo_link = f"[{row['name']}]({row['html_url']})"
-		description = row.get("description", "")
+		description = row.get("desc", "")
 		stars = f"{row.get('stars', 0):,}"
 		last_active_dt: datetime = row.get("last_active")
 		last_active = humanize_since(last_active_dt, now) if isinstance(last_active_dt, datetime) else "unknown"
@@ -216,7 +216,7 @@ def main() -> None:
 		meta_map = fetch_many(full_names, token)
 		for repo_full_name in full_names:
 			meta = meta_map.get(repo_full_name)
-			meta["description"] = normalize_description(entry_map[repo_full_name].get("description", ""))
+			meta["desc"] = normalize_description(entry_map[repo_full_name].get("desc", ""))
 			rows.append(meta)
 		# Sort by stars desc
 		rows.sort(key=lambda r: int(r.get("stars", 0) or 0), reverse=True)
