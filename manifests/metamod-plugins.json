@@ -16,20 +16,12 @@
     "desc": "A plugin that shows entities, net messages, events and etc with a GUI."
   },
   {
-    "repo": "Source2ZE/CS2ServerGUI",
-    "desc": "A plugin that shows entities, net messages, events and etc with a GUI."
-  },
-  {
     "repo": "GAMMACASE/Source2SchemaDumper",
     "desc": "A plugin that can dump the schemas and generate a header file."
   },
   {
     "repo": "Source2ZE/CleanerCS2",
     "desc": "A simple plugin that allows you to filter out console prints with regular expressions."
-  },
-  {
-    "repo": "Source2ZE/CS2ServerGUI",
-    "desc": "A plugin that shows entities, net messages, events and etc with a GUI."
   },
   {
     "repo": "Source2ZE/StripperCS2",
