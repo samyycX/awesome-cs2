@@ -38,5 +38,13 @@
   {
     "repo": "samyycX/Audio",
     "desc": "A demo and a metamod lib to provide similar functions to the previous SM-Ext-Audio extension in csgo, that is, sending custom audio streams such as a song through a bot's voice chat."
+  },
+  {
+    "repo": "Cruze03/GameBanFix",
+    "desc": "Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join."
+  },
+  {
+    "repo": "Cruze03/FakeRanks-RevealAll",
+    "desc": "A metamod plugin that reveals ranks of all players in server for player who presses tab"
   }
 ]
