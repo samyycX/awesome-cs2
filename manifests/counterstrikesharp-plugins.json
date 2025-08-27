@@ -142,5 +142,9 @@
   {
     "repo": "darkerz7/CS2-HideTeammates",
     "desc": "Hides Teammates on the entire map or distance."
+  },
+  {
+    "repo": "wiruwiru/AutomaticAds-CS2",
+    "desc": "This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly."
   }
 ]
