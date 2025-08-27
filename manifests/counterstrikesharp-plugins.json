@@ -146,5 +146,29 @@
   {
     "repo": "wiruwiru/AutomaticAds-CS2",
     "desc": "This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly."
+  },
+  {
+    "repo": "Oz-Lin/cs2-rockthevote",
+    "desc": "General purpose map voting plugin, started as a simple RTV and now has more features."
+  },
+  {
+    "repo": "M-archand/CS2FlashingHtmlHudFix",
+    "desc": "A CS2 CS# Plugin that uses a workaround found by Poggu to make .PrintToCenterHTML not flash every second by setting."
+  },
+  {
+    "repo": "Kandru/cs2-roll-the-dice",
+    "desc": "This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round."
+  },
+  {
+    "repo": "HvH-gg/CS2-Essentials",
+    "desc": " It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes."
+  },
+  {
+    "repo": "HvH-gg/TeleportFix",
+    "desc": "CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit."
+  },
+  {
+    "repo": "HvH-gg/RapidFireFix",
+    "desc": "CounterStrikeSharp plugin to handle rapid fire in CS2."
   }
 ]
