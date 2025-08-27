@@ -164,15 +164,15 @@ def normalize_description(desc_field: Any) -> str:
 
 def build_markdown_table(rows: List[Dict[str, Any]], now: datetime) -> str:
 	lines: List[str] = []
-	lines.append("| Repository | Description | Stars | Last Active |")
-	lines.append("| --- | --- | --- | --- |")
 	for row in rows:
 		repo_link = f"[{row['name']}]({row['html_url']})"
 		description = row.get("description", "")
 		stars = f"{row.get('stars', 0):,}"
 		last_active_dt: datetime = row.get("last_active")
 		last_active = humanize_since(last_active_dt, now) if isinstance(last_active_dt, datetime) else "unknown"
-		lines.append(f"| {repo_link} | {description} | {stars} | {last_active} |")
+		lines.append(f"- **{repo_link}** [⭐ {stars}] [⏱️ {last_active}]")
+		lines.append(f"  *{description}*")
+		lines.append("")
 	return "\n".join(lines)
 
 
