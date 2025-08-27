@@ -1,27 +1,27 @@
 [
   {
     "repo": "zakriamansoor47/SLAYER_Duel",
-    "desc": "This Plugin allows Players to do 1vs1 Duel"
+    "desc": "This plugin allows players to do 1vs1 duel."
   },
   {
     "repo": "zakriamansoor47/SLAYER_Revive",
-    "desc": "Revive teammates with 'E' (+use button)"
+    "desc": "Revive teammates with 'E' (+use button)."
   },
   {
     "repo": "zakriamansoor47/SLAYER_AntiCamp",
-    "desc": "This Plugin Detect player who is camping for a specific time."
+    "desc": "This plugin detect player who is camping for a specific time."
   },
   {
     "repo": "zakriamansoor47/SLAYER_HeadshotOnly",
-    "desc": "This plugin enables Headshot Only to all players OR Enables Headshot Only on Players themselves by using Public Command !hs."
+    "desc": "This plugin enables headshot only to all players or enables headshot only on players themselves by using public command !hs."
   },
   {
     "repo": "zakriamansoor47/SLAYER_UnrestrictedFOV",
-    "desc": "This simple plugin allow players to Change their FOV. Ported this plugin"
+    "desc": "This simple plugin allow players to change their FOV."
   },
   {
     "repo": "zakriamansoor47/SLAYER_Noscope",
-    "desc": "This is my first plugin for CounterStrikeSharp. This plugin disables Scope of Scope Weapons like AWP, scout, etc.."
+    "desc": "This plugin disables scope of scope weapons like AWP, scout, etc."
   },
   {
     "repo": "samyycX/CSSharpPatcher",
