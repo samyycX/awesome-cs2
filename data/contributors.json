@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-08-27T15:14:10.876770+00:00",
-  "count": 169,
+  "generated_at": "2025-08-27T15:18:32.784091+00:00",
+  "count": 187,
   "contributors": [
     {
       "login": "1370533448",
@@ -24,6 +24,12 @@
       "login": "abnerfs",
       "html_url": "https://github.com/abnerfs",
       "avatar_url": "https://avatars.githubusercontent.com/u/14078661?v=4",
+      "type": "User"
+    },
+    {
+      "login": "akappakappa",
+      "html_url": "https://github.com/akappakappa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20224688?v=4",
       "type": "User"
     },
     {
@@ -105,6 +111,12 @@
       "type": "User"
     },
     {
+      "login": "busheezy",
+      "html_url": "https://github.com/busheezy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6915170?v=4",
+      "type": "User"
+    },
+    {
       "login": "CasaRica",
       "html_url": "https://github.com/CasaRica",
       "avatar_url": "https://avatars.githubusercontent.com/u/156474752?v=4",
@@ -153,6 +165,12 @@
       "type": "User"
     },
     {
+      "login": "darichey",
+      "html_url": "https://github.com/darichey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3052455?v=4",
+      "type": "User"
+    },
+    {
       "login": "darkerz7",
       "html_url": "https://github.com/darkerz7",
       "avatar_url": "https://avatars.githubusercontent.com/u/25752428?v=4",
@@ -189,9 +207,21 @@
       "type": "User"
     },
     {
+      "login": "DizzyThermal",
+      "html_url": "https://github.com/DizzyThermal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/730767?v=4",
+      "type": "User"
+    },
+    {
       "login": "dollannn",
       "html_url": "https://github.com/dollannn",
       "avatar_url": "https://avatars.githubusercontent.com/u/50216897?v=4",
+      "type": "User"
+    },
+    {
+      "login": "dom1torii",
+      "html_url": "https://github.com/dom1torii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84600518?v=4",
       "type": "User"
     },
     {
@@ -228,6 +258,12 @@
       "login": "ehwhattaugonnado",
       "html_url": "https://github.com/ehwhattaugonnado",
       "avatar_url": "https://avatars.githubusercontent.com/u/54551926?v=4",
+      "type": "User"
+    },
+    {
+      "login": "emilhaapalainen",
+      "html_url": "https://github.com/emilhaapalainen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47125778?v=4",
       "type": "User"
     },
     {
@@ -294,6 +330,12 @@
       "login": "GabrielBigardi",
       "html_url": "https://github.com/GabrielBigardi",
       "avatar_url": "https://avatars.githubusercontent.com/u/42253181?v=4",
+      "type": "User"
+    },
+    {
+      "login": "GameChaos",
+      "html_url": "https://github.com/GameChaos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25118806?v=4",
       "type": "User"
     },
     {
@@ -399,9 +441,27 @@
       "type": "User"
     },
     {
+      "login": "jakkekz",
+      "html_url": "https://github.com/jakkekz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120755650?v=4",
+      "type": "User"
+    },
+    {
+      "login": "jonassjoh",
+      "html_url": "https://github.com/jonassjoh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17067347?v=4",
+      "type": "User"
+    },
+    {
       "login": "Julienhqr",
       "html_url": "https://github.com/Julienhqr",
       "avatar_url": "https://avatars.githubusercontent.com/u/43007197?v=4",
+      "type": "User"
+    },
+    {
+      "login": "jvnipers",
+      "html_url": "https://github.com/jvnipers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96595352?v=4",
       "type": "User"
     },
     {
@@ -453,6 +513,12 @@
       "type": "User"
     },
     {
+      "login": "kralgorkem",
+      "html_url": "https://github.com/kralgorkem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61798602?v=4",
+      "type": "User"
+    },
+    {
       "login": "Kroytz",
       "html_url": "https://github.com/Kroytz",
       "avatar_url": "https://avatars.githubusercontent.com/u/33564475?v=4",
@@ -471,9 +537,27 @@
       "type": "User"
     },
     {
+      "login": "KZGlobalTeam",
+      "html_url": "https://github.com/KZGlobalTeam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71567872?v=4",
+      "type": "Organization"
+    },
+    {
+      "login": "laazzee",
+      "html_url": "https://github.com/laazzee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19431478?v=4",
+      "type": "User"
+    },
+    {
       "login": "lanslide-team",
       "html_url": "https://github.com/lanslide-team",
       "avatar_url": "https://avatars.githubusercontent.com/u/122711296?v=4",
+      "type": "User"
+    },
+    {
+      "login": "LaplaceTor",
+      "html_url": "https://github.com/LaplaceTor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28674126?v=4",
       "type": "User"
     },
     {
@@ -717,6 +801,12 @@
       "type": "User"
     },
     {
+      "login": "rainstorm-9",
+      "html_url": "https://github.com/rainstorm-9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181768486?v=4",
+      "type": "User"
+    },
+    {
       "login": "Ravid-A",
       "html_url": "https://github.com/Ravid-A",
       "avatar_url": "https://avatars.githubusercontent.com/u/72127473?v=4",
@@ -807,6 +897,12 @@
       "type": "User"
     },
     {
+      "login": "skayee",
+      "html_url": "https://github.com/skayee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75901057?v=4",
+      "type": "User"
+    },
+    {
       "login": "skuzzis",
       "html_url": "https://github.com/skuzzis",
       "avatar_url": "https://avatars.githubusercontent.com/u/61626661?v=4",
@@ -885,6 +981,12 @@
       "type": "User"
     },
     {
+      "login": "tatuaua",
+      "html_url": "https://github.com/tatuaua",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116430797?v=4",
+      "type": "User"
+    },
+    {
       "login": "The0mikkel",
       "html_url": "https://github.com/The0mikkel",
       "avatar_url": "https://avatars.githubusercontent.com/u/28625667?v=4",
@@ -918,6 +1020,12 @@
       "login": "tiltysola",
       "html_url": "https://github.com/tiltysola",
       "avatar_url": "https://avatars.githubusercontent.com/u/19757919?v=4",
+      "type": "User"
+    },
+    {
+      "login": "Tsukasa-Nefren",
+      "html_url": "https://github.com/Tsukasa-Nefren",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89155368?v=4",
       "type": "User"
     },
     {
