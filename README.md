@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>3 minutes ago</strong>
+  Last Sync: <strong>1 minute ago</strong>
 </p>
 <p>
   Project Uptime: <strong>11 hours</strong>
@@ -153,22 +153,30 @@ These are the websites with resources that you might need to check during develo
 
 ## Metamod Plugins
 
-- **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)** - ⭐ 316 - ⏱️ 2 hours ago<br>
+- **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
+⭐ 316<br>
+⏱️ 2 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 
 ## CounterStrikeSharp Plugins
 
-- **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)** - ⭐ 105 - ⏱️ 7 months ago<br>
+- **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)**<br>
+⭐ 105<br>
+⏱️ 7 months ago<br>
   *A cssharp plugin to change player models.*
 
-- **[samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher)** - ⭐ 8 - ⏱️ 1 week ago<br>
+- **[samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher)**<br>
+⭐ 8<br>
+⏱️ 1 week ago<br>
   *A plugin with various patches for cs2.*
 
 
 ## Swiftly Plugins
 
-- **[swiftly-solution/admins](https://github.com/swiftly-solution/admins)** - ⭐ 4 - ⏱️ 5 months ago<br>
+- **[swiftly-solution/admins](https://github.com/swiftly-solution/admins)**<br>
+⭐ 4<br>
+⏱️ 5 months ago<br>
   *A simple plugin for swiftly that implements an admin system.*
 
 
