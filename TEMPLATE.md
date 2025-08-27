@@ -23,6 +23,7 @@
   - [Metamod Plugins](#metamod-plugins)
   - [CounterStrikeSharp Plugins](#counterstrikesharp-plugins)
   - [Swiftly Plugins](#swiftly-plugins)
+- [Contributors](#contributors)
 - [Contributions](#contributions)
 
 # General
