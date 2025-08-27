@@ -4,10 +4,10 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/08/27 11:00:25</strong>
+  Last Sync: <strong>2025/08/27 11:56:46</strong>
 </p>
 <p>
-  Project Uptime: <strong>15 hours</strong>
+  Project Uptime: <strong>0 seconds</strong>
 </p>
 
 </div>
@@ -334,7 +334,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
   ⭐ 11<br>
-  ⏱️ updated 20 hours ago<br>
+  ⏱️ updated 21 hours ago<br>
   *T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.*
 
 - **[zakriamansoor47/SLAYER_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp)**<br>
