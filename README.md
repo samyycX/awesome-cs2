@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>17 seconds ago</strong>
+  Last Sync: <strong>1 minute ago</strong>
 </p>
 <p>
   Project Uptime: <strong>11 hours</strong>
@@ -155,7 +155,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 316<br>
-  ⏱️ 2 hours ago<br>
+  ⏱️ 3 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 
