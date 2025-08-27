@@ -1,14 +1,10 @@
 [
   {
     "repo": "samyycX/CSSharpPatcher",
-    "description": [
-      "A plugin with various patches for cs2."
-    ]
+    "description": "A plugin with various patches for cs2."
   },
   {
     "repo": "samyycX/CS2-PlayerModelChanger",
-    "description": [
-      "A cssharp plugin to change player models."
-    ]
+    "description": "A cssharp plugin to change player models."
   }
 ]
