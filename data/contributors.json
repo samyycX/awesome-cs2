@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-08-27T09:26:43.828125+00:00",
-  "count": 153,
+  "generated_at": "2025-08-27T10:08:34.927213+00:00",
+  "count": 154,
   "contributors": [
     {
       "login": "1370533448",
@@ -630,6 +630,12 @@
       "login": "Poggicek",
       "html_url": "https://github.com/Poggicek",
       "avatar_url": "https://avatars.githubusercontent.com/u/45881722?v=4",
+      "type": "User"
+    },
+    {
+      "login": "poggicek",
+      "html_url": "https://github.com/poggicek",
+      "avatar_url": "https://github.com/poggicek.png",
       "type": "User"
     },
     {
