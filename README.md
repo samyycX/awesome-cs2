@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>9 minutes ago</strong>
+  Last Sync: <strong>3 minutes ago</strong>
 </p>
 <p>
   Project Uptime: <strong>14 hours</strong>
@@ -192,7 +192,7 @@ These are the websites with resources that you might need to check during develo
 - **[Cruze03/FakeRanks-RevealAll](https://github.com/Cruze03/FakeRanks-RevealAll)**<br>
   ⭐ 42<br>
   ⏱️ updated 3 weeks ago<br>
-  *A metamod plugin that reveals ranks of all players in server for player who presses tab*
+  *A metamod plugin that reveals ranks of all players in server for player who presses tab.*
 
 - **[Source2ZE/AcceleratorCS2](https://github.com/Source2ZE/AcceleratorCS2)**<br>
   ⭐ 28<br>
@@ -310,7 +310,7 @@ These are the websites with resources that you might need to check during develo
 - **[zakriamansoor47/SLAYER_Duel](https://github.com/zakriamansoor47/SLAYER_Duel)**<br>
   ⭐ 16<br>
   ⏱️ updated 1 week ago<br>
-  *This Plugin allows Players to do 1vs1 Duel*
+  *This plugin allows players to do 1vs1 duel.*
 
 - **[qstage/CS2-FixRandomSpawn](https://github.com/qstage/CS2-FixRandomSpawn)**<br>
   ⭐ 16<br>
@@ -340,7 +340,7 @@ These are the websites with resources that you might need to check during develo
 - **[zakriamansoor47/SLAYER_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp)**<br>
   ⭐ 9<br>
   ⏱️ updated 4 months ago<br>
-  *This Plugin Detect player who is camping for a specific time.*
+  *This plugin detect player who is camping for a specific time.*
 
 - **[T3Marius/MVP-Anthem](https://github.com/T3Marius/MVP-Anthem)**<br>
   ⭐ 9<br>
@@ -360,7 +360,7 @@ These are the websites with resources that you might need to check during develo
 - **[zakriamansoor47/SLAYER_UnrestrictedFOV](https://github.com/zakriamansoor47/SLAYER_UnrestrictedFOV)**<br>
   ⭐ 7<br>
   ⏱️ updated 4 months ago<br>
-  *This simple plugin allow players to Change their FOV. Ported this plugin*
+  *This simple plugin allow players to change their FOV.*
 
 - **[darkerz7/CS2-EntityFix](https://github.com/darkerz7/CS2-EntityFix)**<br>
   ⭐ 7<br>
@@ -370,12 +370,12 @@ These are the websites with resources that you might need to check during develo
 - **[zakriamansoor47/SLAYER_HeadshotOnly](https://github.com/zakriamansoor47/SLAYER_HeadshotOnly)**<br>
   ⭐ 5<br>
   ⏱️ updated 4 months ago<br>
-  *This plugin enables Headshot Only to all players OR Enables Headshot Only on Players themselves by using Public Command !hs.*
+  *This plugin enables headshot only to all players or enables headshot only on players themselves by using public command !hs.*
 
 - **[zakriamansoor47/SLAYER_Noscope](https://github.com/zakriamansoor47/SLAYER_Noscope)**<br>
   ⭐ 5<br>
   ⏱️ updated 4 months ago<br>
-  *This is my first plugin for CounterStrikeSharp. This plugin disables Scope of Scope Weapons like AWP, scout, etc..*
+  *This plugin disables scope of scope weapons like AWP, scout, etc.*
 
 - **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds)**<br>
   ⭐ 3<br>
@@ -385,7 +385,7 @@ These are the websites with resources that you might need to check during develo
 - **[zakriamansoor47/SLAYER_Revive](https://github.com/zakriamansoor47/SLAYER_Revive)**<br>
   ⭐ 2<br>
   ⏱️ updated 5 days ago<br>
-  *Revive teammates with 'E' (+use button)*
+  *Revive teammates with 'E' (+use button).*
 
 - **[TICHOJEBEC-SK/cs2-WeaponRestrict](https://github.com/TICHOJEBEC-SK/cs2-WeaponRestrict)**<br>
   ⭐ 2<br>
