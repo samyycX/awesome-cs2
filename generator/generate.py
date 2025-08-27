@@ -170,7 +170,7 @@ def build_markdown_table(rows: List[Dict[str, Any]], now: datetime) -> str:
 		stars = f"{row.get('stars', 0):,}"
 		last_active_dt: datetime = row.get("last_active")
 		last_active = humanize_since(last_active_dt, now) if isinstance(last_active_dt, datetime) else "unknown"
-		lines.append(f"- **{repo_link}** [⭐ {stars}] [⏱️ {last_active}]")
+		lines.append(f"- **{repo_link}** [⭐ {stars}] [⏱️ {last_active}]<br>")
 		lines.append(f"  *{description}*")
 		lines.append("")
 	return "\n".join(lines)
