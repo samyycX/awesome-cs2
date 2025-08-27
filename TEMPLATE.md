@@ -24,7 +24,7 @@
   - [CounterStrikeSharp Plugins](#counterstrikesharp-plugins)
   - [Swiftly Plugins](#swiftly-plugins)
 - [Contributors](#contributors)
-- [Contributions](#contributions)
+- [Contributing](#contributing)
 
 # General
 - **[Source2 Wiki](https://source2.wiki)**\
@@ -168,7 +168,10 @@ $SWIFTLY_PLUGINS
 
 $CONTRIBUTORS
 
-# Contributions
+# Contributing
+
+## How to add plugins
+Add an entry in `manifests/xxx.json` and follow the same format as the other entries, the github workflow will auto update the `README.md`.
 
 ## Rules
 - Plugin must be open source
