@@ -180,8 +180,8 @@ async def fetch_contributors_many_async(full_names: List[str], token: Optional[s
 	}
 	if token:
 		headers["Authorization"] = f"Bearer {token}"
-	connector = aiohttp.TCPConnector(limit=10) if aiohttp else None  # type: ignore
-	async with aiohttp.ClientSession(headers=headers, connector=connector) as session:  # type: ignore
+	connector = aiohttp.TCPConnector(limit=10) 
+	async with aiohttp.ClientSession(headers=headers, connector=connector) as session: 
 		tasks = [_fetch_contributors_aiohttp(session, full_name) for full_name in full_names]
 		results = await asyncio.gather(*tasks, return_exceptions=True)
 		out: Dict[str, List[Dict[str, Any]]] = {}
@@ -336,6 +336,38 @@ def main() -> None:
 					"avatar_url": c.get("avatar_url") or f"https://github.com/{login}.png",
 					"type": c.get("type") or "User",
 				}
+						# include manual contributors from manifests/contributors.json
+		manual_contribs_path = REPO_ROOT / "contributors.json"
+		if manual_contribs_path.exists():
+			try:
+				manual = read_json_file(manual_contribs_path)
+				if isinstance(manual, list):
+					for item in manual:
+						if isinstance(item, str):
+							login = item.strip()
+							if not login:
+								continue
+							login_to_contributor[login] = {
+								"login": login,
+								"html_url": f"https://github.com/{login}",
+								"avatar_url": f"https://github.com/{login}.png",
+								"type": "User",
+							}
+						elif isinstance(item, dict):
+							login = str(item.get("login") or "").strip()
+							if not login:
+								continue
+							html_url = item.get("html_url") or f"https://github.com/{login}"
+							avatar_url = item.get("avatar_url") or f"https://github.com/{login}.png"
+							type_ = item.get("type") or "User"
+							login_to_contributor[login] = {
+								"login": login,
+								"html_url": html_url,
+								"avatar_url": avatar_url,
+								"type": type_,
+							}
+			except Exception:
+				pass
 		sorted_contribs = sorted(login_to_contributor.values(), key=lambda d: str(d.get("login", "")).lower())
 		placeholder_to_table["$CONTRIBUTORS"] = build_contributors_table(sorted_contribs, columns=5)
 		# Persist raw contributors list
