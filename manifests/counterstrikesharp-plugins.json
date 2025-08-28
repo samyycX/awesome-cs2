@@ -326,5 +326,9 @@
   {
     "repo": "Austinbots/cs2-Change-Map-Rotation-Using-Text-File",
     "desc": "It allows you to change the map rotation using a text file."
+  },
+  {
+    "repo": "counterstrikesharp-panel/css-bans",
+    "desc": "CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp."
   }
 ]
