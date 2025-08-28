@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-08-28T11:36:23.864693+00:00",
-  "count": 237,
+  "generated_at": "2025-08-28T13:19:57.394265+00:00",
+  "count": 239,
   "contributors": [
     {
       "login": "1370533448",
@@ -24,6 +24,12 @@
       "login": "abnerfs",
       "html_url": "https://github.com/abnerfs",
       "avatar_url": "https://avatars.githubusercontent.com/u/14078661?v=4",
+      "type": "User"
+    },
+    {
+      "login": "actions-user",
+      "html_url": "https://github.com/actions-user",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65916846?v=4",
       "type": "User"
     },
     {
@@ -786,6 +792,12 @@
       "login": "milkywayfarer",
       "html_url": "https://github.com/milkywayfarer",
       "avatar_url": "https://avatars.githubusercontent.com/u/17110335?v=4",
+      "type": "User"
+    },
+    {
+      "login": "moongetsu",
+      "html_url": "https://github.com/moongetsu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111883135?v=4",
       "type": "User"
     },
     {
