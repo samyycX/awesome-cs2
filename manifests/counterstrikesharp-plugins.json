@@ -170,5 +170,13 @@
   {
     "repo": "HvH-gg/RapidFireFix",
     "desc": "CounterStrikeSharp plugin to handle rapid fire in CS2."
+  },
+  {
+    "repo": "Interesting-exe/QuickDefuse",
+    "desc": "Guess a wire for a chance to instantly defuse the bomb."
+  },
+  {
+    "repo": "darkerz7/CSSharp-Fixes",
+    "desc": "CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features."
   }
 ]

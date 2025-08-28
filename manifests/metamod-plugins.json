@@ -50,5 +50,9 @@
   {
     "repo": "KZGlobalTeam/cs2kz-metamod",
     "desc": "KZ plugin for cs2. WIP, not ready for release."
+  },
+  {
+    "repo": "Interesting-exe/CS2Fixes-RampbugFix",
+    "desc": "Minimizes rampbugs. This plugin isn't perfect and rampbugs will continue to occur until Valve decides to finally fix them."
   }
 ]
