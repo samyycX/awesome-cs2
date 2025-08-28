@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/08/28 10:07:56</strong>
+  Last Sync: <strong>2025/08/28 10:15:13</strong>
 </p>
 <p>
   Project Uptime: <strong>1 day</strong>
@@ -161,7 +161,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 157<br>
-  ⏱️ updated 4 hours ago<br>
+  ⏱️ updated 5 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -221,7 +221,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[samyycX/Audio](https://github.com/samyycX/Audio)**<br>
   ⭐ 13<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *A demo and a metamod lib to provide similar functions to the previous SM-Ext-Audio extension in csgo, that is, sending custom audio streams such as a song through a bot's voice chat.*
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
@@ -414,7 +414,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[phara1/advanced-ff-cs2](https://github.com/phara1/advanced-ff-cs2)**<br>
   ⭐ 15<br>
-  ⏱️ updated 15 hours ago<br>
+  ⏱️ updated 16 hours ago<br>
   *This plugin implements advanced control of friendly fire.*
 
 - **[HvH-gg/TeleportFix](https://github.com/HvH-gg/TeleportFix)**<br>
@@ -449,7 +449,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
   ⭐ 11<br>
-  ⏱️ updated 16 hours ago<br>
+  ⏱️ updated 18 hours ago<br>
   *T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.*
 
 - **[HvH-gg/RapidFireFix](https://github.com/HvH-gg/RapidFireFix)**<br>
@@ -477,6 +477,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 4 months ago<br>
   *This plugin detect player who is camping for a specific time.*
 
+- **[samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher)**<br>
+  ⭐ 9<br>
+  ⏱️ updated 1 week ago<br>
+  *A plugin with various patches for cs2.*
+
 - **[T3Marius/MVP-Anthem](https://github.com/T3Marius/MVP-Anthem)**<br>
   ⭐ 9<br>
   ⏱️ updated 3 days ago<br>
@@ -486,11 +491,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 9<br>
   ⏱️ updated 1 week ago<br>
   *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
-
-- **[samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher)**<br>
-  ⭐ 8<br>
-  ⏱️ updated 1 week ago<br>
-  *A plugin with various patches for cs2.*
 
 - **[darkerz7/CS2-HideTeammates](https://github.com/darkerz7/CS2-HideTeammates)**<br>
   ⭐ 8<br>
@@ -599,7 +599,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Austinbots/cs2-Change-Map-Rotation-Using-Text-File](https://github.com/Austinbots/cs2-Change-Map-Rotation-Using-Text-File)**<br>
   ⭐ 3<br>
-  ⏱️ updated 15 hours ago<br>
+  ⏱️ updated 16 hours ago<br>
   *It allows you to change the map rotation using a text file.*
 
 - **[zakriamansoor47/SLAYER_Revive](https://github.com/zakriamansoor47/SLAYER_Revive)**<br>
@@ -1719,6 +1719,7 @@ You only need to add an entry in `manifests/xxx.json` and follow the same format
 ## Rules
 - Plugin must be open source
 - Plugin must be functioning
+- Website must be non-profit
 
 This project is a free and open-source project. We welcome any community resource websites/repositories/plugins as long as they follow the rules above, regardless of their popularity.\
 Please feel free to submit pull requests or issues, we need your contributions!
