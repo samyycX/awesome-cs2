@@ -58,9 +58,5 @@
   {
     "repo": "Salvatore-Als/cs2-fake-rcon",
     "desc": "Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken)."
-  },
-  {
-    "repo": "NiGHT757/AFKManager",
-    "desc": "AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO."
   }
 ]
