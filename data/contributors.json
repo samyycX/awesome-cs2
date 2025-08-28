@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-08-28T07:02:24.407879+00:00",
-  "count": 189,
+  "generated_at": "2025-08-28T09:48:42.071855+00:00",
+  "count": 193,
   "contributors": [
     {
       "login": "1370533448",
@@ -309,6 +309,12 @@
       "type": "User"
     },
     {
+      "login": "Ferks-FK",
+      "html_url": "https://github.com/Ferks-FK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69549678?v=4",
+      "type": "User"
+    },
+    {
       "login": "FlowingSPDG",
       "html_url": "https://github.com/FlowingSPDG",
       "avatar_url": "https://avatars.githubusercontent.com/u/30292185?v=4",
@@ -450,6 +456,12 @@
       "login": "jakkekz",
       "html_url": "https://github.com/jakkekz",
       "avatar_url": "https://avatars.githubusercontent.com/u/120755650?v=4",
+      "type": "User"
+    },
+    {
+      "login": "jmgraeffe",
+      "html_url": "https://github.com/jmgraeffe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1965594?v=4",
       "type": "User"
     },
     {
@@ -879,6 +891,12 @@
       "type": "User"
     },
     {
+      "login": "sapsanDev",
+      "html_url": "https://github.com/sapsanDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42625140?v=4",
+      "type": "User"
+    },
+    {
       "login": "sarim-hk",
       "html_url": "https://github.com/sarim-hk",
       "avatar_url": "https://avatars.githubusercontent.com/u/58489447?v=4",
@@ -960,6 +978,12 @@
       "login": "stefanx111",
       "html_url": "https://github.com/stefanx111",
       "avatar_url": "https://avatars.githubusercontent.com/u/60297289?v=4",
+      "type": "User"
+    },
+    {
+      "login": "Stimayk",
+      "html_url": "https://github.com/Stimayk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51941742?v=4",
       "type": "User"
     },
     {
