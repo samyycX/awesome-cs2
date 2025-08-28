@@ -178,5 +178,65 @@
   {
     "repo": "darkerz7/CSSharp-Fixes",
     "desc": "CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features."
+  },
+  {
+    "repo": "Kandru/cs2-quake-sounds",
+    "desc": "This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary."
+  },
+  {
+    "repo": "Kandru/cs2-update-manager",
+    "desc": "The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins."
+  },
+  {
+    "repo": "Kandru/cs2-challenges",
+    "desc": "This plugin allows you to create Challenges for players. Challenges are tasks that players need to complete within a certain time frame (e.g., daily, weekly, monthly)."
+  },
+  {
+    "repo": "Kandru/cs2-demo-recorder",
+    "desc": "This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed."
+  },
+  {
+    "repo": "Ferks-FK/CS2-TeamLimiter",
+    "desc": "This plugin allows you to set a maximum number of players in both teams. Useful for PUG/MIX or Retake mode servers."
+  },
+  {
+    "repo": "asapverneri/CS2-Gunsmenu",
+    "desc": "Up to date and lightweight gunmenu for CS2, allowing players to choose guns at any time of the round."
+  },
+  {
+    "repo": "asapverneri/CS2-Playervotes",
+    "desc": "Lightweight and efficient voting system for CS2 without anything pointless, allowing players to initiate votes for kicking, banning, and muting players."
+  },
+  {
+    "repo": "asapverneri/CS2-Baninfo",
+    "desc": "Useful plugin that shows connected players ban & mute history in console."
+  },
+  {
+    "repo": "asapverneri/CS2-ChatRelay",
+    "desc": "Lightweight plugin to send your cs2 server chat messages to discord channel using webhook."
+  },
+  {
+    "repo": "asapverneri/CS2-BotQuotaManager",
+    "desc": "This plugin handles bot_quota depending on playercount on the server."
+  },
+  {
+    "repo": "asapverneri/CS2-Legs",
+    "desc": "Simple plugin to disable lower body."
+  },
+  {
+    "repo": "asapverneri/CS2-ScoutzKnivez",
+    "desc": "This is a legendary gamemode made for CS2. It's in early state, but it should be pretty stable."
+  },
+  {
+    "repo": "asapverneri/CS2-Clantags",
+    "desc": "Extremely simple plugin to set admin/vip tag to scoreboard."
+  },
+  {
+    "repo": "asapverneri/CS2-ChatLogs",
+    "desc": "Plugin that store chat messages to MySQL database."
+  },
+  {
+    "repo": "asapverneri/CS2-StaffList",
+    "desc": "Simple plugin which show online admins in the server."
   }
 ]
