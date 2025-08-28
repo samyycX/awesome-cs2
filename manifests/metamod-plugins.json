@@ -54,5 +54,9 @@
   {
     "repo": "Interesting-exe/CS2Fixes-RampbugFix",
     "desc": "Minimizes rampbugs. This plugin isn't perfect and rampbugs will continue to occur until Valve decides to finally fix them."
+  },
+  {
+    "repo": "Salvatore-Als/cs2-fake-rcon",
+    "desc": "Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken)."
   }
 ]

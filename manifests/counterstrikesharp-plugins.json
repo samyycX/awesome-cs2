@@ -161,7 +161,7 @@
   },
   {
     "repo": "HvH-gg/CS2-Essentials",
-    "desc": " It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes."
+    "desc": "It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes."
   },
   {
     "repo": "HvH-gg/TeleportFix",
@@ -238,5 +238,93 @@
   {
     "repo": "asapverneri/CS2-StaffList",
     "desc": "Simple plugin which show online admins in the server."
+  },
+  {
+    "repo": "partiusfabaa/cs2-VIPCore",
+    "desc": "A vip plugin for cs2."
+  },
+  {
+    "repo": "B3none/cs2-instaplant",
+    "desc": "Plant the bomb instantly as a terrorist."
+  },
+  {
+    "repo": "zakriamansoor47/SLAYER_1HitKill",
+    "desc": "This simple plugin allows players to kill others in 1 Hit."
+  },
+  {
+    "repo": "ssypchenko/cs2-gungame",
+    "desc": "GunGame is a gameplay plugin inspired by the SourceMode GunGame plugin."
+  },
+  {
+    "repo": "oqyh/cs2-Chat-Logger-GoldKingZ",
+    "desc": "Log chat to local/discord webhook/mysql/web server."
+  },
+  {
+    "repo": "oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ",
+    "desc": "Emit a sound when a player connects or disconnects."
+  },
+  {
+    "repo": "B3none/cs2-instadefuse",
+    "desc": "A plugin that allows players to instantly defuse the bomb."
+  },
+  {
+    "repo": "oqyh/cs2-Game-Manager-GoldKingZ",
+    "desc": "Block/Hide unnecessaries in game."
+  },
+  {
+    "repo": "KKNecmi/ThirdPerson-Revamped",
+    "desc": "A modern, improved third-person camera plugin for Counter-Strike 2."
+  },
+  {
+    "repo": "grrhn/ThirdPerson-WIP",
+    "desc": "WIP ThirdPerson plugin for CS2 expect bugs."
+  },
+  {
+    "repo": "KillStr3aK/ResourcePrecacher",
+    "desc": "This plugin can precache custom resources."
+  },
+  {
+    "repo": "R0mz1k/css-C4-Timer",
+    "desc": "This plugin adds countdown to c4 bomb explosion to your server."
+  },
+  {
+    "repo": "R0mz1k/CSS-Knockback",
+    "desc": "This plugin, when hit, repels the recipient of the damage."
+  },
+  {
+    "repo": "Dliix66/CS2-BotSlay",
+    "desc": "CSSharp plugin to slay all bots when the last player dies."
+  },
+  {
+    "repo": "Quantor97/CS2-Kill-Plugin",
+    "desc": "A simple kill plugin that allows players to suicide via chat by entering '!suicide' or '/suicide'."
+  },
+  {
+    "repo": "Cruze03/cs2_blockradiocommands",
+    "desc": "A CSSharp plugin to block all radio commands."
+  },
+  {
+    "repo": "Lan2Play/PugSharp",
+    "desc": "Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin."
+  },
+  {
+    "repo": "PhantomYopta/CS2_Speedometer",
+    "desc": "Just a speedometer for CS2."
+  },
+  {
+    "repo": "abnerfs/cs2-killfeed-filter",
+    "desc": "Show only your kills/assists/deaths in the killfeed, useful for DM servers where the killfeed has too much kills going on."
+  },
+  {
+    "repo": "Austinbots/CS2-BotAI",
+    "desc": "Improves the built in bots AI."
+  },
+  {
+    "repo": "Austinbots/cs2-BotsNoKnife",
+    "desc": "Strips knife from bots."
+  },
+  {
+    "repo": "Austinbots/cs2-Change-Map-Rotation-Using-Text-File",
+    "desc": "It allows you to change the map rotation using a text file."
   }
 ]
