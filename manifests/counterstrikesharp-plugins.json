@@ -330,5 +330,9 @@
   {
     "repo": "counterstrikesharp-panel/css-bans",
     "desc": "CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp."
+  },
+  {
+    "repo": "NiGHT757/AFKManager",
+    "desc": "AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO."
   }
 ]
