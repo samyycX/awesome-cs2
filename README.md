@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/08/29 01:56:21</strong>
+  Last Sync: <strong>2025/08/30 01:50:47</strong>
 </p>
 <p>
   Project Uptime: <strong>3 days</strong>
@@ -156,12 +156,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 318<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 2 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 157<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -234,7 +234,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy)**<br>
   ⭐ 367<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
@@ -259,11 +259,11 @@ These are the websites with resources that you might need to check during develo
 
 - **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)**<br>
   ⭐ 105<br>
-  ⏱️ updated 6 hours ago<br>
+  ⏱️ updated 2 hours ago<br>
   *A cssharp plugin to change player models.*
 
 - **[NockyCZ/CS2-Deathmatch](https://github.com/NockyCZ/CS2-Deathmatch)**<br>
-  ⭐ 101<br>
+  ⭐ 102<br>
   ⏱️ updated 3 weeks ago<br>
   *A plugin to implement deathmatch gamemode.*
 
@@ -332,10 +332,20 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 3 weeks ago<br>
   *CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.*
 
+- **[zwolof/cs2-executes](https://github.com/zwolof/cs2-executes)**<br>
+  ⭐ 31<br>
+  ⏱️ updated 17 hours ago<br>
+  *CS2 implementation of executes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
+
 - **[HvH-gg/CS2-Essentials](https://github.com/HvH-gg/CS2-Essentials)**<br>
   ⭐ 29<br>
   ⏱️ updated 2 weeks ago<br>
   *It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes.*
+
+- **[ssypchenko/cs2-gungame](https://github.com/ssypchenko/cs2-gungame)**<br>
+  ⭐ 27<br>
+  ⏱️ updated 5 days ago<br>
+  *GunGame is a gameplay plugin inspired by the SourceMode GunGame plugin.*
 
 - **[oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ](https://github.com/oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ)**<br>
   ⭐ 27<br>
@@ -351,11 +361,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 26<br>
   ⏱️ updated 3 weeks ago<br>
   *Notify players about entity interactions.*
-
-- **[ssypchenko/cs2-gungame](https://github.com/ssypchenko/cs2-gungame)**<br>
-  ⭐ 26<br>
-  ⏱️ updated 5 days ago<br>
-  *GunGame is a gameplay plugin inspired by the SourceMode GunGame plugin.*
 
 - **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ)**<br>
   ⭐ 26<br>
@@ -374,7 +379,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[qstage/CS2-HidePlayers](https://github.com/qstage/CS2-HidePlayers)**<br>
   ⭐ 20<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *Allows you to hide player models.*
 
 - **[Cruze03/Clientprefs](https://github.com/Cruze03/Clientprefs)**<br>
@@ -399,7 +404,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[qstage/CS2-FixRandomSpawn](https://github.com/qstage/CS2-FixRandomSpawn)**<br>
   ⭐ 16<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *Fixes convar `mp_randomspawn` for any game mode.*
 
 - **[wiruwiru/AutomaticAds-CS2](https://github.com/wiruwiru/AutomaticAds-CS2)**<br>
@@ -454,7 +459,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[HvH-gg/RapidFireFix](https://github.com/HvH-gg/RapidFireFix)**<br>
   ⭐ 11<br>
-  ⏱️ updated 10 months ago<br>
+  ⏱️ updated 11 months ago<br>
   *CounterStrikeSharp plugin to handle rapid fire in CS2.*
 
 - **[asapverneri/CS2-Playervotes](https://github.com/asapverneri/CS2-Playervotes)**<br>
