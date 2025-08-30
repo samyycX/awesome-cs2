@@ -334,5 +334,10 @@
   {
     "repo": "NiGHT757/AFKManager",
     "desc": "AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO."
+  },
+  {
+    "repo": "zwolof/cs2-executes",
+    "desc": "CS2 implementation of executes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis."
+
   }
 ]
