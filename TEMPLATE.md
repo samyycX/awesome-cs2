@@ -125,6 +125,10 @@ These are the websites with resources that you might need to check during develo
 - **[Source2ZE Map Porting Guide](https://docs.google.com/document/d/1buKzjP-2com9GcXVxCfyRBi6sDiKmzMoVy9RNbYQqIo)**\
   *A guide about porting map from csgo, written by s2ze community.*
 
+- **[S2TS](https://s2ts.net/)**\
+  *A project that compiles typescript codes into .vts_c files that can run in cs2 scripting engine.*\
+  *Also provide documentation for current SourceTS API.*
+
 # Communities
 - **[Alliedmodders Discord](https://discord.com/invite/HUc67zN)**\
   *Official discord for alliedmodders, you can find discussions about metamod and sdk here.*
