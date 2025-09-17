@@ -4,10 +4,10 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/09/15 02:00:40</strong>
+  Last Sync: <strong>2025/09/16 01:51:33</strong>
 </p>
 <p>
-  Project Uptime: <strong>2 weeks</strong>
+  Project Uptime: <strong>3 weeks</strong>
 </p>
 
 </div>
@@ -159,18 +159,18 @@ These are the websites with resources that you might need to check during develo
 ## Metamod Plugins
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
-  ⭐ 321<br>
-  ⏱️ updated 1 day ago<br>
+  ⭐ 320<br>
+  ⏱️ updated 18 minutes ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
-  ⭐ 158<br>
-  ⏱️ updated 17 hours ago<br>
+  ⭐ 159<br>
+  ⏱️ updated 1 day ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
   ⭐ 107<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 1 minute ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
 - **[Salvatore-Als/cs2-fake-rcon](https://github.com/Salvatore-Als/cs2-fake-rcon)**<br>
@@ -242,13 +242,13 @@ These are the websites with resources that you might need to check during develo
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
-  ⭐ 315<br>
+  ⭐ 316<br>
   ⏱️ updated 1 month ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 284<br>
-  ⏱️ updated 12 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
@@ -273,7 +273,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[NiGHT757/AFKManager](https://github.com/NiGHT757/AFKManager)**<br>
   ⭐ 71<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 3 weeks ago<br>
   *AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO.*
 
 - **[partiusfabaa/cs2-VIPCore](https://github.com/partiusfabaa/cs2-VIPCore)**<br>
@@ -348,7 +348,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ](https://github.com/oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ)**<br>
   ⭐ 27<br>
-  ⏱️ updated 3 months ago<br>
+  ⏱️ updated 4 months ago<br>
   *Emit a sound when a player connects or disconnects.*
 
 - **[R0mz1k/css-C4-Timer](https://github.com/R0mz1k/css-C4-Timer)**<br>
@@ -358,7 +358,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 26<br>
-  ⏱️ updated 9 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *Notify players about entity interactions.*
 
 - **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ)**<br>
@@ -408,7 +408,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[phara1/advanced-ff-cs2](https://github.com/phara1/advanced-ff-cs2)**<br>
   ⭐ 16<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 15 hours ago<br>
   *This plugin implements advanced control of friendly fire.*
 
 - **[qstage/CS2-FixRandomSpawn](https://github.com/qstage/CS2-FixRandomSpawn)**<br>
@@ -471,19 +471,19 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 2 weeks ago<br>
   *A modern, improved third-person camera plugin for Counter-Strike 2.*
 
+- **[samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher)**<br>
+  ⭐ 10<br>
+  ⏱️ updated 1 month ago<br>
+  *A plugin with various patches for cs2.*
+
 - **[zakriamansoor47/SLAYER_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp)**<br>
   ⭐ 9<br>
   ⏱️ updated 5 months ago<br>
   *This plugin detect player who is camping for a specific time.*
 
-- **[samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher)**<br>
-  ⭐ 9<br>
-  ⏱️ updated 1 month ago<br>
-  *A plugin with various patches for cs2.*
-
 - **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
   ⭐ 9<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.*
 
 - **[T3Marius/MVP-Anthem](https://github.com/T3Marius/MVP-Anthem)**<br>
@@ -503,7 +503,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-quake-sounds](https://github.com/Kandru/cs2-quake-sounds)**<br>
   ⭐ 8<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 8 hours ago<br>
   *This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.*
 
 - **[Kandru/cs2-challenges](https://github.com/Kandru/cs2-challenges)**<br>
@@ -573,7 +573,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CSSharp-Fixes](https://github.com/darkerz7/CSSharp-Fixes)**<br>
   ⭐ 4<br>
-  ⏱️ updated 19 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.*
 
 - **[asapverneri/CS2-BotQuotaManager](https://github.com/asapverneri/CS2-BotQuotaManager)**<br>
@@ -588,7 +588,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[zakriamansoor47/SLAYER_Revive](https://github.com/zakriamansoor47/SLAYER_Revive)**<br>
   ⭐ 3<br>
-  ⏱️ updated 13 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *Revive teammates with 'E' (+use button).*
 
 - **[TICHOJEBEC-SK/cs2-WeaponRestrict](https://github.com/TICHOJEBEC-SK/cs2-WeaponRestrict)**<br>
