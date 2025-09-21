@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-20T01:49:21.921937+00:00",
+  "generated_at": "2025-09-21T02:02:24.354865+00:00",
   "count": 242,
   "contributors": [
     {
@@ -1185,6 +1185,12 @@
       "type": "User"
     },
     {
+      "login": "sn0wmankr",
+      "html_url": "https://github.com/sn0wmankr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24391844?v=4",
+      "type": "User"
+    },
+    {
       "login": "sniperpl",
       "html_url": "https://github.com/sniperpl",
       "avatar_url": "https://avatars.githubusercontent.com/u/87908771?v=4",
@@ -1374,12 +1380,6 @@
       "login": "wiruwiru",
       "html_url": "https://github.com/wiruwiru",
       "avatar_url": "https://avatars.githubusercontent.com/u/61034981?v=4",
-      "type": "User"
-    },
-    {
-      "login": "wjdrkfka3",
-      "html_url": "https://github.com/wjdrkfka3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/24391844?v=4",
       "type": "User"
     },
     {
