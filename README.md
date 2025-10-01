@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/09/29 01:57:01</strong>
+  Last Sync: <strong>2025/09/30 01:51:39</strong>
 </p>
 <p>
   Project Uptime: <strong>1 month</strong>
@@ -160,17 +160,17 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 320<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 163<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
   ⭐ 109<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
 - **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2)**<br>
@@ -190,7 +190,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/MovementUnlocker](https://github.com/Source2ZE/MovementUnlocker)**<br>
   ⭐ 52<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.*
 
 - **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
@@ -258,7 +258,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
   ⭐ 130<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
 - **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)**<br>
@@ -316,19 +316,19 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 3 months ago<br>
   *This plugin can precache custom resources.*
 
-- **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote)**<br>
-  ⭐ 44<br>
-  ⏱️ updated 6 days ago<br>
-  *General purpose map voting plugin, started as a simple RTV and now has more features.*
-
 - **[schwarper/cs2-tags](https://github.com/schwarper/cs2-tags)**<br>
-  ⭐ 43<br>
+  ⭐ 44<br>
   ⏱️ updated 1 month ago<br>
   *A tag plugin designed to enhance your CS2 experience with a dynamic tagging system. Customise and manage player tags effortlessly for a more interactive and engaging game environment.*
 
+- **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote)**<br>
+  ⭐ 44<br>
+  ⏱️ updated 1 week ago<br>
+  *General purpose map voting plugin, started as a simple RTV and now has more features.*
+
 - **[schwarper/CS2MenuManager](https://github.com/schwarper/CS2MenuManager)**<br>
   ⭐ 37<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.*
 
 - **[zwolof/cs2-executes](https://github.com/zwolof/cs2-executes)**<br>
@@ -358,7 +358,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 26<br>
-  ⏱️ updated 12 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *Notify players about entity interactions.*
 
 - **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ)**<br>
@@ -388,7 +388,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KillStr3aK/CS2-AntiDLL](https://github.com/KillStr3aK/CS2-AntiDLL)**<br>
   ⭐ 18<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 6 months ago<br>
   *This plugin is similar to the CS:GO version.*
 
 - **[samyycX/CS2-SkyboxChanger](https://github.com/samyycX/CS2-SkyboxChanger)**<br>
@@ -408,7 +408,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[phara1/advanced-ff-cs2](https://github.com/phara1/advanced-ff-cs2)**<br>
   ⭐ 16<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *This plugin implements advanced control of friendly fire.*
 
 - **[qstage/CS2-FixRandomSpawn](https://github.com/qstage/CS2-FixRandomSpawn)**<br>
@@ -503,7 +503,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CS2-EntityFix](https://github.com/darkerz7/CS2-EntityFix)**<br>
   ⭐ 8<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.*
 
 - **[darkerz7/CS2-HideTeammates](https://github.com/darkerz7/CS2-HideTeammates)**<br>
@@ -553,7 +553,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CSSharp-Fixes](https://github.com/darkerz7/CSSharp-Fixes)**<br>
   ⭐ 5<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.*
 
 - **[asapverneri/CS2-Baninfo](https://github.com/asapverneri/CS2-Baninfo)**<br>
@@ -598,7 +598,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[TICHOJEBEC-SK/cs2-WeaponRestrict](https://github.com/TICHOJEBEC-SK/cs2-WeaponRestrict)**<br>
   ⭐ 3<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A plugin that lets you restrict weapons by rules.*
 
 - **[M-archand/CS2FlashingHtmlHudFix](https://github.com/M-archand/CS2FlashingHtmlHudFix)**<br>
@@ -671,12 +671,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/vip_modules](https://github.com/swiftly-solution/vip_modules)**<br>
   ⭐ 4<br>
-  ⏱️ updated 4 months ago<br>
+  ⏱️ updated 5 months ago<br>
   *A repository containing all the VIP Modules created by Swiftly Solution for VIP Core.*
 
 - **[swiftly-solution/vip-core](https://github.com/swiftly-solution/vip-core)**<br>
   ⭐ 3<br>
-  ⏱️ updated 4 months ago<br>
+  ⏱️ updated 5 months ago<br>
   *A simple plugin for swiftly that acts like a core for vip.*
 
 - **[swiftly-solution/ranks](https://github.com/swiftly-solution/ranks)**<br>
@@ -816,7 +816,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/connect-sounds](https://github.com/swiftly-solution/connect-sounds)**<br>
   ⭐ 0<br>
-  ⏱️ updated 8 months ago<br>
+  ⏱️ updated 9 months ago<br>
   *A simple plugin for Swiftly that plays a sound when a player connects.*
 
 - **[swiftly-solution/goldmember](https://github.com/swiftly-solution/goldmember)**<br>
