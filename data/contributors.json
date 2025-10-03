@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-02T01:52:07.624705+00:00",
-  "count": 243,
+  "generated_at": "2025-10-03T01:51:37.789194+00:00",
+  "count": 247,
   "contributors": [
     {
       "login": "1370533448",
@@ -141,6 +141,12 @@
       "type": "User"
     },
     {
+      "login": "BMathers35",
+      "html_url": "https://github.com/BMathers35",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34012215?v=4",
+      "type": "User"
+    },
+    {
       "login": "BombFoolGranny",
       "html_url": "https://github.com/BombFoolGranny",
       "avatar_url": "https://avatars.githubusercontent.com/u/32615723?v=4",
@@ -234,6 +240,12 @@
       "login": "darkerz7",
       "html_url": "https://github.com/darkerz7",
       "avatar_url": "https://avatars.githubusercontent.com/u/25752428?v=4",
+      "type": "User"
+    },
+    {
+      "login": "DEADLYDEVIL-IR",
+      "html_url": "https://github.com/DEADLYDEVIL-IR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64157024?v=4",
       "type": "User"
     },
     {
@@ -1329,6 +1341,12 @@
       "type": "User"
     },
     {
+      "login": "Truba55",
+      "html_url": "https://github.com/Truba55",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28046241?v=4",
+      "type": "User"
+    },
+    {
       "login": "Tsukasa-Nefren",
       "html_url": "https://github.com/Tsukasa-Nefren",
       "avatar_url": "https://avatars.githubusercontent.com/u/89155368?v=4",
@@ -1428,6 +1446,12 @@
       "login": "Yeagorn",
       "html_url": "https://github.com/Yeagorn",
       "avatar_url": "https://avatars.githubusercontent.com/u/37038659?v=4",
+      "type": "User"
+    },
+    {
+      "login": "yMenn",
+      "html_url": "https://github.com/yMenn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135514683?v=4",
       "type": "User"
     },
     {
