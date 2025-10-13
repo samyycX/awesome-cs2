@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/10/11 01:49:25</strong>
+  Last Sync: <strong>2025/10/12 01:57:57</strong>
 </p>
 <p>
   Project Uptime: <strong>1 month</strong>
@@ -160,12 +160,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 320<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 162<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 3 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -179,7 +179,7 @@ These are the websites with resources that you might need to check during develo
   *A simple plugin that allows you to filter out console prints with regular expressions.*
 
 - **[Source2ZE/ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix)**<br>
-  ⭐ 56<br>
+  ⭐ 57<br>
   ⏱️ updated 3 weeks ago<br>
   *Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.*
 
@@ -194,7 +194,7 @@ These are the websites with resources that you might need to check during develo
   *A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.*
 
 - **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
-  ⭐ 50<br>
+  ⭐ 51<br>
   ⏱️ updated 1 week ago<br>
   *A plugin that shows entities, net messages, events and etc with a GUI.*
 
@@ -242,7 +242,7 @@ These are the websites with resources that you might need to check during develo
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
-  ⭐ 317<br>
+  ⭐ 318<br>
   ⏱️ updated 3 weeks ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
@@ -257,8 +257,8 @@ These are the websites with resources that you might need to check during develo
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
-  ⭐ 131<br>
-  ⏱️ updated 1 week ago<br>
+  ⭐ 132<br>
+  ⏱️ updated 2 weeks ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
 - **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)**<br>
@@ -333,7 +333,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[zwolof/cs2-executes](https://github.com/zwolof/cs2-executes)**<br>
   ⭐ 32<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *CS2 implementation of executes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[HvH-gg/CS2-Essentials](https://github.com/HvH-gg/CS2-Essentials)**<br>
@@ -358,7 +358,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 26<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 12 hours ago<br>
   *Notify players about entity interactions.*
 
 - **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ)**<br>
@@ -423,7 +423,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[HvH-gg/TeleportFix](https://github.com/HvH-gg/TeleportFix)**<br>
   ⭐ 15<br>
-  ⏱️ updated 2 months ago<br>
+  ⏱️ updated 12 hours ago<br>
   *CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit.*
 
 - **[Cruze03/cs2_blockradiocommands](https://github.com/Cruze03/cs2_blockradiocommands)**<br>
@@ -463,7 +463,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[asapverneri/CS2-Playervotes](https://github.com/asapverneri/CS2-Playervotes)**<br>
   ⭐ 11<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *Lightweight and efficient voting system for CS2 without anything pointless, allowing players to initiate votes for kicking, banning, and muting players.*
 
 - **[B3none/cs2-instaplant](https://github.com/B3none/cs2-instaplant)**<br>
@@ -483,7 +483,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[zakriamansoor47/SLAYER_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp)**<br>
   ⭐ 9<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 6 months ago<br>
   *This plugin detect player who is camping for a specific time.*
 
 - **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
@@ -503,7 +503,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CS2-EntityFix](https://github.com/darkerz7/CS2-EntityFix)**<br>
   ⭐ 8<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.*
 
 - **[darkerz7/CS2-HideTeammates](https://github.com/darkerz7/CS2-HideTeammates)**<br>
@@ -523,18 +523,18 @@ These are the websites with resources that you might need to check during develo
 
 - **[zakriamansoor47/SLAYER_UnrestrictedFOV](https://github.com/zakriamansoor47/SLAYER_UnrestrictedFOV)**<br>
   ⭐ 7<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 6 months ago<br>
   *This simple plugin allow players to change their FOV.*
+
+- **[Kandru/cs2-demo-recorder](https://github.com/Kandru/cs2-demo-recorder)**<br>
+  ⭐ 7<br>
+  ⏱️ updated 2 months ago<br>
+  *This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.*
 
 - **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds)**<br>
   ⭐ 6<br>
   ⏱️ updated 1 month ago<br>
   *This plugin allows for server owners to create billboard type advertisements that are placed on wall.*
-
-- **[Kandru/cs2-demo-recorder](https://github.com/Kandru/cs2-demo-recorder)**<br>
-  ⭐ 6<br>
-  ⏱️ updated 2 months ago<br>
-  *This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.*
 
 - **[Ferks-FK/CS2-TeamLimiter](https://github.com/Ferks-FK/CS2-TeamLimiter)**<br>
   ⭐ 6<br>
@@ -543,12 +543,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[zakriamansoor47/SLAYER_HeadshotOnly](https://github.com/zakriamansoor47/SLAYER_HeadshotOnly)**<br>
   ⭐ 5<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 6 months ago<br>
   *This plugin enables headshot only to all players or enables headshot only on players themselves by using public command !hs.*
 
 - **[zakriamansoor47/SLAYER_Noscope](https://github.com/zakriamansoor47/SLAYER_Noscope)**<br>
   ⭐ 5<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 6 months ago<br>
   *This plugin disables scope of scope weapons like AWP, scout, etc.*
 
 - **[darkerz7/CSSharp-Fixes](https://github.com/darkerz7/CSSharp-Fixes)**<br>
@@ -578,7 +578,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[TICHOJEBEC-SK/cs2-WeaponRestrict](https://github.com/TICHOJEBEC-SK/cs2-WeaponRestrict)**<br>
   ⭐ 4<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *A plugin that lets you restrict weapons by rules.*
 
 - **[Interesting-exe/QuickDefuse](https://github.com/Interesting-exe/QuickDefuse)**<br>
@@ -638,7 +638,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[zakriamansoor47/SLAYER_1HitKill](https://github.com/zakriamansoor47/SLAYER_1HitKill)**<br>
   ⭐ 2<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 6 months ago<br>
   *This simple plugin allows players to kill others in 1 Hit.*
 
 - **[Dliix66/CS2-BotSlay](https://github.com/Dliix66/CS2-BotSlay)**<br>
@@ -811,7 +811,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/resetscore](https://github.com/swiftly-solution/resetscore)**<br>
   ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
+  ⏱️ updated 0 seconds ago<br>
   *A plugin for Swiftly that sets the stats from the tab to 0 to the player that used the !rs/!resetscore command.*
 
 - **[swiftly-solution/connect-sounds](https://github.com/swiftly-solution/connect-sounds)**<br>
