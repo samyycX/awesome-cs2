@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/10/14 01:54:35</strong>
+  Last Sync: <strong>2025/10/15 01:57:37</strong>
 </p>
 <p>
   Project Uptime: <strong>1 month</strong>
@@ -160,32 +160,32 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 320<br>
-  ⏱️ updated 2 hours ago<br>
+  ⏱️ updated 1 hour ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
-  ⭐ 162<br>
-  ⏱️ updated 1 day ago<br>
+  ⭐ 163<br>
+  ⏱️ updated 5 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
   ⭐ 113<br>
-  ⏱️ updated 4 weeks ago<br>
+  ⏱️ updated 12 hours ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
 - **[Source2ZE/ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix)**<br>
   ⭐ 58<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 5 hours ago<br>
   *Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.*
 
 - **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2)**<br>
   ⭐ 57<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *A simple plugin that allows you to filter out console prints with regular expressions.*
 
 - **[Salvatore-Als/cs2-fake-rcon](https://github.com/Salvatore-Als/cs2-fake-rcon)**<br>
   ⭐ 55<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 12 hours ago<br>
   *Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).*
 
 - **[Source2ZE/MovementUnlocker](https://github.com/Source2ZE/MovementUnlocker)**<br>
@@ -205,7 +205,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/FakeRanks-RevealAll](https://github.com/Cruze03/FakeRanks-RevealAll)**<br>
   ⭐ 43<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *A metamod plugin that reveals ranks of all players in server for player who presses tab.*
 
 - **[Interesting-exe/CS2Fixes-RampbugFix](https://github.com/Interesting-exe/CS2Fixes-RampbugFix)**<br>
@@ -225,35 +225,35 @@ These are the websites with resources that you might need to check during develo
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
   ⭐ 12<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 7 hours ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
   ⭐ 10<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
 
 
 ## CounterStrikeSharp Plugins
 
 - **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy)**<br>
-  ⭐ 380<br>
+  ⭐ 381<br>
   ⏱️ updated 1 month ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
-  ⭐ 318<br>
+  ⭐ 319<br>
   ⏱️ updated 3 weeks ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 288<br>
-  ⏱️ updated 6 hours ago<br>
+  ⏱️ updated 3 hours ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
   ⭐ 151<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 51 minutes ago<br>
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
@@ -296,15 +296,15 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 year ago<br>
   *A plugin that allows players to instantly defuse the bomb.*
 
+- **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
+  ⭐ 55<br>
+  ⏱️ updated 1 month ago<br>
+  *Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.*
+
 - **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
   ⭐ 54<br>
   ⏱️ updated 1 month ago<br>
   *This plugin allows players to use Emotes & Dances just like Fortnite.*
-
-- **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
-  ⭐ 54<br>
-  ⏱️ updated 1 month ago<br>
-  *Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.*
 
 - **[daffyyyy/CS2-Tags](https://github.com/daffyyyy/CS2-Tags)**<br>
   ⭐ 53<br>
@@ -333,7 +333,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[zwolof/cs2-executes](https://github.com/zwolof/cs2-executes)**<br>
   ⭐ 32<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *CS2 implementation of executes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[HvH-gg/CS2-Essentials](https://github.com/HvH-gg/CS2-Essentials)**<br>
@@ -343,7 +343,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 27<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *Notify players about entity interactions.*
 
 - **[ssypchenko/cs2-gungame](https://github.com/ssypchenko/cs2-gungame)**<br>
@@ -423,7 +423,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[HvH-gg/TeleportFix](https://github.com/HvH-gg/TeleportFix)**<br>
   ⭐ 15<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit.*
 
 - **[Cruze03/cs2_blockradiocommands](https://github.com/Cruze03/cs2_blockradiocommands)**<br>
@@ -453,7 +453,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher)**<br>
   ⭐ 11<br>
-  ⏱️ updated 1 month ago<br>
+  ⏱️ updated 2 months ago<br>
   *A plugin with various patches for cs2.*
 
 - **[HvH-gg/RapidFireFix](https://github.com/HvH-gg/RapidFireFix)**<br>
@@ -463,7 +463,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[asapverneri/CS2-Playervotes](https://github.com/asapverneri/CS2-Playervotes)**<br>
   ⭐ 11<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *Lightweight and efficient voting system for CS2 without anything pointless, allowing players to initiate votes for kicking, banning, and muting players.*
 
 - **[B3none/cs2-instaplant](https://github.com/B3none/cs2-instaplant)**<br>
@@ -503,7 +503,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CS2-EntityFix](https://github.com/darkerz7/CS2-EntityFix)**<br>
   ⭐ 8<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.*
 
 - **[darkerz7/CS2-HideTeammates](https://github.com/darkerz7/CS2-HideTeammates)**<br>
@@ -573,7 +573,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[zakriamansoor47/SLAYER_Revive](https://github.com/zakriamansoor47/SLAYER_Revive)**<br>
   ⭐ 4<br>
-  ⏱️ updated 4 weeks ago<br>
+  ⏱️ updated 1 month ago<br>
   *Revive teammates with 'E' (+use button).*
 
 - **[TICHOJEBEC-SK/cs2-WeaponRestrict](https://github.com/TICHOJEBEC-SK/cs2-WeaponRestrict)**<br>
@@ -691,7 +691,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/faceit-level](https://github.com/swiftly-solution/faceit-level)**<br>
   ⭐ 2<br>
-  ⏱️ updated 9 months ago<br>
+  ⏱️ updated 10 months ago<br>
   *A simple plugin for Swiftly that queries the level faceit of a player and add the icon on the scoreboard.*
 
 - **[swiftly-solution/admins_basebans](https://github.com/swiftly-solution/admins_basebans)**<br>
@@ -761,7 +761,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/deathmatch](https://github.com/swiftly-solution/deathmatch)**<br>
   ⭐ 0<br>
-  ⏱️ updated 7 months ago<br>
+  ⏱️ updated 8 months ago<br>
   *A simple plugin for swiftly that implements the basic functionality of a Deathmatch/FFA server.*
 
 - **[swiftly-solution/player-model-changer](https://github.com/swiftly-solution/player-model-changer)**<br>
