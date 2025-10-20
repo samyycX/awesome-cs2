@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/10/20 02:05:04</strong>
+  Last Sync: <strong>2025/10/20 17:48:33</strong>
 </p>
 <p>
   Project Uptime: <strong>1 month</strong>
@@ -73,8 +73,8 @@
   *The most popular modding framework for cs2, the plugins are written in c#.*\
   *Alias: CS#, cssharp*
 
-- **[Swiftly](https://github.com/swiftly-solution/swiftly)** [[Website](https://swiftlys2.net)] [[Discord](https://discord.com/invite/Yv7hAM6erd)]\
-  *A modding framework that support c#, cpp and lua as scripting language with more feature than counterstrikesharp.*
+- **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2)** [[Website](https://swiftlys2.net)] [[Discord](https://discord.gg/vVAMBR7z)]\
+  *A modding framework that support c#, with more features than counterstrikesharp.*
 
 - **[Plugify](https://github.com/untrustedmodders/plugify)** [[Website](https://plugify.net)] [[Discord](https://discord.gg/untrustedmodders)]\
   *A modding framework that support tons of programming languages, more information can be found in there discord channel and website.*
@@ -225,7 +225,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
   ⭐ 12<br>
-  ⏱️ updated 11 minutes ago<br>
+  ⏱️ updated 19 minutes ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
