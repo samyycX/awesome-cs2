@@ -73,8 +73,8 @@
   *The most popular modding framework for cs2, the plugins are written in c#.*\
   *Alias: CS#, cssharp*
 
-- **[Swiftly](https://github.com/swiftly-solution/swiftly)** [[Website](https://swiftlys2.net)] [[Discord](https://discord.com/invite/Yv7hAM6erd)]\
-  *A modding framework that support c#, cpp and lua as scripting language with more feature than counterstrikesharp.*
+- **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2)** [[Website](https://swiftlys2.net)] [[Discord](https://discord.gg/vVAMBR7z)]\
+  *A modding framework that support c#, with more features than counterstrikesharp.*
 
 - **[Plugify](https://github.com/untrustedmodders/plugify)** [[Website](https://plugify.net)] [[Discord](https://discord.gg/untrustedmodders)]\
   *A modding framework that support tons of programming languages, more information can be found in there discord channel and website.*
