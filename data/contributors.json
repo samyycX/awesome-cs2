@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T02:02:37.938849+00:00",
-  "count": 251,
+  "generated_at": "2025-11-06T02:02:36.226326+00:00",
+  "count": 253,
   "contributors": [
     {
       "login": "1370533448",
@@ -687,6 +687,12 @@
       "type": "User"
     },
     {
+      "login": "kkeegzz",
+      "html_url": "https://github.com/kkeegzz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54126889?v=4",
+      "type": "User"
+    },
+    {
       "login": "KKNecmi",
       "html_url": "https://github.com/KKNecmi",
       "avatar_url": "https://avatars.githubusercontent.com/u/174268271?v=4",
@@ -840,6 +846,12 @@
       "login": "michihupf",
       "html_url": "https://github.com/michihupf",
       "avatar_url": "https://avatars.githubusercontent.com/u/26794144?v=4",
+      "type": "User"
+    },
+    {
+      "login": "Micka2302",
+      "html_url": "https://github.com/Micka2302",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20491694?v=4",
       "type": "User"
     },
     {
