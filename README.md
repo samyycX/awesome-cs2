@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/11/08 01:55:06</strong>
+  Last Sync: <strong>2025/11/09 02:05:51</strong>
 </p>
 <p>
   Project Uptime: <strong>2 months</strong>
@@ -160,12 +160,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 323<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 165<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -195,7 +195,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/MovementUnlocker](https://github.com/Source2ZE/MovementUnlocker)**<br>
   ⭐ 53<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.*
 
 - **[Source2ZE/StripperCS2](https://github.com/Source2ZE/StripperCS2)**<br>
@@ -205,7 +205,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/FakeRanks-RevealAll](https://github.com/Cruze03/FakeRanks-RevealAll)**<br>
   ⭐ 43<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *A metamod plugin that reveals ranks of all players in server for player who presses tab.*
 
 - **[Interesting-exe/CS2Fixes-RampbugFix](https://github.com/Interesting-exe/CS2Fixes-RampbugFix)**<br>
@@ -248,12 +248,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 291<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
   ⭐ 155<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
@@ -272,7 +272,7 @@ These are the websites with resources that you might need to check during develo
   *A plugin to implement deathmatch gamemode.*
 
 - **[NiGHT757/AFKManager](https://github.com/NiGHT757/AFKManager)**<br>
-  ⭐ 73<br>
+  ⭐ 74<br>
   ⏱️ updated 1 month ago<br>
   *AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO.*
 
@@ -343,7 +343,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 28<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *Notify players about entity interactions.*
 
 - **[ssypchenko/cs2-gungame](https://github.com/ssypchenko/cs2-gungame)**<br>
@@ -423,7 +423,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[HvH-gg/TeleportFix](https://github.com/HvH-gg/TeleportFix)**<br>
   ⭐ 15<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit.*
 
 - **[Cruze03/cs2_blockradiocommands](https://github.com/Cruze03/cs2_blockradiocommands)**<br>
@@ -448,7 +448,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[K4ryuu/K4-AlwaysWeaponSkins](https://github.com/K4ryuu/K4-AlwaysWeaponSkins)**<br>
   ⭐ 13<br>
-  ⏱️ updated 5 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *This plugin enhances weapon skin visibility by ensuring your equipped Steam inventory skins are displayed consistently across both teams.*
 
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
@@ -461,6 +461,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 3 months ago<br>
   *The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.*
 
+- **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
+  ⭐ 11<br>
+  ⏱️ updated 1 month ago<br>
+  *T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.*
+
 - **[HvH-gg/RapidFireFix](https://github.com/HvH-gg/RapidFireFix)**<br>
   ⭐ 11<br>
   ⏱️ updated 3 weeks ago<br>
@@ -468,18 +473,13 @@ These are the websites with resources that you might need to check during develo
 
 - **[asapverneri/CS2-Playervotes](https://github.com/asapverneri/CS2-Playervotes)**<br>
   ⭐ 11<br>
-  ⏱️ updated 4 weeks ago<br>
+  ⏱️ updated 1 month ago<br>
   *Lightweight and efficient voting system for CS2 without anything pointless, allowing players to initiate votes for kicking, banning, and muting players.*
 
 - **[B3none/cs2-instaplant](https://github.com/B3none/cs2-instaplant)**<br>
   ⭐ 11<br>
   ⏱️ updated 1 year ago<br>
   *Plant the bomb instantly as a terrorist.*
-
-- **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
-  ⭐ 10<br>
-  ⏱️ updated 1 month ago<br>
-  *T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.*
 
 - **[T3Marius/MVP-Anthem](https://github.com/T3Marius/MVP-Anthem)**<br>
   ⭐ 10<br>
@@ -498,7 +498,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-quake-sounds](https://github.com/Kandru/cs2-quake-sounds)**<br>
   ⭐ 9<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.*
 
 - **[Kandru/cs2-challenges](https://github.com/Kandru/cs2-challenges)**<br>
@@ -538,7 +538,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CSSharp-Fixes](https://github.com/darkerz7/CSSharp-Fixes)**<br>
   ⭐ 6<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.*
 
 - **[Ferks-FK/CS2-TeamLimiter](https://github.com/Ferks-FK/CS2-TeamLimiter)**<br>
