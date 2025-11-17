@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/11/15 01:58:45</strong>
+  Last Sync: <strong>2025/11/16 02:09:05</strong>
 </p>
 <p>
   Project Uptime: <strong>2 months</strong>
@@ -160,12 +160,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 324<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 165<br>
-  ⏱️ updated 11 hours ago<br>
+  ⏱️ updated 1 hour ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -184,12 +184,12 @@ These are the websites with resources that you might need to check during develo
   *A simple plugin that allows you to filter out console prints with regular expressions.*
 
 - **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
-  ⭐ 54<br>
+  ⭐ 55<br>
   ⏱️ updated 1 month ago<br>
   *A plugin that shows entities, net messages, events and etc with a GUI.*
 
 - **[Salvatore-Als/cs2-fake-rcon](https://github.com/Salvatore-Als/cs2-fake-rcon)**<br>
-  ⭐ 54<br>
+  ⭐ 55<br>
   ⏱️ updated 1 month ago<br>
   *Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).*
 
@@ -230,7 +230,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
   ⭐ 12<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
 
 
@@ -243,17 +243,17 @@ These are the websites with resources that you might need to check during develo
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
   ⭐ 324<br>
-  ⏱️ updated 4 weeks ago<br>
+  ⏱️ updated 1 month ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 292<br>
-  ⏱️ updated 2 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
-  ⭐ 155<br>
-  ⏱️ updated 3 days ago<br>
+  ⭐ 156<br>
+  ⏱️ updated 4 days ago<br>
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
@@ -278,7 +278,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[partiusfabaa/cs2-VIPCore](https://github.com/partiusfabaa/cs2-VIPCore)**<br>
   ⭐ 70<br>
-  ⏱️ updated 15 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *A vip plugin for cs2.*
 
 - **[partiusfabaa/cs2-ranks](https://github.com/partiusfabaa/cs2-ranks)**<br>
@@ -288,7 +288,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
   ⭐ 63<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 1 hour ago<br>
   *Block/Hide unnecessaries in game.*
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
@@ -298,7 +298,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
   ⭐ 55<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *This plugin allows players to use Emotes & Dances just like Fortnite.*
 
 - **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
@@ -338,7 +338,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[HvH-gg/CS2-Essentials](https://github.com/HvH-gg/CS2-Essentials)**<br>
   ⭐ 32<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes.*
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
@@ -458,7 +458,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
   ⭐ 13<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A modern, improved third-person camera plugin for Counter-Strike 2.*
 
 - **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
@@ -468,7 +468,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[HvH-gg/RapidFireFix](https://github.com/HvH-gg/RapidFireFix)**<br>
   ⭐ 11<br>
-  ⏱️ updated 4 weeks ago<br>
+  ⏱️ updated 1 month ago<br>
   *CounterStrikeSharp plugin to handle rapid fire in CS2.*
 
 - **[asapverneri/CS2-Playervotes](https://github.com/asapverneri/CS2-Playervotes)**<br>
@@ -518,7 +518,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CS2-HideTeammates](https://github.com/darkerz7/CS2-HideTeammates)**<br>
   ⭐ 8<br>
-  ⏱️ updated 2 months ago<br>
+  ⏱️ updated 3 months ago<br>
   *Hides Teammates on the entire map or distance.*
 
 - **[zakriamansoor47/SLAYER_UnrestrictedFOV](https://github.com/zakriamansoor47/SLAYER_UnrestrictedFOV)**<br>
@@ -666,7 +666,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/admins](https://github.com/swiftly-solution/admins)**<br>
   ⭐ 4<br>
-  ⏱️ updated 7 months ago<br>
+  ⏱️ updated 8 months ago<br>
   *A simple plugin for swiftly that implements an admin system (core).*
 
 - **[swiftly-solution/vip_modules](https://github.com/swiftly-solution/vip_modules)**<br>
@@ -696,7 +696,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/admins_basebans](https://github.com/swiftly-solution/admins_basebans)**<br>
   ⭐ 1<br>
-  ⏱️ updated 7 months ago<br>
+  ⏱️ updated 8 months ago<br>
   *A simple plugin for Swiftly that implements a ban system.*
 
 - **[swiftly-solution/admins_commands](https://github.com/swiftly-solution/admins_commands)**<br>
@@ -821,7 +821,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/goldmember](https://github.com/swiftly-solution/goldmember)**<br>
   ⭐ 0<br>
-  ⏱️ updated 10 months ago<br>
+  ⏱️ updated 11 months ago<br>
   *A plugin for Swiftly that gives benefits to players who has your server DNS in their name.*
 
 - **[swiftly-solution/advanced-weapons](https://github.com/swiftly-solution/advanced-weapons)**<br>
