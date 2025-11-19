@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/11/17 02:04:01</strong>
+  Last Sync: <strong>2025/11/18 02:02:16</strong>
 </p>
 <p>
   Project Uptime: <strong>2 months</strong>
@@ -160,12 +160,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 324<br>
-  ⏱️ updated 22 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 165<br>
-  ⏱️ updated 19 hours ago<br>
+  ⏱️ updated 13 minutes ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -230,7 +230,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
   ⭐ 12<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
 
 
@@ -242,18 +242,18 @@ These are the websites with resources that you might need to check during develo
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
-  ⭐ 324<br>
+  ⭐ 325<br>
   ⏱️ updated 1 month ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 292<br>
-  ⏱️ updated 6 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
   ⭐ 156<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
@@ -278,17 +278,17 @@ These are the websites with resources that you might need to check during develo
 
 - **[partiusfabaa/cs2-VIPCore](https://github.com/partiusfabaa/cs2-VIPCore)**<br>
   ⭐ 70<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *A vip plugin for cs2.*
 
 - **[partiusfabaa/cs2-ranks](https://github.com/partiusfabaa/cs2-ranks)**<br>
-  ⭐ 63<br>
+  ⭐ 64<br>
   ⏱️ updated 3 months ago<br>
   *Each player is assigned a rank based on their accumulated experience points. Ranks range from "None" to the prestigious "The Global Elite."*
 
 - **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
   ⭐ 63<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *Block/Hide unnecessaries in game.*
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
@@ -296,15 +296,15 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 year ago<br>
   *A plugin that allows players to instantly defuse the bomb.*
 
-- **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
-  ⭐ 55<br>
-  ⏱️ updated 5 days ago<br>
-  *This plugin allows players to use Emotes & Dances just like Fortnite.*
-
 - **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
-  ⭐ 55<br>
+  ⭐ 56<br>
   ⏱️ updated 3 weeks ago<br>
   *Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.*
+
+- **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
+  ⭐ 55<br>
+  ⏱️ updated 6 days ago<br>
+  *This plugin allows players to use Emotes & Dances just like Fortnite.*
 
 - **[daffyyyy/CS2-Tags](https://github.com/daffyyyy/CS2-Tags)**<br>
   ⭐ 54<br>
@@ -317,7 +317,7 @@ These are the websites with resources that you might need to check during develo
   *A tag plugin designed to enhance your CS2 experience with a dynamic tagging system. Customise and manage player tags effortlessly for a more interactive and engaging game environment.*
 
 - **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote)**<br>
-  ⭐ 48<br>
+  ⭐ 49<br>
   ⏱️ updated 1 month ago<br>
   *General purpose map voting plugin, started as a simple RTV and now has more features.*
 
@@ -328,7 +328,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[schwarper/CS2MenuManager](https://github.com/schwarper/CS2MenuManager)**<br>
   ⭐ 37<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.*
 
 - **[zwolof/cs2-executes](https://github.com/zwolof/cs2-executes)**<br>
@@ -338,7 +338,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[HvH-gg/CS2-Essentials](https://github.com/HvH-gg/CS2-Essentials)**<br>
   ⭐ 32<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes.*
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
@@ -398,7 +398,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[wiruwiru/AutomaticAds-CS2](https://github.com/wiruwiru/AutomaticAds-CS2)**<br>
   ⭐ 17<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.*
 
 - **[zakriamansoor47/SLAYER_Duel](https://github.com/zakriamansoor47/SLAYER_Duel)**<br>
@@ -408,7 +408,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[phara1/advanced-ff-cs2](https://github.com/phara1/advanced-ff-cs2)**<br>
   ⭐ 16<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 3 weeks ago<br>
   *This plugin implements advanced control of friendly fire.*
 
 - **[qstage/CS2-FixRandomSpawn](https://github.com/qstage/CS2-FixRandomSpawn)**<br>
@@ -458,7 +458,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
   ⭐ 13<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *A modern, improved third-person camera plugin for Counter-Strike 2.*
 
 - **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
@@ -498,7 +498,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-quake-sounds](https://github.com/Kandru/cs2-quake-sounds)**<br>
   ⭐ 9<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.*
 
 - **[Kandru/cs2-challenges](https://github.com/Kandru/cs2-challenges)**<br>
@@ -568,7 +568,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[abnerfs/cs2-killfeed-filter](https://github.com/abnerfs/cs2-killfeed-filter)**<br>
   ⭐ 5<br>
-  ⏱️ updated 1 year ago<br>
+  ⏱️ updated 2 years ago<br>
   *Show only your kills/assists/deaths in the killfeed, useful for DM servers where the killfeed has too much kills going on.*
 
 - **[zakriamansoor47/SLAYER_Revive](https://github.com/zakriamansoor47/SLAYER_Revive)**<br>
@@ -608,7 +608,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[M-archand/CS2FlashingHtmlHudFix](https://github.com/M-archand/CS2FlashingHtmlHudFix)**<br>
   ⭐ 3<br>
-  ⏱️ updated 12 months ago<br>
+  ⏱️ updated 1 year ago<br>
   *A CS2 CS# Plugin that uses a workaround found by Poggu to make .PrintToCenterHTML not flash every second by setting.*
 
 - **[asapverneri/CS2-Gunsmenu](https://github.com/asapverneri/CS2-Gunsmenu)**<br>
