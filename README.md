@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/11/19 02:02:06</strong>
+  Last Sync: <strong>2025/11/20 02:00:43</strong>
 </p>
 <p>
   Project Uptime: <strong>2 months</strong>
@@ -160,12 +160,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 324<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 166<br>
-  ⏱️ updated 17 hours ago<br>
+  ⏱️ updated 14 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -220,7 +220,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[samyycX/Audio](https://github.com/samyycX/Audio)**<br>
   ⭐ 16<br>
-  ⏱️ updated 2 months ago<br>
+  ⏱️ updated 3 months ago<br>
   *A demo and a metamod lib to provide similar functions to the previous SM-Ext-Audio extension in csgo, that is, sending custom audio streams such as a song through a bot's voice chat.*
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
@@ -230,29 +230,29 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
   ⭐ 12<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
 
 
 ## CounterStrikeSharp Plugins
 
 - **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy)**<br>
-  ⭐ 390<br>
+  ⭐ 392<br>
   ⏱️ updated 3 weeks ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
-  ⭐ 327<br>
+  ⭐ 328<br>
   ⏱️ updated 1 month ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 293<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 10 hours ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
-  ⭐ 156<br>
+  ⭐ 157<br>
   ⏱️ updated 1 week ago<br>
   *Manage your Counter-Strike 2 server with simple commands!*
 
@@ -277,8 +277,8 @@ These are the websites with resources that you might need to check during develo
   *AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO.*
 
 - **[partiusfabaa/cs2-VIPCore](https://github.com/partiusfabaa/cs2-VIPCore)**<br>
-  ⭐ 70<br>
-  ⏱️ updated 4 days ago<br>
+  ⭐ 71<br>
+  ⏱️ updated 5 days ago<br>
   *A vip plugin for cs2.*
 
 - **[partiusfabaa/cs2-ranks](https://github.com/partiusfabaa/cs2-ranks)**<br>
@@ -288,7 +288,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
   ⭐ 63<br>
-  ⏱️ updated 5 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *Block/Hide unnecessaries in game.*
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
@@ -298,7 +298,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
   ⭐ 56<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 8 hours ago<br>
   *Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.*
 
 - **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
@@ -328,7 +328,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[schwarper/CS2MenuManager](https://github.com/schwarper/CS2MenuManager)**<br>
   ⭐ 37<br>
-  ⏱️ updated 4 weeks ago<br>
+  ⏱️ updated 1 month ago<br>
   *CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.*
 
 - **[zwolof/cs2-executes](https://github.com/zwolof/cs2-executes)**<br>
@@ -398,7 +398,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[wiruwiru/AutomaticAds-CS2](https://github.com/wiruwiru/AutomaticAds-CS2)**<br>
   ⭐ 17<br>
-  ⏱️ updated 4 weeks ago<br>
+  ⏱️ updated 1 month ago<br>
   *This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.*
 
 - **[zakriamansoor47/SLAYER_Duel](https://github.com/zakriamansoor47/SLAYER_Duel)**<br>
@@ -458,7 +458,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
   ⭐ 13<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *A modern, improved third-person camera plugin for Counter-Strike 2.*
 
 - **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
@@ -556,6 +556,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 7 months ago<br>
   *This plugin disables scope of scope weapons like AWP, scout, etc.*
 
+- **[schwarper/cs2-store](https://github.com/schwarper/cs2-store)**<br>
+  ⭐ 5<br>
+  ⏱️ updated 2 months ago<br>
+  *A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.*
+
 - **[asapverneri/CS2-Baninfo](https://github.com/asapverneri/CS2-Baninfo)**<br>
   ⭐ 5<br>
   ⏱️ updated 1 year ago<br>
@@ -575,11 +580,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 4<br>
   ⏱️ updated 2 months ago<br>
   *Revive teammates with 'E' (+use button).*
-
-- **[schwarper/cs2-store](https://github.com/schwarper/cs2-store)**<br>
-  ⭐ 4<br>
-  ⏱️ updated 2 months ago<br>
-  *A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.*
 
 - **[TICHOJEBEC-SK/cs2-WeaponRestrict](https://github.com/TICHOJEBEC-SK/cs2-WeaponRestrict)**<br>
   ⭐ 4<br>
@@ -746,7 +746,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/mostactive](https://github.com/swiftly-solution/mostactive)**<br>
   ⭐ 0<br>
-  ⏱️ updated 8 months ago<br>
+  ⏱️ updated 9 months ago<br>
   *A simple plugin for Swiftly that saves the connected time of a player on server in database.*
 
 - **[swiftly-solution/random-team-logo](https://github.com/swiftly-solution/random-team-logo)**<br>
