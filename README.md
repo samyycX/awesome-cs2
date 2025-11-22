@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/11/20 02:00:43</strong>
+  Last Sync: <strong>2025/11/21 02:01:12</strong>
 </p>
 <p>
   Project Uptime: <strong>2 months</strong>
@@ -160,12 +160,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 324<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 166<br>
-  ⏱️ updated 14 hours ago<br>
+  ⏱️ updated 16 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -183,15 +183,15 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 month ago<br>
   *A simple plugin that allows you to filter out console prints with regular expressions.*
 
+- **[Salvatore-Als/cs2-fake-rcon](https://github.com/Salvatore-Als/cs2-fake-rcon)**<br>
+  ⭐ 56<br>
+  ⏱️ updated 1 month ago<br>
+  *Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).*
+
 - **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
   ⭐ 55<br>
   ⏱️ updated 1 month ago<br>
   *A plugin that shows entities, net messages, events and etc with a GUI.*
-
-- **[Salvatore-Als/cs2-fake-rcon](https://github.com/Salvatore-Als/cs2-fake-rcon)**<br>
-  ⭐ 55<br>
-  ⏱️ updated 1 month ago<br>
-  *Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).*
 
 - **[Source2ZE/MovementUnlocker](https://github.com/Source2ZE/MovementUnlocker)**<br>
   ⭐ 53<br>
@@ -237,7 +237,7 @@ These are the websites with resources that you might need to check during develo
 ## CounterStrikeSharp Plugins
 
 - **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy)**<br>
-  ⭐ 392<br>
+  ⭐ 391<br>
   ⏱️ updated 3 weeks ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
@@ -247,8 +247,8 @@ These are the websites with resources that you might need to check during develo
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
-  ⭐ 293<br>
-  ⏱️ updated 10 hours ago<br>
+  ⭐ 292<br>
+  ⏱️ updated 1 day ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
@@ -257,7 +257,7 @@ These are the websites with resources that you might need to check during develo
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
-  ⭐ 138<br>
+  ⭐ 139<br>
   ⏱️ updated 1 month ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
@@ -267,7 +267,7 @@ These are the websites with resources that you might need to check during develo
   *A cssharp plugin to change player models.*
 
 - **[NockyCZ/CS2-Deathmatch](https://github.com/NockyCZ/CS2-Deathmatch)**<br>
-  ⭐ 110<br>
+  ⭐ 109<br>
   ⏱️ updated 1 month ago<br>
   *A plugin to implement deathmatch gamemode.*
 
@@ -278,7 +278,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[partiusfabaa/cs2-VIPCore](https://github.com/partiusfabaa/cs2-VIPCore)**<br>
   ⭐ 71<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *A vip plugin for cs2.*
 
 - **[partiusfabaa/cs2-ranks](https://github.com/partiusfabaa/cs2-ranks)**<br>
@@ -288,7 +288,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
   ⭐ 63<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *Block/Hide unnecessaries in game.*
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
@@ -298,7 +298,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
   ⭐ 56<br>
-  ⏱️ updated 8 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.*
 
 - **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
@@ -346,11 +346,6 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 2 weeks ago<br>
   *Notify players about entity interactions.*
 
-- **[ssypchenko/cs2-gungame](https://github.com/ssypchenko/cs2-gungame)**<br>
-  ⭐ 27<br>
-  ⏱️ updated 2 months ago<br>
-  *GunGame is a gameplay plugin inspired by the SourceMode GunGame plugin.*
-
 - **[oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ](https://github.com/oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ)**<br>
   ⭐ 27<br>
   ⏱️ updated 6 months ago<br>
@@ -360,6 +355,11 @@ These are the websites with resources that you might need to check during develo
   ⭐ 27<br>
   ⏱️ updated 11 months ago<br>
   *This plugin adds countdown to c4 bomb explosion to your server.*
+
+- **[ssypchenko/cs2-gungame](https://github.com/ssypchenko/cs2-gungame)**<br>
+  ⭐ 26<br>
+  ⏱️ updated 2 months ago<br>
+  *GunGame is a gameplay plugin inspired by the SourceMode GunGame plugin.*
 
 - **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ)**<br>
   ⭐ 26<br>
@@ -458,7 +458,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
   ⭐ 13<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *A modern, improved third-person camera plugin for Counter-Strike 2.*
 
 - **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
@@ -476,11 +476,6 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 month ago<br>
   *Lightweight and efficient voting system for CS2 without anything pointless, allowing players to initiate votes for kicking, banning, and muting players.*
 
-- **[B3none/cs2-instaplant](https://github.com/B3none/cs2-instaplant)**<br>
-  ⭐ 11<br>
-  ⏱️ updated 1 year ago<br>
-  *Plant the bomb instantly as a terrorist.*
-
 - **[T3Marius/MVP-Anthem](https://github.com/T3Marius/MVP-Anthem)**<br>
   ⭐ 10<br>
   ⏱️ updated 1 month ago<br>
@@ -490,6 +485,11 @@ These are the websites with resources that you might need to check during develo
   ⭐ 10<br>
   ⏱️ updated 3 weeks ago<br>
   *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
+
+- **[B3none/cs2-instaplant](https://github.com/B3none/cs2-instaplant)**<br>
+  ⭐ 10<br>
+  ⏱️ updated 1 year ago<br>
+  *Plant the bomb instantly as a terrorist.*
 
 - **[zakriamansoor47/SLAYER_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp)**<br>
   ⭐ 9<br>
@@ -568,7 +568,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[asapverneri/CS2-ChatRelay](https://github.com/asapverneri/CS2-ChatRelay)**<br>
   ⭐ 5<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 6 months ago<br>
   *Lightweight plugin to send your cs2 server chat messages to discord channel using webhook.*
 
 - **[abnerfs/cs2-killfeed-filter](https://github.com/abnerfs/cs2-killfeed-filter)**<br>
@@ -653,7 +653,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[asapverneri/CS2-ChatLogs](https://github.com/asapverneri/CS2-ChatLogs)**<br>
   ⭐ 1<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 6 months ago<br>
   *Plugin that store chat messages to MySQL database.*
 
 - **[Austinbots/cs2-BotsNoKnife](https://github.com/Austinbots/cs2-BotsNoKnife)**<br>
