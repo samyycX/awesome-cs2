@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/12/09 02:06:30</strong>
+  Last Sync: <strong>2025/12/10 02:08:41</strong>
 </p>
 <p>
   Project Uptime: <strong>3 months</strong>
@@ -160,12 +160,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 328<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 167<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 3 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -210,7 +210,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Interesting-exe/CS2Fixes-RampbugFix](https://github.com/Interesting-exe/CS2Fixes-RampbugFix)**<br>
   ⭐ 31<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *Minimizes rampbugs. This plugin isn't perfect and rampbugs will continue to occur until Valve decides to finally fix them.*
 
 - **[Source2ZE/AcceleratorCS2](https://github.com/Source2ZE/AcceleratorCS2)**<br>
@@ -223,15 +223,15 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 3 months ago<br>
   *A demo and a metamod lib to provide similar functions to the previous SM-Ext-Audio extension in csgo, that is, sending custom audio streams such as a song through a bot's voice chat.*
 
+- **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
+  ⭐ 13<br>
+  ⏱️ updated 3 weeks ago<br>
+  *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
+
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
   ⭐ 12<br>
   ⏱️ updated 1 month ago<br>
   *A plugin that can dump the schemas and generate a header file.*
-
-- **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
-  ⭐ 12<br>
-  ⏱️ updated 3 weeks ago<br>
-  *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
 
 
 ## CounterStrikeSharp Plugins
@@ -248,11 +248,11 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 293<br>
-  ⏱️ updated 6 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
-  ⭐ 161<br>
+  ⭐ 162<br>
   ⏱️ updated 1 week ago<br>
   *Manage your Counter-Strike 2 server with simple commands!*
 
@@ -288,12 +288,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
   ⭐ 62<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 3 weeks ago<br>
   *Block/Hide unnecessaries in game.*
 
 - **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
-  ⭐ 58<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⭐ 57<br>
+  ⏱️ updated 4 weeks ago<br>
   *This plugin allows players to use Emotes & Dances just like Fortnite.*
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
@@ -353,7 +353,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[R0mz1k/css-C4-Timer](https://github.com/R0mz1k/css-C4-Timer)**<br>
   ⭐ 27<br>
-  ⏱️ updated 12 months ago<br>
+  ⏱️ updated 1 year ago<br>
   *This plugin adds countdown to c4 bomb explosion to your server.*
 
 - **[schwarper/CS2TraceRay](https://github.com/schwarper/CS2TraceRay)**<br>
@@ -458,7 +458,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
   ⭐ 13<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *A modern, improved third-person camera plugin for Counter-Strike 2.*
 
 - **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
@@ -473,7 +473,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[asapverneri/CS2-Playervotes](https://github.com/asapverneri/CS2-Playervotes)**<br>
   ⭐ 11<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *Lightweight and efficient voting system for CS2 without anything pointless, allowing players to initiate votes for kicking, banning, and muting players.*
 
 - **[B3none/cs2-instaplant](https://github.com/B3none/cs2-instaplant)**<br>
@@ -518,7 +518,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CS2-HideTeammates](https://github.com/darkerz7/CS2-HideTeammates)**<br>
   ⭐ 8<br>
-  ⏱️ updated 17 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *Hides Teammates on the entire map or distance.*
 
 - **[zakriamansoor47/SLAYER_UnrestrictedFOV](https://github.com/zakriamansoor47/SLAYER_UnrestrictedFOV)**<br>
