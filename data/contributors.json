@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T02:22:31.358524+00:00",
-  "count": 254,
+  "generated_at": "2025-12-15T02:19:45.312730+00:00",
+  "count": 253,
   "contributors": [
     {
       "login": "1370533448",
@@ -582,12 +582,6 @@
       "login": "ipsvn",
       "html_url": "https://github.com/ipsvn",
       "avatar_url": "https://avatars.githubusercontent.com/u/80017804?v=4",
-      "type": "User"
-    },
-    {
-      "login": "itsAudioo",
-      "html_url": "https://github.com/itsAudioo",
-      "avatar_url": "https://avatars.githubusercontent.com/u/116572799?v=4",
       "type": "User"
     },
     {
