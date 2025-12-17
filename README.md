@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/12/15 02:19:49</strong>
+  Last Sync: <strong>2025/12/16 02:10:46</strong>
 </p>
 <p>
   Project Uptime: <strong>3 months</strong>
@@ -160,12 +160,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 328<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 167<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 4 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -243,21 +243,21 @@ These are the websites with resources that you might need to check during develo
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
   ⭐ 331<br>
-  ⏱️ updated 1 month ago<br>
+  ⏱️ updated 2 months ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 293<br>
-  ⏱️ updated 6 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
   ⭐ 162<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
-  ⭐ 140<br>
+  ⭐ 141<br>
   ⏱️ updated 2 months ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
@@ -303,7 +303,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
   ⭐ 57<br>
-  ⏱️ updated 8 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.*
 
 - **[daffyyyy/CS2-Tags](https://github.com/daffyyyy/CS2-Tags)**<br>
@@ -343,7 +343,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 28<br>
-  ⏱️ updated 12 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *Notify players about entity interactions.*
 
 - **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ)**<br>
@@ -428,7 +428,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[HvH-gg/TeleportFix](https://github.com/HvH-gg/TeleportFix)**<br>
   ⭐ 15<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit.*
 
 - **[Cruze03/cs2_blockradiocommands](https://github.com/Cruze03/cs2_blockradiocommands)**<br>
@@ -468,7 +468,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[HvH-gg/RapidFireFix](https://github.com/HvH-gg/RapidFireFix)**<br>
   ⭐ 11<br>
-  ⏱️ updated 1 month ago<br>
+  ⏱️ updated 2 months ago<br>
   *CounterStrikeSharp plugin to handle rapid fire in CS2.*
 
 - **[asapverneri/CS2-Playervotes](https://github.com/asapverneri/CS2-Playervotes)**<br>
@@ -513,12 +513,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CS2-EntityFix](https://github.com/darkerz7/CS2-EntityFix)**<br>
   ⭐ 8<br>
-  ⏱️ updated 11 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.*
 
 - **[darkerz7/CS2-HideTeammates](https://github.com/darkerz7/CS2-HideTeammates)**<br>
   ⭐ 8<br>
-  ⏱️ updated 11 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *Hides Teammates on the entire map or distance.*
 
 - **[zakriamansoor47/SLAYER_UnrestrictedFOV](https://github.com/zakriamansoor47/SLAYER_UnrestrictedFOV)**<br>
@@ -538,7 +538,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CSSharp-Fixes](https://github.com/darkerz7/CSSharp-Fixes)**<br>
   ⭐ 7<br>
-  ⏱️ updated 11 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.*
 
 - **[Kandru/cs2-demo-recorder](https://github.com/Kandru/cs2-demo-recorder)**<br>
@@ -666,7 +666,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/admins](https://github.com/swiftly-solution/admins)**<br>
   ⭐ 4<br>
-  ⏱️ updated 8 months ago<br>
+  ⏱️ updated 9 months ago<br>
   *A simple plugin for swiftly that implements an admin system (core).*
 
 - **[swiftly-solution/vip_modules](https://github.com/swiftly-solution/vip_modules)**<br>
@@ -696,7 +696,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/admins_basebans](https://github.com/swiftly-solution/admins_basebans)**<br>
   ⭐ 1<br>
-  ⏱️ updated 8 months ago<br>
+  ⏱️ updated 9 months ago<br>
   *A simple plugin for Swiftly that implements a ban system.*
 
 - **[swiftly-solution/admins_commands](https://github.com/swiftly-solution/admins_commands)**<br>
@@ -821,7 +821,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/goldmember](https://github.com/swiftly-solution/goldmember)**<br>
   ⭐ 0<br>
-  ⏱️ updated 11 months ago<br>
+  ⏱️ updated 12 months ago<br>
   *A plugin for Swiftly that gives benefits to players who has your server DNS in their name.*
 
 - **[swiftly-solution/advanced-weapons](https://github.com/swiftly-solution/advanced-weapons)**<br>
