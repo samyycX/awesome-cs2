@@ -1,6 +1,7 @@
 import json
 import os
 import sys
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Tuple, Optional
@@ -247,6 +248,60 @@ def manifest_to_placeholder(manifest_filename: str) -> str:
 	return "$" + name_no_ext.replace("-", "_").upper()
 
 
+async def fetch_swiftlys2_posts(bypass_key: Optional[str]) -> List[Dict[str, Any]]:
+	if not bypass_key:
+		print("Warning: BYPASS_KEY not set, skipping SwiftlyS2 plugins")
+		return []
+
+	url = "https://forum.swiftlys2.net/posts.json"
+	params = {"bypass_key": bypass_key}
+
+	try:
+		async with aiohttp.ClientSession() as session:
+			async with session.get(url, params=params, timeout=aiohttp.ClientTimeout(total=30)) as resp:
+				if resp.status != 200:
+					print(f"Failed to fetch SwiftlyS2 posts: {resp.status}")
+					return []
+				data = await resp.json()
+	except Exception as e:
+		print(f"Error fetching SwiftlyS2 posts: {e}")
+		return []
+
+	posts = data.get("latest_posts", [])
+	plugins = []
+
+	for post in posts:
+		raw = post.get("raw", "")
+		
+		# Extract repo
+		matches = re.findall(r"github\.com/([a-zA-Z0-9_.-]+/[a-zA-Z0-9_.-]+)", raw)
+		repo_full_name = None
+		for match in matches:
+			if match.lower() in ["site/terms", "site/privacy", "github/site"]:
+				continue
+			if match.endswith(".git"):
+				match = match[:-4]
+			repo_full_name = match
+			break
+			
+		if not repo_full_name:
+			continue
+
+		# Extract description
+		desc = ""
+		desc_match = re.search(r"### Description\s+(.+?)(?=\n#|$)", raw, re.DOTALL)
+		if desc_match:
+			desc = desc_match.group(1).strip()
+			desc = desc.split('\n')[0]
+
+		plugins.append({
+			"repo": repo_full_name,
+			"desc": desc
+		})
+
+	return plugins
+
+
 def main() -> None:
 	# Setup GitHub client
 	token = os.environ.get("GITHUB_TOKEN")
@@ -316,6 +371,56 @@ def main() -> None:
 		write_json_file(stats_path, stats_rows)
 		# Accumulate for global contributor fetch
 		all_repo_full_names.extend(full_names)
+
+	# Handle SwiftlyS2 Plugins specially
+	bypass_key = os.environ.get("BYPASS_KEY")
+	swiftlys2_entries = asyncio.run(fetch_swiftlys2_posts(bypass_key))
+	if swiftlys2_entries:
+		rows: List[Dict[str, Any]] = []
+		stats_rows: List[Dict[str, Any]] = []
+		full_names: List[str] = []
+		entry_map: Dict[str, Dict[str, Any]] = {}
+		for entry in swiftlys2_entries:
+			repo_full_name = str(entry.get("repo", "")).strip()
+			if not repo_full_name:
+				continue
+			full_names.append(repo_full_name)
+			entry_map[repo_full_name] = entry
+		
+		meta_map = fetch_many(full_names, token)
+		for meta in meta_map.values():
+			owner = meta.get("owner") or {}
+			owner_login = owner.get("login") if isinstance(owner, dict) else None
+			if owner_login:
+				all_owners[owner_login] = {
+					"login": owner_login,
+					"html_url": owner.get("html_url") or f"https://github.com/{owner_login}",
+					"avatar_url": owner.get("avatar_url") or f"https://github.com/{owner_login}.png",
+					"type": owner.get("type") or "User",
+				}
+		
+		for repo_full_name in full_names:
+			meta = meta_map.get(repo_full_name)
+			meta["desc"] = normalize_description(entry_map[repo_full_name].get("desc", ""))
+			rows.append(meta)
+		
+		rows.sort(key=lambda r: int(r.get("stars", 0) or 0), reverse=True)
+		
+		for meta in rows:
+			pushed_at_dt: Optional[datetime] = meta.get("last_active")
+			pushed_at_iso = pushed_at_dt.isoformat() if isinstance(pushed_at_dt, datetime) else None
+			stats_rows.append({
+				"repo": meta.get("name"),
+				"stars": meta.get("stars", 0),
+				"pushed_at": pushed_at_iso,
+				"fetched_at": now.isoformat(),
+			})
+			
+		placeholder_to_table["$SWIFTLYS2_PLUGINS"] = build_markdown_table(rows, now)
+		write_json_file(DATA_DIR / "swiftlys2-plugins.stats.json", stats_rows)
+		all_repo_full_names.extend(full_names)
+	else:
+		placeholder_to_table["$SWIFTLYS2_PLUGINS"] = ""
 
 	# Build global contributors table and write data
 	if all_repo_full_names:
