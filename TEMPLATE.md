@@ -22,7 +22,7 @@
 - [Plugins](#plugins)
   - [Metamod Plugins](#metamod-plugins)
   - [CounterStrikeSharp Plugins](#counterstrikesharp-plugins)
-  - [Swiftly Plugins](#swiftly-plugins)
+  - [SwiftlyS2 Plugins](#swiftlys2-plugins)
 - [Contributors](#contributors)
 - [Contributing](#contributing)
 
@@ -164,9 +164,9 @@ $METAMOD_PLUGINS
 
 $COUNTERSTRIKESHARP_PLUGINS
 
-## Swiftly Plugins
+## SwiftlyS2 Plugins
 
-$SWIFTLY_PLUGINS
+$SWIFTLYS2_PLUGINS
 
 # Contributors
 
