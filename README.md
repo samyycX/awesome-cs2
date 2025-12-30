@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2025/12/28 02:28:39</strong>
+  Last Sync: <strong>2025/12/29 02:26:27</strong>
 </p>
 <p>
   Project Uptime: <strong>4 months</strong>
@@ -159,13 +159,13 @@ These are the websites with resources that you might need to check during develo
 ## Metamod Plugins
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
-  ⭐ 329<br>
-  ⏱️ updated 9 hours ago<br>
+  ⭐ 330<br>
+  ⏱️ updated 1 day ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 167<br>
-  ⏱️ updated 6 hours ago<br>
+  ⏱️ updated 2 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -248,7 +248,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 293<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 6 hours ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
@@ -298,7 +298,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
   ⭐ 58<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.*
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
@@ -343,7 +343,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 28<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 12 hours ago<br>
   *Notify players about entity interactions.*
 
 - **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ)**<br>
@@ -388,7 +388,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KillStr3aK/CS2-AntiDLL](https://github.com/KillStr3aK/CS2-AntiDLL)**<br>
   ⭐ 18<br>
-  ⏱️ updated 8 months ago<br>
+  ⏱️ updated 9 months ago<br>
   *This plugin is similar to the CS:GO version.*
 
 - **[wiruwiru/AutomaticAds-CS2](https://github.com/wiruwiru/AutomaticAds-CS2)**<br>
@@ -466,6 +466,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 3 months ago<br>
   *T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.*
 
+- **[Kandru/cs2-roll-the-dice](https://github.com/Kandru/cs2-roll-the-dice)**<br>
+  ⭐ 11<br>
+  ⏱️ updated 1 day ago<br>
+  *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
+
 - **[HvH-gg/RapidFireFix](https://github.com/HvH-gg/RapidFireFix)**<br>
   ⭐ 11<br>
   ⏱️ updated 2 months ago<br>
@@ -485,11 +490,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 10<br>
   ⏱️ updated 2 months ago<br>
   *A plugin that add custom mvp sound to the game.*
-
-- **[Kandru/cs2-roll-the-dice](https://github.com/Kandru/cs2-roll-the-dice)**<br>
-  ⭐ 10<br>
-  ⏱️ updated 7 hours ago<br>
-  *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
 
 - **[Kandru/cs2-quake-sounds](https://github.com/Kandru/cs2-quake-sounds)**<br>
   ⭐ 10<br>
@@ -511,14 +511,19 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 8 months ago<br>
   *This plugin allows you to create Challenges for players. Challenges are tasks that players need to complete within a certain time frame (e.g., daily, weekly, monthly).*
 
+- **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds)**<br>
+  ⭐ 8<br>
+  ⏱️ updated 4 days ago<br>
+  *This plugin allows for server owners to create billboard type advertisements that are placed on wall.*
+
 - **[darkerz7/CS2-EntityFix](https://github.com/darkerz7/CS2-EntityFix)**<br>
   ⭐ 8<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.*
 
 - **[darkerz7/CS2-HideTeammates](https://github.com/darkerz7/CS2-HideTeammates)**<br>
   ⭐ 8<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *Hides Teammates on the entire map or distance.*
 
 - **[zakriamansoor47/SLAYER_UnrestrictedFOV](https://github.com/zakriamansoor47/SLAYER_UnrestrictedFOV)**<br>
@@ -531,19 +536,14 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 3 months ago<br>
   *A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.*
 
-- **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds)**<br>
-  ⭐ 7<br>
-  ⏱️ updated 3 days ago<br>
-  *This plugin allows for server owners to create billboard type advertisements that are placed on wall.*
-
 - **[darkerz7/CSSharp-Fixes](https://github.com/darkerz7/CSSharp-Fixes)**<br>
   ⭐ 7<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.*
 
 - **[Kandru/cs2-demo-recorder](https://github.com/Kandru/cs2-demo-recorder)**<br>
   ⭐ 7<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.*
 
 - **[Ferks-FK/CS2-TeamLimiter](https://github.com/Ferks-FK/CS2-TeamLimiter)**<br>
@@ -671,12 +671,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/vip_modules](https://github.com/swiftly-solution/vip_modules)**<br>
   ⭐ 4<br>
-  ⏱️ updated 7 months ago<br>
+  ⏱️ updated 8 months ago<br>
   *A repository containing all the VIP Modules created by Swiftly Solution for VIP Core.*
 
 - **[swiftly-solution/vip-core](https://github.com/swiftly-solution/vip-core)**<br>
   ⭐ 3<br>
-  ⏱️ updated 7 months ago<br>
+  ⏱️ updated 8 months ago<br>
   *A simple plugin for swiftly that acts like a core for vip.*
 
 - **[swiftly-solution/ranks](https://github.com/swiftly-solution/ranks)**<br>
@@ -816,7 +816,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/connect-sounds](https://github.com/swiftly-solution/connect-sounds)**<br>
   ⭐ 0<br>
-  ⏱️ updated 11 months ago<br>
+  ⏱️ updated 12 months ago<br>
   *A simple plugin for Swiftly that plays a sound when a player connects.*
 
 - **[swiftly-solution/goldmember](https://github.com/swiftly-solution/goldmember)**<br>
