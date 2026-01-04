@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/01/02 02:19:44</strong>
+  Last Sync: <strong>2026/01/03 02:06:58</strong>
 </p>
 <p>
   Project Uptime: <strong>4 months</strong>
@@ -160,12 +160,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 331<br>
-  ⏱️ updated 2 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 168<br>
-  ⏱️ updated 10 hours ago<br>
+  ⏱️ updated 38 minutes ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -210,7 +210,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Interesting-exe/CS2Fixes-RampbugFix](https://github.com/Interesting-exe/CS2Fixes-RampbugFix)**<br>
   ⭐ 31<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *Minimizes rampbugs. This plugin isn't perfect and rampbugs will continue to occur until Valve decides to finally fix them.*
 
 - **[Source2ZE/AcceleratorCS2](https://github.com/Source2ZE/AcceleratorCS2)**<br>
@@ -248,17 +248,17 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 292<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 7 hours ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
   ⭐ 163<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 3 weeks ago<br>
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
   ⭐ 142<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
 - **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)**<br>
@@ -343,7 +343,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 28<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *Notify players about entity interactions.*
 
 - **[ssypchenko/cs2-gungame](https://github.com/ssypchenko/cs2-gungame)**<br>
@@ -433,7 +433,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-update-manager](https://github.com/Kandru/cs2-update-manager)**<br>
   ⭐ 15<br>
-  ⏱️ updated 4 months ago<br>
+  ⏱️ updated 5 months ago<br>
   *The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.*
 
 - **[Cruze03/cs2_blockradiocommands](https://github.com/Cruze03/cs2_blockradiocommands)**<br>
@@ -463,7 +463,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-roll-the-dice](https://github.com/Kandru/cs2-roll-the-dice)**<br>
   ⭐ 12<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
 
 - **[Austinbots/CS2-BotAI](https://github.com/Austinbots/CS2-BotAI)**<br>
@@ -498,7 +498,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-quake-sounds](https://github.com/Kandru/cs2-quake-sounds)**<br>
   ⭐ 10<br>
-  ⏱️ updated 1 month ago<br>
+  ⏱️ updated 6 hours ago<br>
   *This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.*
 
 - **[zakriamansoor47/SLAYER_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp)**<br>
@@ -508,7 +508,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[schwarper/cs2-store](https://github.com/schwarper/cs2-store)**<br>
   ⭐ 9<br>
-  ⏱️ updated 23 minutes ago<br>
+  ⏱️ updated 1 day ago<br>
   *A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.*
 
 - **[Kandru/cs2-challenges](https://github.com/Kandru/cs2-challenges)**<br>
@@ -533,7 +533,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-demo-recorder](https://github.com/Kandru/cs2-demo-recorder)**<br>
   ⭐ 8<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.*
 
 - **[zakriamansoor47/SLAYER_UnrestrictedFOV](https://github.com/zakriamansoor47/SLAYER_UnrestrictedFOV)**<br>
@@ -686,7 +686,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/tags](https://github.com/swiftly-solution/tags)**<br>
   ⭐ 2<br>
-  ⏱️ updated 9 months ago<br>
+  ⏱️ updated 10 months ago<br>
   *A simple plugin for Swiftly that implements tags on chat/scoreboard.*
 
 - **[swiftly-solution/faceit-level](https://github.com/swiftly-solution/faceit-level)**<br>
@@ -816,7 +816,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/connect-sounds](https://github.com/swiftly-solution/connect-sounds)**<br>
   ⭐ 0<br>
-  ⏱️ updated 12 months ago<br>
+  ⏱️ updated 1 year ago<br>
   *A simple plugin for Swiftly that plays a sound when a player connects.*
 
 - **[swiftly-solution/goldmember](https://github.com/swiftly-solution/goldmember)**<br>
