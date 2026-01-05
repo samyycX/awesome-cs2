@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/01/03 02:06:58</strong>
+  Last Sync: <strong>2026/01/04 02:30:37</strong>
 </p>
 <p>
   Project Uptime: <strong>4 months</strong>
@@ -160,12 +160,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 331<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 168<br>
-  ⏱️ updated 38 minutes ago<br>
+  ⏱️ updated 7 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -195,7 +195,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/MovementUnlocker](https://github.com/Source2ZE/MovementUnlocker)**<br>
   ⭐ 54<br>
-  ⏱️ updated 1 month ago<br>
+  ⏱️ updated 2 months ago<br>
   *A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.*
 
 - **[Source2ZE/StripperCS2](https://github.com/Source2ZE/StripperCS2)**<br>
@@ -205,7 +205,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/FakeRanks-RevealAll](https://github.com/Cruze03/FakeRanks-RevealAll)**<br>
   ⭐ 44<br>
-  ⏱️ updated 1 month ago<br>
+  ⏱️ updated 2 months ago<br>
   *A metamod plugin that reveals ranks of all players in server for player who presses tab.*
 
 - **[Interesting-exe/CS2Fixes-RampbugFix](https://github.com/Interesting-exe/CS2Fixes-RampbugFix)**<br>
@@ -237,7 +237,7 @@ These are the websites with resources that you might need to check during develo
 ## CounterStrikeSharp Plugins
 
 - **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy)**<br>
-  ⭐ 394<br>
+  ⭐ 396<br>
   ⏱️ updated 2 months ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
@@ -248,17 +248,17 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 292<br>
-  ⏱️ updated 7 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
-  ⭐ 163<br>
+  ⭐ 164<br>
   ⏱️ updated 3 weeks ago<br>
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
   ⭐ 142<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
 - **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)**<br>
@@ -272,7 +272,7 @@ These are the websites with resources that you might need to check during develo
   *A plugin to implement deathmatch gamemode.*
 
 - **[NiGHT757/AFKManager](https://github.com/NiGHT757/AFKManager)**<br>
-  ⭐ 75<br>
+  ⭐ 76<br>
   ⏱️ updated 3 months ago<br>
   *AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO.*
 
@@ -282,12 +282,12 @@ These are the websites with resources that you might need to check during develo
   *A vip plugin for cs2.*
 
 - **[partiusfabaa/cs2-ranks](https://github.com/partiusfabaa/cs2-ranks)**<br>
-  ⭐ 65<br>
+  ⭐ 66<br>
   ⏱️ updated 5 months ago<br>
   *Each player is assigned a rank based on their accumulated experience points. Ranks range from "None" to the prestigious "The Global Elite."*
 
 - **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
-  ⭐ 63<br>
+  ⭐ 64<br>
   ⏱️ updated 1 month ago<br>
   *Block/Hide unnecessaries in game.*
 
@@ -333,7 +333,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[HvH-gg/CS2-Essentials](https://github.com/HvH-gg/CS2-Essentials)**<br>
   ⭐ 33<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes.*
 
 - **[zwolof/cs2-executes](https://github.com/zwolof/cs2-executes)**<br>
@@ -343,7 +343,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 28<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *Notify players about entity interactions.*
 
 - **[ssypchenko/cs2-gungame](https://github.com/ssypchenko/cs2-gungame)**<br>
@@ -383,7 +383,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[qstage/CS2-HidePlayers](https://github.com/qstage/CS2-HidePlayers)**<br>
   ⭐ 20<br>
-  ⏱️ updated 3 months ago<br>
+  ⏱️ updated 4 months ago<br>
   *Allows you to hide player models.*
 
 - **[KillStr3aK/CS2-AntiDLL](https://github.com/KillStr3aK/CS2-AntiDLL)**<br>
@@ -446,6 +446,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 4 months ago<br>
   *cs2-anticheat is an anti-cheat system in development for CounterStrike 2.*
 
+- **[K4ryuu/K4-AlwaysWeaponSkins](https://github.com/K4ryuu/K4-AlwaysWeaponSkins)**<br>
+  ⭐ 14<br>
+  ⏱️ updated 1 month ago<br>
+  *This plugin enhances weapon skin visibility by ensuring your equipped Steam inventory skins are displayed consistently across both teams.*
+
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
   ⭐ 14<br>
   ⏱️ updated 1 month ago<br>
@@ -456,14 +461,9 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 year ago<br>
   *A simple kill plugin that allows players to suicide via chat by entering '!suicide' or '/suicide'.*
 
-- **[K4ryuu/K4-AlwaysWeaponSkins](https://github.com/K4ryuu/K4-AlwaysWeaponSkins)**<br>
-  ⭐ 13<br>
-  ⏱️ updated 1 month ago<br>
-  *This plugin enhances weapon skin visibility by ensuring your equipped Steam inventory skins are displayed consistently across both teams.*
-
 - **[Kandru/cs2-roll-the-dice](https://github.com/Kandru/cs2-roll-the-dice)**<br>
   ⭐ 12<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 8 hours ago<br>
   *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
 
 - **[Austinbots/CS2-BotAI](https://github.com/Austinbots/CS2-BotAI)**<br>
@@ -498,7 +498,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-quake-sounds](https://github.com/Kandru/cs2-quake-sounds)**<br>
   ⭐ 10<br>
-  ⏱️ updated 6 hours ago<br>
+  ⏱️ updated 7 hours ago<br>
   *This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.*
 
 - **[zakriamansoor47/SLAYER_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp)**<br>
@@ -508,7 +508,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[schwarper/cs2-store](https://github.com/schwarper/cs2-store)**<br>
   ⭐ 9<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.*
 
 - **[Kandru/cs2-challenges](https://github.com/Kandru/cs2-challenges)**<br>
@@ -548,7 +548,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Ferks-FK/CS2-TeamLimiter](https://github.com/Ferks-FK/CS2-TeamLimiter)**<br>
   ⭐ 7<br>
-  ⏱️ updated 12 months ago<br>
+  ⏱️ updated 1 year ago<br>
   *This plugin allows you to set a maximum number of players in both teams. Useful for PUG/MIX or Retake mode servers.*
 
 - **[zakriamansoor47/SLAYER_HeadshotOnly](https://github.com/zakriamansoor47/SLAYER_HeadshotOnly)**<br>
@@ -704,6 +704,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 11 months ago<br>
   *A simple plugin for Swiftly that implements some base commands.*
 
+- **[swiftly-solution/map-chooser](https://github.com/swiftly-solution/map-chooser)**<br>
+  ⭐ 1<br>
+  ⏱️ updated 6 months ago<br>
+  *A simple plugin for Swiftly that implements a basic map voting system.*
+
 - **[swiftly-solution/random-team-logo](https://github.com/swiftly-solution/random-team-logo)**<br>
   ⭐ 1<br>
   ⏱️ updated 10 months ago<br>
@@ -714,9 +719,14 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 8 months ago<br>
   *A simple plugin for Swiftly that filters the connection based on some settings.*
 
+- **[swiftly-solution/auto-team-balance](https://github.com/swiftly-solution/auto-team-balance)**<br>
+  ⭐ 1<br>
+  ⏱️ updated 11 months ago<br>
+  *A simple plugin for Swiftly that balances the teams.*
+
 - **[swiftly-solution/steam-requirements](https://github.com/swiftly-solution/steam-requirements)**<br>
   ⭐ 1<br>
-  ⏱️ updated 12 months ago<br>
+  ⏱️ updated 1 year ago<br>
   *A simple plugin for Swiftly that decides if a player can connect based on some requirements.*
 
 - **[swiftly-solution/advertisements](https://github.com/swiftly-solution/advertisements)**<br>
@@ -744,11 +754,6 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 7 months ago<br>
   *A simple plugin for Swiftly that implements a comms system.*
 
-- **[swiftly-solution/map-chooser](https://github.com/swiftly-solution/map-chooser)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 6 months ago<br>
-  *A simple plugin for Swiftly that implements a basic map voting system.*
-
 - **[swiftly-solution/mostactive](https://github.com/swiftly-solution/mostactive)**<br>
   ⭐ 0<br>
   ⏱️ updated 10 months ago<br>
@@ -769,14 +774,9 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 10 months ago<br>
   *A simple plugin for Swiftly that implements a basic player model changing system.*
 
-- **[swiftly-solution/auto-team-balance](https://github.com/swiftly-solution/auto-team-balance)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 10 months ago<br>
-  *A simple plugin for Swiftly that balances the teams.*
-
 - **[swiftly-solution/shop-core](https://github.com/swiftly-solution/shop-core)**<br>
   ⭐ 0<br>
-  ⏱️ updated 10 months ago<br>
+  ⏱️ updated 11 months ago<br>
   *A simple plugin for Swiftly that implements the core of the shop.*
 
 - **[swiftly-solution/shop-modules](https://github.com/swiftly-solution/shop-modules)**<br>
@@ -791,7 +791,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/discord-logs](https://github.com/swiftly-solution/discord-logs)**<br>
   ⭐ 0<br>
-  ⏱️ updated 12 months ago<br>
+  ⏱️ updated 1 year ago<br>
   *A simple plugin for Swiftly that integrates basic discord logs.*
 
 - **[swiftly-solution/pm](https://github.com/swiftly-solution/pm)**<br>
