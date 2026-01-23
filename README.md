@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/01/21 02:24:10</strong>
+  Last Sync: <strong>2026/01/22 02:25:33</strong>
 </p>
 <p>
   Project Uptime: <strong>4 months</strong>
@@ -160,17 +160,17 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 335<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 4 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
-  ⭐ 172<br>
-  ⏱️ updated 7 hours ago<br>
+  ⭐ 173<br>
+  ⏱️ updated 1 hour ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
   ⭐ 116<br>
-  ⏱️ updated 3 months ago<br>
+  ⏱️ updated 4 hours ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
 - **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2)**<br>
@@ -179,13 +179,13 @@ These are the websites with resources that you might need to check during develo
   *A simple plugin that allows you to filter out console prints with regular expressions.*
 
 - **[Source2ZE/ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix)**<br>
-  ⭐ 58<br>
+  ⭐ 59<br>
   ⏱️ updated 3 months ago<br>
   *Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.*
 
 - **[Salvatore-Als/cs2-fake-rcon](https://github.com/Salvatore-Als/cs2-fake-rcon)**<br>
   ⭐ 58<br>
-  ⏱️ updated 3 months ago<br>
+  ⏱️ updated 7 hours ago<br>
   *Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).*
 
 - **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
@@ -200,7 +200,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/StripperCS2](https://github.com/Source2ZE/StripperCS2)**<br>
   ⭐ 49<br>
-  ⏱️ updated 3 months ago<br>
+  ⏱️ updated 5 hours ago<br>
   *A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.*
 
 - **[Cruze03/FakeRanks-RevealAll](https://github.com/Cruze03/FakeRanks-RevealAll)**<br>
@@ -215,7 +215,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/AcceleratorCS2](https://github.com/Source2ZE/AcceleratorCS2)**<br>
   ⭐ 28<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 5 hours ago<br>
   *A plugin that generate a crash dump when there's a crash.*
 
 - **[samyycX/Audio](https://github.com/samyycX/Audio)**<br>
@@ -224,13 +224,13 @@ These are the websites with resources that you might need to check during develo
   *A demo and a metamod lib to provide similar functions to the previous SM-Ext-Audio extension in csgo, that is, sending custom audio streams such as a song through a bot's voice chat.*
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
-  ⭐ 15<br>
+  ⭐ 16<br>
   ⏱️ updated 2 months ago<br>
   *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
   ⭐ 14<br>
-  ⏱️ updated 3 months ago<br>
+  ⏱️ updated 8 hours ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
 
@@ -242,13 +242,13 @@ These are the websites with resources that you might need to check during develo
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
-  ⭐ 340<br>
+  ⭐ 341<br>
   ⏱️ updated 3 months ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
-  ⭐ 293<br>
-  ⏱️ updated 2 days ago<br>
+  ⭐ 295<br>
+  ⏱️ updated 3 days ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
@@ -257,7 +257,7 @@ These are the websites with resources that you might need to check during develo
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
-  ⭐ 143<br>
+  ⭐ 144<br>
   ⏱️ updated 3 weeks ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
@@ -288,18 +288,18 @@ These are the websites with resources that you might need to check during develo
 
 - **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
   ⭐ 65<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *Block/Hide unnecessaries in game.*
+
+- **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
+  ⭐ 59<br>
+  ⏱️ updated 2 months ago<br>
+  *This plugin allows players to use Emotes & Dances just like Fortnite.*
 
 - **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
   ⭐ 59<br>
   ⏱️ updated 1 month ago<br>
   *Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.*
-
-- **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
-  ⭐ 58<br>
-  ⏱️ updated 2 months ago<br>
-  *This plugin allows players to use Emotes & Dances just like Fortnite.*
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
   ⭐ 58<br>
@@ -317,7 +317,7 @@ These are the websites with resources that you might need to check during develo
   *Adds tags to the server that can be easily edited, tags can be assigned via permission or steamid64.*
 
 - **[schwarper/cs2-tags](https://github.com/schwarper/cs2-tags)**<br>
-  ⭐ 51<br>
+  ⭐ 52<br>
   ⏱️ updated 5 months ago<br>
   *A tag plugin designed to enhance your CS2 experience with a dynamic tagging system. Customise and manage player tags effortlessly for a more interactive and engaging game environment.*
 
@@ -463,7 +463,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-roll-the-dice](https://github.com/Kandru/cs2-roll-the-dice)**<br>
   ⭐ 13<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 16 hours ago<br>
   *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
 
 - **[Austinbots/CS2-BotAI](https://github.com/Austinbots/CS2-BotAI)**<br>
@@ -473,7 +473,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
   ⭐ 12<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.*
 
 - **[B3none/cs2-instaplant](https://github.com/B3none/cs2-instaplant)**<br>
@@ -488,7 +488,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-quake-sounds](https://github.com/Kandru/cs2-quake-sounds)**<br>
   ⭐ 11<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.*
 
 - **[asapverneri/CS2-Playervotes](https://github.com/asapverneri/CS2-Playervotes)**<br>
@@ -503,7 +503,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds)**<br>
   ⭐ 10<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *This plugin allows for server owners to create billboard type advertisements that are placed on wall.*
 
 - **[zakriamansoor47/SLAYER_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp)**<br>
@@ -658,7 +658,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Austinbots/cs2-BotsNoKnife](https://github.com/Austinbots/cs2-BotsNoKnife)**<br>
   ⭐ 1<br>
-  ⏱️ updated 4 months ago<br>
+  ⏱️ updated 5 months ago<br>
   *Strips knife from bots.*
 
 
