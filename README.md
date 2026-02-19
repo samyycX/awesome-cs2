@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/02/17 02:47:10</strong>
+  Last Sync: <strong>2026/02/18 02:50:27</strong>
 </p>
 <p>
   Project Uptime: <strong>5 months</strong>
@@ -164,8 +164,8 @@ These are the websites with resources that you might need to check during develo
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
-  ⭐ 176<br>
-  ⏱️ updated 1 day ago<br>
+  ⭐ 175<br>
+  ⏱️ updated 2 days ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -225,7 +225,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[samyycX/Audio](https://github.com/samyycX/Audio)**<br>
   ⭐ 17<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 6 months ago<br>
   *A demo and a metamod lib to provide similar functions to the previous SM-Ext-Audio extension in csgo, that is, sending custom audio streams such as a song through a bot's voice chat.*
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
@@ -282,7 +282,7 @@ These are the websites with resources that you might need to check during develo
   *A vip plugin for cs2.*
 
 - **[partiusfabaa/cs2-ranks](https://github.com/partiusfabaa/cs2-ranks)**<br>
-  ⭐ 66<br>
+  ⭐ 65<br>
   ⏱️ updated 6 months ago<br>
   *Each player is assigned a rank based on their accumulated experience points. Ranks range from "None" to the prestigious "The Global Elite."*
 
@@ -293,18 +293,18 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
   ⭐ 61<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *This plugin allows players to use Emotes & Dances just like Fortnite.*
-
-- **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
-  ⭐ 59<br>
-  ⏱️ updated 1 day ago<br>
-  *Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.*
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
   ⭐ 58<br>
   ⏱️ updated 1 year ago<br>
   *A plugin that allows players to instantly defuse the bomb.*
+
+- **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
+  ⭐ 58<br>
+  ⏱️ updated 2 days ago<br>
+  *Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.*
 
 - **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote)**<br>
   ⭐ 57<br>
@@ -322,7 +322,7 @@ These are the websites with resources that you might need to check during develo
   *A tag plugin designed to enhance your CS2 experience with a dynamic tagging system. Customise and manage player tags effortlessly for a more interactive and engaging game environment.*
 
 - **[KillStr3aK/ResourcePrecacher](https://github.com/KillStr3aK/ResourcePrecacher)**<br>
-  ⭐ 45<br>
+  ⭐ 44<br>
   ⏱️ updated 8 months ago<br>
   *This plugin can precache custom resources.*
 
@@ -373,7 +373,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/Clientprefs](https://github.com/Cruze03/Clientprefs)**<br>
   ⭐ 23<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *This plugin exposes some natives for developers to save player data to SQLite / MySQL without actually adding sql code to your plugin giving developers easy access to save player cookie to database.*
 
 - **[grrhn/ThirdPerson-WIP](https://github.com/grrhn/ThirdPerson-WIP)**<br>
@@ -388,7 +388,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[wiruwiru/AutomaticAds-CS2](https://github.com/wiruwiru/AutomaticAds-CS2)**<br>
   ⭐ 19<br>
-  ⏱️ updated 3 months ago<br>
+  ⏱️ updated 4 months ago<br>
   *This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.*
 
 - **[KillStr3aK/CS2-AntiDLL](https://github.com/KillStr3aK/CS2-AntiDLL)**<br>
@@ -453,7 +453,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[K4ryuu/K4-AlwaysWeaponSkins](https://github.com/K4ryuu/K4-AlwaysWeaponSkins)**<br>
   ⭐ 14<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *This plugin enhances weapon skin visibility by ensuring your equipped Steam inventory skins are displayed consistently across both teams.*
 
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
@@ -756,7 +756,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/mostactive](https://github.com/swiftly-solution/mostactive)**<br>
   ⭐ 0<br>
-  ⏱️ updated 11 months ago<br>
+  ⏱️ updated 12 months ago<br>
   *A simple plugin for Swiftly that saves the connected time of a player on server in database.*
 
 - **[swiftly-solution/hud](https://github.com/swiftly-solution/hud)**<br>
