@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/02/25 02:49:07</strong>
+  Last Sync: <strong>2026/02/26 02:44:08</strong>
 </p>
 <p>
   Project Uptime: <strong>6 months</strong>
@@ -160,17 +160,17 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 340<br>
-  ⏱️ updated 2 hours ago<br>
+  ⏱️ updated 23 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 177<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
   ⭐ 120<br>
-  ⏱️ updated 1 month ago<br>
+  ⏱️ updated 18 hours ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
 - **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2)**<br>
@@ -210,7 +210,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Interesting-exe/CS2Fixes-RampbugFix](https://github.com/Interesting-exe/CS2Fixes-RampbugFix)**<br>
   ⭐ 33<br>
-  ⏱️ updated 4 weeks ago<br>
+  ⏱️ updated 1 month ago<br>
   *Minimizes rampbugs. This plugin isn't perfect and rampbugs will continue to occur until Valve decides to finally fix them.*
 
 - **[Source2ZE/AcceleratorCS2](https://github.com/Source2ZE/AcceleratorCS2)**<br>
@@ -219,7 +219,7 @@ These are the websites with resources that you might need to check during develo
   *A plugin that generate a crash dump when there's a crash.*
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
-  ⭐ 17<br>
+  ⭐ 18<br>
   ⏱️ updated 1 month ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
@@ -230,7 +230,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
   ⭐ 17<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
 
 
@@ -248,12 +248,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 296<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 7 hours ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
   ⭐ 172<br>
-  ⏱️ updated 4 weeks ago<br>
+  ⏱️ updated 1 month ago<br>
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
@@ -263,7 +263,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)**<br>
   ⭐ 125<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 6 months ago<br>
   *A cssharp plugin to change player models.*
 
 - **[NockyCZ/CS2-Deathmatch](https://github.com/NockyCZ/CS2-Deathmatch)**<br>
@@ -312,7 +312,7 @@ These are the websites with resources that you might need to check during develo
   *General purpose map voting plugin, started as a simple RTV and now has more features.*
 
 - **[daffyyyy/CS2-Tags](https://github.com/daffyyyy/CS2-Tags)**<br>
-  ⭐ 54<br>
+  ⭐ 55<br>
   ⏱️ updated 4 months ago<br>
   *Adds tags to the server that can be easily edited, tags can be assigned via permission or steamid64.*
 
@@ -373,7 +373,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/Clientprefs](https://github.com/Cruze03/Clientprefs)**<br>
   ⭐ 23<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *This plugin exposes some natives for developers to save player data to SQLite / MySQL without actually adding sql code to your plugin giving developers easy access to save player cookie to database.*
 
 - **[grrhn/ThirdPerson-WIP](https://github.com/grrhn/ThirdPerson-WIP)**<br>
@@ -382,7 +382,7 @@ These are the websites with resources that you might need to check during develo
   *WIP ThirdPerson plugin for CS2 expect bugs.*
 
 - **[qstage/CS2-HidePlayers](https://github.com/qstage/CS2-HidePlayers)**<br>
-  ⭐ 20<br>
+  ⭐ 21<br>
   ⏱️ updated 5 months ago<br>
   *Allows you to hide player models.*
 
@@ -458,7 +458,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
   ⭐ 14<br>
-  ⏱️ updated 4 weeks ago<br>
+  ⏱️ updated 1 month ago<br>
   *A modern, improved third-person camera plugin for Counter-Strike 2.*
 
 - **[Quantor97/CS2-Kill-Plugin](https://github.com/Quantor97/CS2-Kill-Plugin)**<br>
@@ -491,6 +491,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 month ago<br>
   *T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.*
 
+- **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds)**<br>
+  ⭐ 11<br>
+  ⏱️ updated 2 months ago<br>
+  *This plugin allows for server owners to create billboard type advertisements that are placed on wall.*
+
 - **[HvH-gg/RapidFireFix](https://github.com/HvH-gg/RapidFireFix)**<br>
   ⭐ 11<br>
   ⏱️ updated 4 months ago<br>
@@ -506,10 +511,10 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 4 months ago<br>
   *A plugin that add custom mvp sound to the game.*
 
-- **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds)**<br>
+- **[darkerz7/CS2-EntityFix](https://github.com/darkerz7/CS2-EntityFix)**<br>
   ⭐ 10<br>
-  ⏱️ updated 2 months ago<br>
-  *This plugin allows for server owners to create billboard type advertisements that are placed on wall.*
+  ⏱️ updated 1 month ago<br>
+  *Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.*
 
 - **[Kandru/cs2-challenges](https://github.com/Kandru/cs2-challenges)**<br>
   ⭐ 10<br>
@@ -520,11 +525,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 9<br>
   ⏱️ updated 10 months ago<br>
   *This plugin detect player who is camping for a specific time.*
-
-- **[darkerz7/CS2-EntityFix](https://github.com/darkerz7/CS2-EntityFix)**<br>
-  ⭐ 9<br>
-  ⏱️ updated 1 month ago<br>
-  *Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.*
 
 - **[darkerz7/CS2-HideTeammates](https://github.com/darkerz7/CS2-HideTeammates)**<br>
   ⭐ 8<br>
@@ -694,6 +694,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 year ago<br>
   *A simple plugin for Swiftly that queries the level faceit of a player and add the icon on the scoreboard.*
 
+- **[swiftly-solution/remove_default_messages](https://github.com/swiftly-solution/remove_default_messages)**<br>
+  ⭐ 2<br>
+  ⏱️ updated 1 year ago<br>
+  *A plugin for Swiftly that removes the default game messages.*
+
 - **[swiftly-solution/admins_basebans](https://github.com/swiftly-solution/admins_basebans)**<br>
   ⭐ 1<br>
   ⏱️ updated 11 months ago<br>
@@ -718,6 +723,11 @@ These are the websites with resources that you might need to check during develo
   ⭐ 1<br>
   ⏱️ updated 10 months ago<br>
   *A simple plugin for Swiftly that filters the connection based on some settings.*
+
+- **[swiftly-solution/hud](https://github.com/swiftly-solution/hud)**<br>
+  ⭐ 1<br>
+  ⏱️ updated 9 months ago<br>
+  *A simple plugin for Swiftly that implements a basic Hud System.*
 
 - **[swiftly-solution/auto-team-balance](https://github.com/swiftly-solution/auto-team-balance)**<br>
   ⭐ 1<br>
@@ -744,11 +754,6 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 year ago<br>
   *A plugin for Swiftly which puts country flags on the scoreboard.*
 
-- **[swiftly-solution/remove_default_messages](https://github.com/swiftly-solution/remove_default_messages)**<br>
-  ⭐ 1<br>
-  ⏱️ updated 1 year ago<br>
-  *A plugin for Swiftly that removes the default game messages.*
-
 - **[swiftly-solution/admins_basecomms](https://github.com/swiftly-solution/admins_basecomms)**<br>
   ⭐ 0<br>
   ⏱️ updated 9 months ago<br>
@@ -758,11 +763,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 0<br>
   ⏱️ updated 1 year ago<br>
   *A simple plugin for Swiftly that saves the connected time of a player on server in database.*
-
-- **[swiftly-solution/hud](https://github.com/swiftly-solution/hud)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 9 months ago<br>
-  *A simple plugin for Swiftly that implements a basic Hud System.*
 
 - **[swiftly-solution/deathmatch](https://github.com/swiftly-solution/deathmatch)**<br>
   ⭐ 0<br>
