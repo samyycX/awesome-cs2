@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/03/06 02:41:21</strong>
+  Last Sync: <strong>2026/03/07 02:34:14</strong>
 </p>
 <p>
   Project Uptime: <strong>6 months</strong>
@@ -159,18 +159,18 @@ These are the websites with resources that you might need to check during develo
 ## Metamod Plugins
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
-  ⭐ 342<br>
-  ⏱️ updated 3 days ago<br>
+  ⭐ 341<br>
+  ⏱️ updated 4 days ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
-  ⭐ 177<br>
-  ⏱️ updated 5 hours ago<br>
+  ⭐ 176<br>
+  ⏱️ updated 1 day ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
   ⭐ 121<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
 - **[Source2ZE/ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix)**<br>
@@ -185,7 +185,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Salvatore-Als/cs2-fake-rcon](https://github.com/Salvatore-Als/cs2-fake-rcon)**<br>
   ⭐ 58<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).*
 
 - **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
@@ -237,18 +237,18 @@ These are the websites with resources that you might need to check during develo
 ## CounterStrikeSharp Plugins
 
 - **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy)**<br>
-  ⭐ 415<br>
+  ⭐ 416<br>
   ⏱️ updated 4 months ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
-  ⭐ 354<br>
+  ⭐ 353<br>
   ⏱️ updated 1 month ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 296<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
@@ -262,7 +262,7 @@ These are the websites with resources that you might need to check during develo
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
 - **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)**<br>
-  ⭐ 125<br>
+  ⭐ 124<br>
   ⏱️ updated 6 months ago<br>
   *A cssharp plugin to change player models.*
 
@@ -272,7 +272,7 @@ These are the websites with resources that you might need to check during develo
   *A plugin to implement deathmatch gamemode.*
 
 - **[NiGHT757/AFKManager](https://github.com/NiGHT757/AFKManager)**<br>
-  ⭐ 81<br>
+  ⭐ 80<br>
   ⏱️ updated 5 months ago<br>
   *AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO.*
 
@@ -317,7 +317,7 @@ These are the websites with resources that you might need to check during develo
   *Adds tags to the server that can be easily edited, tags can be assigned via permission or steamid64.*
 
 - **[schwarper/cs2-tags](https://github.com/schwarper/cs2-tags)**<br>
-  ⭐ 53<br>
+  ⭐ 52<br>
   ⏱️ updated 7 months ago<br>
   *A tag plugin designed to enhance your CS2 experience with a dynamic tagging system. Customise and manage player tags effortlessly for a more interactive and engaging game environment.*
 
@@ -341,15 +341,15 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 month ago<br>
   *A trace ray library developed for use in Counter Strike 2, in conjunction with the CounterStrikeSharp API. This enables the use of trace ray with TraceMask, Contents and skip enums.*
 
+- **[HvH-gg/CS2-Essentials](https://github.com/HvH-gg/CS2-Essentials)**<br>
+  ⭐ 33<br>
+  ⏱️ updated 4 weeks ago<br>
+  *It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes.*
+
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 32<br>
   ⏱️ updated 1 month ago<br>
   *Notify players about entity interactions.*
-
-- **[HvH-gg/CS2-Essentials](https://github.com/HvH-gg/CS2-Essentials)**<br>
-  ⭐ 32<br>
-  ⏱️ updated 4 weeks ago<br>
-  *It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes.*
 
 - **[oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ](https://github.com/oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ)**<br>
   ⭐ 29<br>
@@ -371,15 +371,15 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 year ago<br>
   *This plugin adds countdown to c4 bomb explosion to your server.*
 
-- **[Cruze03/Clientprefs](https://github.com/Cruze03/Clientprefs)**<br>
-  ⭐ 23<br>
-  ⏱️ updated 2 weeks ago<br>
-  *This plugin exposes some natives for developers to save player data to SQLite / MySQL without actually adding sql code to your plugin giving developers easy access to save player cookie to database.*
-
 - **[grrhn/ThirdPerson-WIP](https://github.com/grrhn/ThirdPerson-WIP)**<br>
   ⭐ 23<br>
   ⏱️ updated 1 year ago<br>
   *WIP ThirdPerson plugin for CS2 expect bugs.*
+
+- **[Cruze03/Clientprefs](https://github.com/Cruze03/Clientprefs)**<br>
+  ⭐ 22<br>
+  ⏱️ updated 2 weeks ago<br>
+  *This plugin exposes some natives for developers to save player data to SQLite / MySQL without actually adding sql code to your plugin giving developers easy access to save player cookie to database.*
 
 - **[qstage/CS2-HidePlayers](https://github.com/qstage/CS2-HidePlayers)**<br>
   ⭐ 21<br>
@@ -426,6 +426,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 month ago<br>
   *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
 
+- **[HvH-gg/TeleportFix](https://github.com/HvH-gg/TeleportFix)**<br>
+  ⭐ 16<br>
+  ⏱️ updated 4 weeks ago<br>
+  *CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit.*
+
 - **[Kandru/cs2-update-manager](https://github.com/Kandru/cs2-update-manager)**<br>
   ⭐ 16<br>
   ⏱️ updated 7 months ago<br>
@@ -435,11 +440,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 16<br>
   ⏱️ updated 2 years ago<br>
   *Just a speedometer for CS2.*
-
-- **[HvH-gg/TeleportFix](https://github.com/HvH-gg/TeleportFix)**<br>
-  ⭐ 15<br>
-  ⏱️ updated 4 weeks ago<br>
-  *CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit.*
 
 - **[Cruze03/cs2_blockradiocommands](https://github.com/Cruze03/cs2_blockradiocommands)**<br>
   ⭐ 15<br>
@@ -468,7 +468,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Austinbots/CS2-BotAI](https://github.com/Austinbots/CS2-BotAI)**<br>
   ⭐ 14<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 6 months ago<br>
   *Improves the built in bots AI.*
 
 - **[Kandru/cs2-quake-sounds](https://github.com/Kandru/cs2-quake-sounds)**<br>
@@ -563,7 +563,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[zakriamansoor47/SLAYER_Noscope](https://github.com/zakriamansoor47/SLAYER_Noscope)**<br>
   ⭐ 5<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *This plugin disables scope of scope weapons like AWP, scout, etc.*
 
 - **[asapverneri/CS2-Baninfo](https://github.com/asapverneri/CS2-Baninfo)**<br>
@@ -756,7 +756,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[swiftly-solution/admins_basecomms](https://github.com/swiftly-solution/admins_basecomms)**<br>
   ⭐ 0<br>
-  ⏱️ updated 9 months ago<br>
+  ⏱️ updated 10 months ago<br>
   *A simple plugin for Swiftly that implements a comms system.*
 
 - **[swiftly-solution/mostactive](https://github.com/swiftly-solution/mostactive)**<br>
