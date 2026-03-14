@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/03/12 02:45:18</strong>
+  Last Sync: <strong>2026/03/13 02:43:29</strong>
 </p>
 <p>
   Project Uptime: <strong>6 months</strong>
@@ -160,17 +160,17 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 341<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 178<br>
-  ⏱️ updated 19 hours ago<br>
+  ⏱️ updated 3 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
   ⭐ 122<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
 - **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2)**<br>
@@ -215,7 +215,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/AcceleratorCS2](https://github.com/Source2ZE/AcceleratorCS2)**<br>
   ⭐ 29<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A plugin that generate a crash dump when there's a crash.*
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
@@ -223,32 +223,32 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 month ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
+- **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
+  ⭐ 18<br>
+  ⏱️ updated 1 month ago<br>
+  *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
+
 - **[samyycX/Audio](https://github.com/samyycX/Audio)**<br>
   ⭐ 17<br>
   ⏱️ updated 6 months ago<br>
   *A demo and a metamod lib to provide similar functions to the previous SM-Ext-Audio extension in csgo, that is, sending custom audio streams such as a song through a bot's voice chat.*
 
-- **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
-  ⭐ 17<br>
-  ⏱️ updated 1 month ago<br>
-  *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
-
 
 ## CounterStrikeSharp Plugins
 
 - **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy)**<br>
-  ⭐ 422<br>
+  ⭐ 423<br>
   ⏱️ updated 4 months ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
-  ⭐ 358<br>
+  ⭐ 360<br>
   ⏱️ updated 1 month ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 299<br>
-  ⏱️ updated 7 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
@@ -257,7 +257,7 @@ These are the websites with resources that you might need to check during develo
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
-  ⭐ 142<br>
+  ⭐ 143<br>
   ⏱️ updated 2 months ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
@@ -293,7 +293,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
   ⭐ 62<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *This plugin allows players to use Emotes & Dances just like Fortnite.*
 
 - **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote)**<br>
@@ -348,7 +348,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 32<br>
-  ⏱️ updated 19 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *Notify players about entity interactions.*
 
 - **[oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ](https://github.com/oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ)**<br>
@@ -453,7 +453,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[K4ryuu/K4-AlwaysWeaponSkins](https://github.com/K4ryuu/K4-AlwaysWeaponSkins)**<br>
   ⭐ 14<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *This plugin enhances weapon skin visibility by ensuring your equipped Steam inventory skins are displayed consistently across both teams.*
 
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
@@ -633,7 +633,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[asapverneri/CS2-ScoutzKnivez](https://github.com/asapverneri/CS2-ScoutzKnivez)**<br>
   ⭐ 2<br>
-  ⏱️ updated 11 months ago<br>
+  ⏱️ updated 12 months ago<br>
   *This is a legendary gamemode made for CS2. It's in early state, but it should be pretty stable.*
 
 - **[asapverneri/CS2-StaffList](https://github.com/asapverneri/CS2-StaffList)**<br>
