@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/03/14 02:41:29</strong>
+  Last Sync: <strong>2026/03/15 03:20:01</strong>
 </p>
 <p>
   Project Uptime: <strong>6 months</strong>
@@ -22,7 +22,7 @@
 - [Plugins](#plugins)
   - [Metamod Plugins](#metamod-plugins)
   - [CounterStrikeSharp Plugins](#counterstrikesharp-plugins)
-  - [Swiftly Plugins](#swiftly-plugins)
+  - [SwiftlyS2 Plugins](#swiftlys2-plugins)
 - [Contributors](#contributors)
 - [Contributing](#contributing)
 
@@ -73,8 +73,11 @@
   *The most popular modding framework for cs2, the plugins are written in c#.*\
   *Alias: CS#, cssharp*
 
-- **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2)** [[Website](https://swiftlys2.net)] [[Discord](https://discord.gg/vVAMBR7z)]\
+- **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2)** [[Website](https://swiftlys2.net)] [[Discord](https://swiftlys2.net/discord)]\
   *A modding framework that support c#, with more features than counterstrikesharp.*
+
+- **[Modsharp](https://github.com/Kxnrl/modsharp-public)** [[Website](https://docs.modsharp.net/)] [[Discord](https://discord.com/invite/wKarAjHm2G)]
+  *Modern Source 2 Modding Solution.*
 
 - **[Plugify](https://github.com/untrustedmodders/plugify)** [[Website](https://plugify.net)] [[Discord](https://discord.gg/untrustedmodders)]\
   *A modding framework that support tons of programming languages, more information can be found in there discord channel and website.*
@@ -142,8 +145,8 @@ These are the websites with resources that you might need to check during develo
 - **[ModSharp Discord](https://discord.gg/wKarAjHm2G)**\
   *Official discord for modsharp, which is a currently unreleased modding framework.*
 
-- **[Swiftly Discord](https://discord.com/invite/Yv7hAM6erd)**\
-  *Official discord for swiftly, you can find swiftly plugins, code snippets, and discuss about swiftly modding framework here.*
+- **[SwiftlyS2 Discord](https://swiftlys2.net/discord)**\
+  *Official discord for swiftlys2, you can find swiftlys2 plugins, code snippets, and discuss about swiftlys2 modding framework here.*
 
 - **[Plugify Discord](https://discord.gg/untrustedmodders)**\
   *Official discord for plugify, you can find plugify plugins, code snippets, and discuss about plugify modding framework here.*
@@ -165,7 +168,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 178<br>
-  ⏱️ updated 13 hours ago<br>
+  ⏱️ updated 17 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -662,182 +665,54 @@ These are the websites with resources that you might need to check during develo
   *Plugin that store chat messages to MySQL database.*
 
 
-## Swiftly Plugins
+## SwiftlyS2 Plugins
 
-- **[swiftly-solution/admins](https://github.com/swiftly-solution/admins)**<br>
-  ⭐ 4<br>
-  ⏱️ updated 11 months ago<br>
-  *A simple plugin for swiftly that implements an admin system (core).*
+Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
-- **[swiftly-solution/vip_modules](https://github.com/swiftly-solution/vip_modules)**<br>
-  ⭐ 4<br>
-  ⏱️ updated 10 months ago<br>
-  *A repository containing all the VIP Modules created by Swiftly Solution for VIP Core.*
+- **[samyycX/WeaponSkins](https://github.com/samyycX/WeaponSkins)**<br>
+  ⭐ 24<br>
+  ⏱️ updated 15 hours ago<br>
+  *A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.*
 
-- **[swiftly-solution/vip-core](https://github.com/swiftly-solution/vip-core)**<br>
+- **[SwiftlyS2-Plugins/AddonsManager](https://github.com/SwiftlyS2-Plugins/AddonsManager)**<br>
+  ⭐ 8<br>
+  ⏱️ updated 6 days ago<br>
+  *This plugin is a port of Source2ZE's MultiAddonManager for SwiftlyS2, allowing you to use multiple workshop addons at once and have clients download them.*
+
+- **[SwiftlyS2-Plugins/Audio](https://github.com/SwiftlyS2-Plugins/Audio)**<br>
+  ⭐ 6<br>
+  ⏱️ updated 1 month ago<br>
+  *A high performance VoIP audio lib for swiftlys2.*
+
+- **[SwiftlyS2-Plugins/Economy](https://github.com/SwiftlyS2-Plugins/Economy)**<br>
+  ⭐ 5<br>
+  ⏱️ updated 20 hours ago<br>
+  *The base economy plugin for your server.*
+
+- **[SwiftlyS2-Plugins/MapChooser](https://github.com/SwiftlyS2-Plugins/MapChooser)**<br>
+  ⭐ 5<br>
+  ⏱️ updated 2 days ago<br>
+  *A powerful and customizable map voting system for SwiftlyS2.*
+
+- **[SwiftlyS2-Plugins/Admins](https://github.com/SwiftlyS2-Plugins/Admins)**<br>
+  ⭐ 5<br>
+  ⏱️ updated 1 day ago<br>
+  *Base admin system for your server.*
+
+- **[SwiftlyS2-Plugins/Cookies](https://github.com/SwiftlyS2-Plugins/Cookies)**<br>
   ⭐ 3<br>
-  ⏱️ updated 10 months ago<br>
-  *A simple plugin for swiftly that acts like a core for vip.*
+  ⏱️ updated 2 weeks ago<br>
+  *Server/Client persistent variables.*
 
-- **[swiftly-solution/ranks](https://github.com/swiftly-solution/ranks)**<br>
+- **[SwiftlyS2-Plugins/VIPCore](https://github.com/SwiftlyS2-Plugins/VIPCore)**<br>
+  ⭐ 3<br>
+  ⏱️ updated 10 hours ago<br>
+  *A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.*
+
+- **[SwiftlyS2-Plugins/MenuFlickeringFix](https://github.com/SwiftlyS2-Plugins/MenuFlickeringFix)**<br>
   ⭐ 2<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that implements an Rank System.*
-
-- **[swiftly-solution/tags](https://github.com/swiftly-solution/tags)**<br>
-  ⭐ 2<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that implements tags on chat/scoreboard.*
-
-- **[swiftly-solution/faceit-level](https://github.com/swiftly-solution/faceit-level)**<br>
-  ⭐ 2<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that queries the level faceit of a player and add the icon on the scoreboard.*
-
-- **[swiftly-solution/remove_default_messages](https://github.com/swiftly-solution/remove_default_messages)**<br>
-  ⭐ 2<br>
-  ⏱️ updated 1 year ago<br>
-  *A plugin for Swiftly that removes the default game messages.*
-
-- **[swiftly-solution/admins_basebans](https://github.com/swiftly-solution/admins_basebans)**<br>
-  ⭐ 1<br>
-  ⏱️ updated 11 months ago<br>
-  *A simple plugin for Swiftly that implements a ban system.*
-
-- **[swiftly-solution/admins_commands](https://github.com/swiftly-solution/admins_commands)**<br>
-  ⭐ 1<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that implements some base commands.*
-
-- **[swiftly-solution/map-chooser](https://github.com/swiftly-solution/map-chooser)**<br>
-  ⭐ 1<br>
-  ⏱️ updated 8 months ago<br>
-  *A simple plugin for Swiftly that implements a basic map voting system.*
-
-- **[swiftly-solution/random-team-logo](https://github.com/swiftly-solution/random-team-logo)**<br>
-  ⭐ 1<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly which chooses a random team logo on each map start.*
-
-- **[swiftly-solution/connection-filters](https://github.com/swiftly-solution/connection-filters)**<br>
-  ⭐ 1<br>
-  ⏱️ updated 10 months ago<br>
-  *A simple plugin for Swiftly that filters the connection based on some settings.*
-
-- **[swiftly-solution/hud](https://github.com/swiftly-solution/hud)**<br>
-  ⭐ 1<br>
-  ⏱️ updated 9 months ago<br>
-  *A simple plugin for Swiftly that implements a basic Hud System.*
-
-- **[swiftly-solution/auto-team-balance](https://github.com/swiftly-solution/auto-team-balance)**<br>
-  ⭐ 1<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that balances the teams.*
-
-- **[swiftly-solution/steam-requirements](https://github.com/swiftly-solution/steam-requirements)**<br>
-  ⭐ 1<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that decides if a player can connect based on some requirements.*
-
-- **[swiftly-solution/advertisements](https://github.com/swiftly-solution/advertisements)**<br>
-  ⭐ 1<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that implements an chat advertising system.*
-
-- **[swiftly-solution/multi1v1](https://github.com/swiftly-solution/multi1v1)**<br>
-  ⭐ 1<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that implements an Arena System.*
-
-- **[swiftly-solution/countryflags](https://github.com/swiftly-solution/countryflags)**<br>
-  ⭐ 1<br>
-  ⏱️ updated 1 year ago<br>
-  *A plugin for Swiftly which puts country flags on the scoreboard.*
-
-- **[swiftly-solution/admins_basecomms](https://github.com/swiftly-solution/admins_basecomms)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 10 months ago<br>
-  *A simple plugin for Swiftly that implements a comms system.*
-
-- **[swiftly-solution/mostactive](https://github.com/swiftly-solution/mostactive)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that saves the connected time of a player on server in database.*
-
-- **[swiftly-solution/deathmatch](https://github.com/swiftly-solution/deathmatch)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for swiftly that implements the basic functionality of a Deathmatch/FFA server.*
-
-- **[swiftly-solution/player-model-changer](https://github.com/swiftly-solution/player-model-changer)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that implements a basic player model changing system.*
-
-- **[swiftly-solution/shop-core](https://github.com/swiftly-solution/shop-core)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that implements the core of the shop.*
-
-- **[swiftly-solution/shop-modules](https://github.com/swiftly-solution/shop-modules)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A repository containing all the Shop Modules created by Swiftly Solution for Shop Core.*
-
-- **[swiftly-solution/damage-management](https://github.com/swiftly-solution/damage-management)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for swiftly that changes the damage management to faceit-style.*
-
-- **[swiftly-solution/discord-logs](https://github.com/swiftly-solution/discord-logs)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that integrates basic discord logs.*
-
-- **[swiftly-solution/pm](https://github.com/swiftly-solution/pm)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A Swiftly plugin that allows players to send private messages.*
-
-- **[swiftly-solution/joinleave](https://github.com/swiftly-solution/joinleave)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A plugin for Swiftly that prints a message when a player connects on/disconnects from the server.*
-
-- **[swiftly-solution/antiteamflash](https://github.com/swiftly-solution/antiteamflash)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that removes the possibility to get flashed from other teammates.*
-
-- **[swiftly-solution/resetscore](https://github.com/swiftly-solution/resetscore)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 0 seconds ago<br>
-  *A plugin for Swiftly that sets the stats from the tab to 0 to the player that used the !rs/!resetscore command.*
-
-- **[swiftly-solution/connect-sounds](https://github.com/swiftly-solution/connect-sounds)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that plays a sound when a player connects.*
-
-- **[swiftly-solution/goldmember](https://github.com/swiftly-solution/goldmember)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A plugin for Swiftly that gives benefits to players who has your server DNS in their name.*
-
-- **[swiftly-solution/advanced-weapons](https://github.com/swiftly-solution/advanced-weapons)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A plugin for Swiftly that changes the properties of any weapon.*
-
-- **[swiftly-solution/removebodies](https://github.com/swiftly-solution/removebodies)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A plugin for Swiftly that removes the dead bodies from the ground.*
-
-- **[swiftly-solution/welcomemessages](https://github.com/swiftly-solution/welcomemessages)**<br>
-  ⭐ 0<br>
-  ⏱️ updated 1 year ago<br>
-  *A simple plugin for Swiftly that prints a message to a player when he has connected on the server.*
+  ⏱️ updated 4 months ago<br>
+  *Fix the flickering menu. Won't have effect during warmup for game reason.*
 
 
 # Contributors
@@ -867,10 +742,6 @@ These are the websites with resources that you might need to check during develo
   </tr>
   <tr>
     <td align="center" valign="top" width="80">
-      <a href="https://github.com/actions-user"><img src="https://avatars.githubusercontent.com/u/65916846?v=4" width="64" height="64" alt="actions-user" /></a><br/>
-      <a href="https://github.com/actions-user">@actions-user</a>
-    </td>
-    <td align="center" valign="top" width="80">
       <a href="https://github.com/agasking1337"><img src="https://avatars.githubusercontent.com/u/29358982?v=4" width="64" height="64" alt="agasking1337" /></a><br/>
       <a href="https://github.com/agasking1337">@agasking1337</a>
     </td>
@@ -886,12 +757,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/algorithm-developer"><img src="https://avatars.githubusercontent.com/u/17625859?v=4" width="64" height="64" alt="algorithm-developer" /></a><br/>
       <a href="https://github.com/algorithm-developer">@algorithm-developer</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/AloneElxy"><img src="https://avatars.githubusercontent.com/u/74292375?v=4" width="64" height="64" alt="AloneElxy" /></a><br/>
       <a href="https://github.com/AloneElxy">@AloneElxy</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/AlphaKeks"><img src="https://avatars.githubusercontent.com/u/85143381?v=4" width="64" height="64" alt="AlphaKeks" /></a><br/>
       <a href="https://github.com/AlphaKeks">@AlphaKeks</a>
@@ -908,12 +779,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/AnshumanRohella"><img src="https://avatars.githubusercontent.com/u/6627611?v=4" width="64" height="64" alt="AnshumanRohella" /></a><br/>
       <a href="https://github.com/AnshumanRohella">@AnshumanRohella</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/AntPGN"><img src="https://avatars.githubusercontent.com/u/3760018?v=4" width="64" height="64" alt="AntPGN" /></a><br/>
       <a href="https://github.com/AntPGN">@AntPGN</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Apfelwurm"><img src="https://avatars.githubusercontent.com/u/23552885?v=4" width="64" height="64" alt="Apfelwurm" /></a><br/>
       <a href="https://github.com/Apfelwurm">@Apfelwurm</a>
@@ -930,19 +801,15 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/Austinbots"><img src="https://avatars.githubusercontent.com/u/182579764?v=4" width="64" height="64" alt="Austinbots" /></a><br/>
       <a href="https://github.com/Austinbots">@Austinbots</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/ay-gitgud"><img src="https://avatars.githubusercontent.com/u/241843953?v=4" width="64" height="64" alt="ay-gitgud" /></a><br/>
       <a href="https://github.com/ay-gitgud">@ay-gitgud</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/B3none"><img src="https://avatars.githubusercontent.com/u/24966460?v=4" width="64" height="64" alt="B3none" /></a><br/>
       <a href="https://github.com/B3none">@B3none</a>
-    </td>
-    <td align="center" valign="top" width="80">
-      <a href="https://github.com/blu133721"><img src="https://avatars.githubusercontent.com/u/73272097?v=4" width="64" height="64" alt="blu133721" /></a><br/>
-      <a href="https://github.com/blu133721">@blu133721</a>
     </td>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/BMathers35"><img src="https://avatars.githubusercontent.com/u/34012215?v=4" width="64" height="64" alt="BMathers35" /></a><br/>
@@ -952,8 +819,6 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/BombFoolGranny"><img src="https://avatars.githubusercontent.com/u/32615723?v=4" width="64" height="64" alt="BombFoolGranny" /></a><br/>
       <a href="https://github.com/BombFoolGranny">@BombFoolGranny</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/borzaka"><img src="https://avatars.githubusercontent.com/u/1230402?v=4" width="64" height="64" alt="borzaka" /></a><br/>
       <a href="https://github.com/borzaka">@borzaka</a>
@@ -961,6 +826,12 @@ These are the websites with resources that you might need to check during develo
     <td align="center" valign="top" width="80">
       <a href="https://github.com/brkvlr"><img src="https://avatars.githubusercontent.com/u/50466021?v=4" width="64" height="64" alt="brkvlr" /></a><br/>
       <a href="https://github.com/brkvlr">@brkvlr</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="80">
+      <a href="https://github.com/btnrv"><img src="https://avatars.githubusercontent.com/u/83274417?v=4" width="64" height="64" alt="btnrv" /></a><br/>
+      <a href="https://github.com/btnrv">@btnrv</a>
     </td>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/busheezy"><img src="https://avatars.githubusercontent.com/u/6915170?v=4" width="64" height="64" alt="busheezy" /></a><br/>
@@ -974,12 +845,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/CeLicat"><img src="https://avatars.githubusercontent.com/u/19570348?v=4" width="64" height="64" alt="CeLicat" /></a><br/>
       <a href="https://github.com/CeLicat">@CeLicat</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/characharm"><img src="https://avatars.githubusercontent.com/u/123120856?v=4" width="64" height="64" alt="characharm" /></a><br/>
       <a href="https://github.com/characharm">@characharm</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/CharlesBarone"><img src="https://avatars.githubusercontent.com/u/16052438?v=4" width="64" height="64" alt="CharlesBarone" /></a><br/>
       <a href="https://github.com/CharlesBarone">@CharlesBarone</a>
@@ -996,12 +867,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/crashzk"><img src="https://avatars.githubusercontent.com/u/32937653?v=4" width="64" height="64" alt="crashzk" /></a><br/>
       <a href="https://github.com/crashzk">@crashzk</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/criskkky"><img src="https://avatars.githubusercontent.com/u/36176343?v=4" width="64" height="64" alt="criskkky" /></a><br/>
       <a href="https://github.com/criskkky">@criskkky</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Cruze03"><img src="https://avatars.githubusercontent.com/u/31343375?v=4" width="64" height="64" alt="Cruze03" /></a><br/>
       <a href="https://github.com/Cruze03">@Cruze03</a>
@@ -1018,12 +889,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/darkerz7"><img src="https://avatars.githubusercontent.com/u/25752428?v=4" width="64" height="64" alt="darkerz7" /></a><br/>
       <a href="https://github.com/darkerz7">@darkerz7</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/DEADLYDEVIL-IR"><img src="https://avatars.githubusercontent.com/u/64157024?v=4" width="64" height="64" alt="DEADLYDEVIL-IR" /></a><br/>
       <a href="https://github.com/DEADLYDEVIL-IR">@DEADLYDEVIL-IR</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/DeadSwimek"><img src="https://avatars.githubusercontent.com/u/66752697?v=4" width="64" height="64" alt="DeadSwimek" /></a><br/>
       <a href="https://github.com/DeadSwimek">@DeadSwimek</a>
@@ -1040,12 +911,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/DeonduPreez"><img src="https://avatars.githubusercontent.com/u/23405975?v=4" width="64" height="64" alt="DeonduPreez" /></a><br/>
       <a href="https://github.com/DeonduPreez">@DeonduPreez</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/apps/dependabot"><img src="https://avatars.githubusercontent.com/in/29110?v=4" width="64" height="64" alt="dependabot[bot]" /></a><br/>
       <a href="https://github.com/apps/dependabot">@dependabot[bot]</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/derkalle4"><img src="https://avatars.githubusercontent.com/u/15657782?v=4" width="64" height="64" alt="derkalle4" /></a><br/>
       <a href="https://github.com/derkalle4">@derkalle4</a>
@@ -1062,12 +933,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/Dliix66"><img src="https://avatars.githubusercontent.com/u/2865871?v=4" width="64" height="64" alt="Dliix66" /></a><br/>
       <a href="https://github.com/Dliix66">@Dliix66</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/dollannn"><img src="https://avatars.githubusercontent.com/u/50216897?v=4" width="64" height="64" alt="dollannn" /></a><br/>
       <a href="https://github.com/dollannn">@dollannn</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/dom1torii"><img src="https://avatars.githubusercontent.com/u/84600518?v=4" width="64" height="64" alt="dom1torii" /></a><br/>
       <a href="https://github.com/dom1torii">@dom1torii</a>
@@ -1084,12 +955,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/e-n-v-i"><img src="https://avatars.githubusercontent.com/u/112311421?v=4" width="64" height="64" alt="e-n-v-i" /></a><br/>
       <a href="https://github.com/e-n-v-i">@e-n-v-i</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/e54385991"><img src="https://avatars.githubusercontent.com/u/19951346?v=4" width="64" height="64" alt="e54385991" /></a><br/>
       <a href="https://github.com/e54385991">@e54385991</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/EasterLee"><img src="https://avatars.githubusercontent.com/u/34824423?v=4" width="64" height="64" alt="EasterLee" /></a><br/>
       <a href="https://github.com/EasterLee">@EasterLee</a>
@@ -1097,6 +968,10 @@ These are the websites with resources that you might need to check during develo
     <td align="center" valign="top" width="80">
       <a href="https://github.com/ehwhattaugonnado"><img src="https://avatars.githubusercontent.com/u/54551926?v=4" width="64" height="64" alt="ehwhattaugonnado" /></a><br/>
       <a href="https://github.com/ehwhattaugonnado">@ehwhattaugonnado</a>
+    </td>
+    <td align="center" valign="top" width="80">
+      <a href="https://github.com/ELDment"><img src="https://avatars.githubusercontent.com/u/79680886?v=4" width="64" height="64" alt="ELDment" /></a><br/>
+      <a href="https://github.com/ELDment">@ELDment</a>
     </td>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/emilhaapalainen"><img src="https://avatars.githubusercontent.com/u/47125778?v=4" width="64" height="64" alt="emilhaapalainen" /></a><br/>
@@ -1289,6 +1164,10 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/ipsvn">@ipsvn</a>
     </td>
     <td align="center" valign="top" width="80">
+      <a href="https://github.com/iWanheda"><img src="https://avatars.githubusercontent.com/u/34320875?v=4" width="64" height="64" alt="iWanheda" /></a><br/>
+      <a href="https://github.com/iWanheda">@iWanheda</a>
+    </td>
+    <td align="center" valign="top" width="80">
       <a href="https://github.com/Iwhite67"><img src="https://avatars.githubusercontent.com/u/9698964?v=4" width="64" height="64" alt="Iwhite67" /></a><br/>
       <a href="https://github.com/Iwhite67">@Iwhite67</a>
     </td>
@@ -1300,12 +1179,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/JackJack3231"><img src="https://avatars.githubusercontent.com/u/26525530?v=4" width="64" height="64" alt="JackJack3231" /></a><br/>
       <a href="https://github.com/JackJack3231">@JackJack3231</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/jakkekz"><img src="https://avatars.githubusercontent.com/u/120755650?v=4" width="64" height="64" alt="jakkekz" /></a><br/>
       <a href="https://github.com/jakkekz">@jakkekz</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/JayCroghan"><img src="https://avatars.githubusercontent.com/u/1171148?v=4" width="64" height="64" alt="JayCroghan" /></a><br/>
       <a href="https://github.com/JayCroghan">@JayCroghan</a>
@@ -1322,12 +1201,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/jonahbearde"><img src="https://avatars.githubusercontent.com/u/48353815?v=4" width="64" height="64" alt="jonahbearde" /></a><br/>
       <a href="https://github.com/jonahbearde">@jonahbearde</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/jonassjoh"><img src="https://avatars.githubusercontent.com/u/17067347?v=4" width="64" height="64" alt="jonassjoh" /></a><br/>
       <a href="https://github.com/jonassjoh">@jonassjoh</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Julienhqr"><img src="https://avatars.githubusercontent.com/u/43007197?v=4" width="64" height="64" alt="Julienhqr" /></a><br/>
       <a href="https://github.com/Julienhqr">@Julienhqr</a>
@@ -1344,12 +1223,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/K4ryuu"><img src="https://avatars.githubusercontent.com/u/104531589?v=4" width="64" height="64" alt="K4ryuu" /></a><br/>
       <a href="https://github.com/K4ryuu">@K4ryuu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Kandru"><img src="https://avatars.githubusercontent.com/u/1965552?v=4" width="64" height="64" alt="Kandru" /></a><br/>
       <a href="https://github.com/Kandru">@Kandru</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Katarina-E"><img src="https://avatars.githubusercontent.com/u/153746513?v=4" width="64" height="64" alt="Katarina-E" /></a><br/>
       <a href="https://github.com/Katarina-E">@Katarina-E</a>
@@ -1366,12 +1245,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/kkeegzz"><img src="https://avatars.githubusercontent.com/u/54126889?v=4" width="64" height="64" alt="kkeegzz" /></a><br/>
       <a href="https://github.com/kkeegzz">@kkeegzz</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/KKNecmi"><img src="https://avatars.githubusercontent.com/u/174268271?v=4" width="64" height="64" alt="KKNecmi" /></a><br/>
       <a href="https://github.com/KKNecmi">@KKNecmi</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/komashchenko"><img src="https://avatars.githubusercontent.com/u/22940384?v=4" width="64" height="64" alt="komashchenko" /></a><br/>
       <a href="https://github.com/komashchenko">@komashchenko</a>
@@ -1388,12 +1267,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/Kroytz"><img src="https://avatars.githubusercontent.com/u/33564475?v=4" width="64" height="64" alt="Kroytz" /></a><br/>
       <a href="https://github.com/Kroytz">@Kroytz</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/kus"><img src="https://avatars.githubusercontent.com/u/571523?v=4" width="64" height="64" alt="kus" /></a><br/>
       <a href="https://github.com/kus">@kus</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Kxnrl"><img src="https://avatars.githubusercontent.com/u/3905845?v=4" width="64" height="64" alt="Kxnrl" /></a><br/>
       <a href="https://github.com/Kxnrl">@Kxnrl</a>
@@ -1410,12 +1289,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/Lan2Play"><img src="https://avatars.githubusercontent.com/u/73311398?v=4" width="64" height="64" alt="Lan2Play" /></a><br/>
       <a href="https://github.com/Lan2Play">@Lan2Play</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/lanslide-team"><img src="https://avatars.githubusercontent.com/u/122711296?v=4" width="64" height="64" alt="lanslide-team" /></a><br/>
       <a href="https://github.com/lanslide-team">@lanslide-team</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/LaplaceTor"><img src="https://avatars.githubusercontent.com/u/28674126?v=4" width="64" height="64" alt="LaplaceTor" /></a><br/>
       <a href="https://github.com/LaplaceTor">@LaplaceTor</a>
@@ -1432,15 +1311,11 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/M-archand"><img src="https://avatars.githubusercontent.com/u/13469995?v=4" width="64" height="64" alt="M-archand" /></a><br/>
       <a href="https://github.com/M-archand">@M-archand</a>
     </td>
-    <td align="center" valign="top" width="80">
-      <a href="https://github.com/m-arcuri"><img src="https://avatars.githubusercontent.com/u/124469923?v=4" width="64" height="64" alt="m-arcuri" /></a><br/>
-      <a href="https://github.com/m-arcuri">@m-arcuri</a>
-    </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="80">
-      <a href="https://github.com/m3ntorsky"><img src="https://avatars.githubusercontent.com/u/98771679?v=4" width="64" height="64" alt="m3ntorsky" /></a><br/>
-      <a href="https://github.com/m3ntorsky">@m3ntorsky</a>
+      <a href="https://github.com/m-arcuri"><img src="https://avatars.githubusercontent.com/u/124469923?v=4" width="64" height="64" alt="m-arcuri" /></a><br/>
+      <a href="https://github.com/m-arcuri">@m-arcuri</a>
     </td>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/mAa4a97"><img src="https://avatars.githubusercontent.com/u/34139457?v=4" width="64" height="64" alt="mAa4a97" /></a><br/>
@@ -1495,19 +1370,15 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/milkywayfarer">@milkywayfarer</a>
     </td>
     <td align="center" valign="top" width="80">
-      <a href="https://github.com/moongetsu"><img src="https://avatars.githubusercontent.com/u/111883135?v=4" width="64" height="64" alt="moongetsu" /></a><br/>
-      <a href="https://github.com/moongetsu">@moongetsu</a>
-    </td>
-    <td align="center" valign="top" width="80">
       <a href="https://github.com/moyogii"><img src="https://avatars.githubusercontent.com/u/22126651?v=4" width="64" height="64" alt="moyogii" /></a><br/>
       <a href="https://github.com/moyogii">@moyogii</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/mrc4tt"><img src="https://avatars.githubusercontent.com/u/5301047?v=4" width="64" height="64" alt="mrc4tt" /></a><br/>
       <a href="https://github.com/mrc4tt">@mrc4tt</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/MSWS"><img src="https://avatars.githubusercontent.com/u/14448584?v=4" width="64" height="64" alt="MSWS" /></a><br/>
       <a href="https://github.com/MSWS">@MSWS</a>
@@ -1524,12 +1395,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/nicedayzhu"><img src="https://avatars.githubusercontent.com/u/5286862?v=4" width="64" height="64" alt="nicedayzhu" /></a><br/>
       <a href="https://github.com/nicedayzhu">@nicedayzhu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/NiGHT757"><img src="https://avatars.githubusercontent.com/u/86895149?v=4" width="64" height="64" alt="NiGHT757" /></a><br/>
       <a href="https://github.com/NiGHT757">@NiGHT757</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/NikolaJyun"><img src="https://avatars.githubusercontent.com/u/22559124?v=4" width="64" height="64" alt="NikolaJyun" /></a><br/>
       <a href="https://github.com/NikolaJyun">@NikolaJyun</a>
@@ -1546,12 +1417,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/notkoen"><img src="https://avatars.githubusercontent.com/u/45914779?v=4" width="64" height="64" alt="notkoen" /></a><br/>
       <a href="https://github.com/notkoen">@notkoen</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/nry1337"><img src="https://avatars.githubusercontent.com/u/40671068?v=4" width="64" height="64" alt="nry1337" /></a><br/>
       <a href="https://github.com/nry1337">@nry1337</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Nubston"><img src="https://avatars.githubusercontent.com/u/15358552?v=4" width="64" height="64" alt="Nubston" /></a><br/>
       <a href="https://github.com/Nubston">@Nubston</a>
@@ -1568,12 +1439,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/NYSHUN"><img src="https://avatars.githubusercontent.com/u/175985294?v=4" width="64" height="64" alt="NYSHUN" /></a><br/>
       <a href="https://github.com/NYSHUN">@NYSHUN</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/o3LL"><img src="https://avatars.githubusercontent.com/u/16344976?v=4" width="64" height="64" alt="o3LL" /></a><br/>
       <a href="https://github.com/o3LL">@o3LL</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/OniquirAK"><img src="https://avatars.githubusercontent.com/u/84151839?v=4" width="64" height="64" alt="OniquirAK" /></a><br/>
       <a href="https://github.com/OniquirAK">@OniquirAK</a>
@@ -1590,12 +1461,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/oscar-wos"><img src="https://avatars.githubusercontent.com/u/29248751?v=4" width="64" height="64" alt="oscar-wos" /></a><br/>
       <a href="https://github.com/oscar-wos">@oscar-wos</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/oylsister"><img src="https://avatars.githubusercontent.com/u/57207701?v=4" width="64" height="64" alt="oylsister" /></a><br/>
       <a href="https://github.com/oylsister">@oylsister</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Oz-Lin"><img src="https://avatars.githubusercontent.com/u/36224575?v=4" width="64" height="64" alt="Oz-Lin" /></a><br/>
       <a href="https://github.com/Oz-Lin">@Oz-Lin</a>
@@ -1612,12 +1483,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/partiusfabaa"><img src="https://avatars.githubusercontent.com/u/96542489?v=4" width="64" height="64" alt="partiusfabaa" /></a><br/>
       <a href="https://github.com/partiusfabaa">@partiusfabaa</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/pc-dongles"><img src="https://avatars.githubusercontent.com/u/79170834?v=4" width="64" height="64" alt="pc-dongles" /></a><br/>
       <a href="https://github.com/pc-dongles">@pc-dongles</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/PhantomYopta"><img src="https://avatars.githubusercontent.com/u/129750207?v=4" width="64" height="64" alt="PhantomYopta" /></a><br/>
       <a href="https://github.com/PhantomYopta">@PhantomYopta</a>
@@ -1634,12 +1505,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/poggicek"><img src="https://github.com/poggicek.png" width="64" height="64" alt="poggicek" /></a><br/>
       <a href="https://github.com/poggicek">@poggicek</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Prefix"><img src="https://avatars.githubusercontent.com/u/1775218?v=4" width="64" height="64" alt="Prefix" /></a><br/>
       <a href="https://github.com/Prefix">@Prefix</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/qq410525209"><img src="https://avatars.githubusercontent.com/u/47157419?v=4" width="64" height="64" alt="qq410525209" /></a><br/>
       <a href="https://github.com/qq410525209">@qq410525209</a>
@@ -1656,12 +1527,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/R0mz1k"><img src="https://avatars.githubusercontent.com/u/81678188?v=4" width="64" height="64" alt="R0mz1k" /></a><br/>
       <a href="https://github.com/R0mz1k">@R0mz1k</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/rainstorm-9"><img src="https://avatars.githubusercontent.com/u/181768486?v=4" width="64" height="64" alt="rainstorm-9" /></a><br/>
       <a href="https://github.com/rainstorm-9">@rainstorm-9</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Ravid-A"><img src="https://avatars.githubusercontent.com/u/72127473?v=4" width="64" height="64" alt="Ravid-A" /></a><br/>
       <a href="https://github.com/Ravid-A">@Ravid-A</a>
@@ -1678,12 +1549,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/rcon420"><img src="https://avatars.githubusercontent.com/u/47292145?v=4" width="64" height="64" alt="rcon420" /></a><br/>
       <a href="https://github.com/rcon420">@rcon420</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/rdfortega"><img src="https://avatars.githubusercontent.com/u/19917918?v=4" width="64" height="64" alt="rdfortega" /></a><br/>
       <a href="https://github.com/rdfortega">@rdfortega</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/ReneRebsdorf"><img src="https://avatars.githubusercontent.com/u/44376705?v=4" width="64" height="64" alt="ReneRebsdorf" /></a><br/>
       <a href="https://github.com/ReneRebsdorf">@ReneRebsdorf</a>
@@ -1700,12 +1571,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/rodopoulos1"><img src="https://avatars.githubusercontent.com/u/101236856?v=4" width="64" height="64" alt="rodopoulos1" /></a><br/>
       <a href="https://github.com/rodopoulos1">@rodopoulos1</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/roflmuffin"><img src="https://github.com/roflmuffin.png" width="64" height="64" alt="roflmuffin" /></a><br/>
       <a href="https://github.com/roflmuffin">@roflmuffin</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/roxyrekt"><img src="https://avatars.githubusercontent.com/u/87309991?v=4" width="64" height="64" alt="roxyrekt" /></a><br/>
       <a href="https://github.com/roxyrekt">@roxyrekt</a>
@@ -1721,6 +1592,10 @@ These are the websites with resources that you might need to check during develo
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Salvatore-Als"><img src="https://avatars.githubusercontent.com/u/58212852?v=4" width="64" height="64" alt="Salvatore-Als" /></a><br/>
       <a href="https://github.com/Salvatore-Als">@Salvatore-Als</a>
+    </td>
+    <td align="center" valign="top" width="80">
+      <a href="https://github.com/samayala22"><img src="https://avatars.githubusercontent.com/u/72941105?v=4" width="64" height="64" alt="samayala22" /></a><br/>
+      <a href="https://github.com/samayala22">@samayala22</a>
     </td>
   </tr>
   <tr>
@@ -1751,6 +1626,10 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/schwarper">@schwarper</a>
     </td>
     <td align="center" valign="top" width="80">
+      <a href="https://github.com/shmitzas"><img src="https://avatars.githubusercontent.com/u/46751666?v=4" width="64" height="64" alt="shmitzas" /></a><br/>
+      <a href="https://github.com/shmitzas">@shmitzas</a>
+    </td>
+    <td align="center" valign="top" width="80">
       <a href="https://github.com/shobhit-pathak"><img src="https://avatars.githubusercontent.com/u/140690706?v=4" width="64" height="64" alt="shobhit-pathak" /></a><br/>
       <a href="https://github.com/shobhit-pathak">@shobhit-pathak</a>
     </td>
@@ -1762,12 +1641,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/skayee"><img src="https://avatars.githubusercontent.com/u/75901057?v=4" width="64" height="64" alt="skayee" /></a><br/>
       <a href="https://github.com/skayee">@skayee</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/skuzzis"><img src="https://avatars.githubusercontent.com/u/61626661?v=4" width="64" height="64" alt="skuzzis" /></a><br/>
       <a href="https://github.com/skuzzis">@skuzzis</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/sniperpl"><img src="https://avatars.githubusercontent.com/u/87908771?v=4" width="64" height="64" alt="sniperpl" /></a><br/>
       <a href="https://github.com/sniperpl">@sniperpl</a>
@@ -1784,12 +1663,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/Source2ZE"><img src="https://avatars.githubusercontent.com/u/129127192?v=4" width="64" height="64" alt="Source2ZE" /></a><br/>
       <a href="https://github.com/Source2ZE">@Source2ZE</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/SpawnTerror"><img src="https://avatars.githubusercontent.com/u/39906114?v=4" width="64" height="64" alt="SpawnTerror" /></a><br/>
       <a href="https://github.com/SpawnTerror">@SpawnTerror</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/sphaxa"><img src="https://avatars.githubusercontent.com/u/25424125?v=4" width="64" height="64" alt="sphaxa" /></a><br/>
       <a href="https://github.com/sphaxa">@sphaxa</a>
@@ -1806,19 +1685,19 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/stefanx111"><img src="https://avatars.githubusercontent.com/u/60297289?v=4" width="64" height="64" alt="stefanx111" /></a><br/>
       <a href="https://github.com/stefanx111">@stefanx111</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Stimayk"><img src="https://avatars.githubusercontent.com/u/51941742?v=4" width="64" height="64" alt="Stimayk" /></a><br/>
       <a href="https://github.com/Stimayk">@Stimayk</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/STONE-GPY"><img src="https://avatars.githubusercontent.com/u/131870243?v=4" width="64" height="64" alt="STONE-GPY" /></a><br/>
       <a href="https://github.com/STONE-GPY">@STONE-GPY</a>
     </td>
     <td align="center" valign="top" width="80">
-      <a href="https://github.com/swiftly-solution"><img src="https://avatars.githubusercontent.com/u/118755242?v=4" width="64" height="64" alt="swiftly-solution" /></a><br/>
-      <a href="https://github.com/swiftly-solution">@swiftly-solution</a>
+      <a href="https://github.com/SwiftlyS2-Plugins"><img src="https://avatars.githubusercontent.com/u/237630240?v=4" width="64" height="64" alt="SwiftlyS2-Plugins" /></a><br/>
+      <a href="https://github.com/SwiftlyS2-Plugins">@SwiftlyS2-Plugins</a>
     </td>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/szogun1910"><img src="https://avatars.githubusercontent.com/u/69729783?v=4" width="64" height="64" alt="szogun1910" /></a><br/>
@@ -1828,12 +1707,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/T3Marius"><img src="https://avatars.githubusercontent.com/u/168598779?v=4" width="64" height="64" alt="T3Marius" /></a><br/>
       <a href="https://github.com/T3Marius">@T3Marius</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/T3Marius-hub"><img src="https://avatars.githubusercontent.com/u/173165797?v=4" width="64" height="64" alt="T3Marius-hub" /></a><br/>
       <a href="https://github.com/T3Marius-hub">@T3Marius-hub</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/tatuaua"><img src="https://avatars.githubusercontent.com/u/116430797?v=4" width="64" height="64" alt="tatuaua" /></a><br/>
       <a href="https://github.com/tatuaua">@tatuaua</a>
@@ -1850,12 +1729,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/TheR00st3r"><img src="https://avatars.githubusercontent.com/u/1764864?v=4" width="64" height="64" alt="TheR00st3r" /></a><br/>
       <a href="https://github.com/TheR00st3r">@TheR00st3r</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/ThunderClapZ"><img src="https://avatars.githubusercontent.com/u/25366481?v=4" width="64" height="64" alt="ThunderClapZ" /></a><br/>
       <a href="https://github.com/ThunderClapZ">@ThunderClapZ</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/TICHOJEBEC-SK"><img src="https://avatars.githubusercontent.com/u/150498032?v=4" width="64" height="64" alt="TICHOJEBEC-SK" /></a><br/>
       <a href="https://github.com/TICHOJEBEC-SK">@TICHOJEBEC-SK</a>
@@ -1872,12 +1751,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/Truba55"><img src="https://avatars.githubusercontent.com/u/28046241?v=4" width="64" height="64" alt="Truba55" /></a><br/>
       <a href="https://github.com/Truba55">@Truba55</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Tsukasa-Nefren"><img src="https://avatars.githubusercontent.com/u/89155368?v=4" width="64" height="64" alt="Tsukasa-Nefren" /></a><br/>
       <a href="https://github.com/Tsukasa-Nefren">@Tsukasa-Nefren</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/umbr1X"><img src="https://avatars.githubusercontent.com/u/123817480?v=4" width="64" height="64" alt="umbr1X" /></a><br/>
       <a href="https://github.com/umbr1X">@umbr1X</a>
@@ -1894,12 +1773,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/Vauff"><img src="https://avatars.githubusercontent.com/u/6075172?v=4" width="64" height="64" alt="Vauff" /></a><br/>
       <a href="https://github.com/Vauff">@Vauff</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/vulikit"><img src="https://avatars.githubusercontent.com/u/155004361?v=4" width="64" height="64" alt="vulikit" /></a><br/>
       <a href="https://github.com/vulikit">@vulikit</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/weblate"><img src="https://avatars.githubusercontent.com/u/1607653?v=4" width="64" height="64" alt="weblate" /></a><br/>
       <a href="https://github.com/weblate">@weblate</a>
@@ -1916,12 +1795,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/wiruwiru"><img src="https://avatars.githubusercontent.com/u/61034981?v=4" width="64" height="64" alt="wiruwiru" /></a><br/>
       <a href="https://github.com/wiruwiru">@wiruwiru</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/wjsrnrgus33"><img src="https://avatars.githubusercontent.com/u/112553297?v=4" width="64" height="64" alt="wjsrnrgus33" /></a><br/>
       <a href="https://github.com/wjsrnrgus33">@wjsrnrgus33</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Wngui"><img src="https://avatars.githubusercontent.com/u/12588316?v=4" width="64" height="64" alt="Wngui" /></a><br/>
       <a href="https://github.com/Wngui">@Wngui</a>
@@ -1938,12 +1817,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/xLeviNx"><img src="https://avatars.githubusercontent.com/u/48465241?v=4" width="64" height="64" alt="xLeviNx" /></a><br/>
       <a href="https://github.com/xLeviNx">@xLeviNx</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/y0ungsm"><img src="https://avatars.githubusercontent.com/u/84058740?v=4" width="64" height="64" alt="y0ungsm" /></a><br/>
       <a href="https://github.com/y0ungsm">@y0ungsm</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Yarukon"><img src="https://avatars.githubusercontent.com/u/61296195?v=4" width="64" height="64" alt="Yarukon" /></a><br/>
       <a href="https://github.com/Yarukon">@Yarukon</a>
@@ -1960,12 +1839,12 @@ These are the websites with resources that you might need to check during develo
       <a href="https://github.com/yonilerner"><img src="https://avatars.githubusercontent.com/u/278810?v=4" width="64" height="64" alt="yonilerner" /></a><br/>
       <a href="https://github.com/yonilerner">@yonilerner</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/zakriamansoor47"><img src="https://avatars.githubusercontent.com/u/56433510?v=4" width="64" height="64" alt="zakriamansoor47" /></a><br/>
       <a href="https://github.com/zakriamansoor47">@zakriamansoor47</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Zeisenx"><img src="https://avatars.githubusercontent.com/u/19303143?v=4" width="64" height="64" alt="Zeisenx" /></a><br/>
       <a href="https://github.com/Zeisenx">@Zeisenx</a>
