@@ -22,7 +22,7 @@
 - [Plugins](#plugins)
   - [Metamod Plugins](#metamod-plugins)
   - [CounterStrikeSharp Plugins](#counterstrikesharp-plugins)
-  - [Swiftly Plugins](#swiftly-plugins)
+  - [SwiftlyS2 Plugins](#swiftlys2-plugins)
 - [Contributors](#contributors)
 - [Contributing](#contributing)
 
@@ -73,8 +73,11 @@
   *The most popular modding framework for cs2, the plugins are written in c#.*\
   *Alias: CS#, cssharp*
 
-- **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2)** [[Website](https://swiftlys2.net)] [[Discord](https://discord.gg/vVAMBR7z)]\
+- **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2)** [[Website](https://swiftlys2.net)] [[Discord](https://swiftlys2.net/discord)]\
   *A modding framework that support c#, with more features than counterstrikesharp.*
+
+- **[Modsharp](https://github.com/Kxnrl/modsharp-public)** [[Website](https://docs.modsharp.net/)] [[Discord](https://discord.com/invite/wKarAjHm2G)]
+  *Modern Source 2 Modding Solution.*
 
 - **[Plugify](https://github.com/untrustedmodders/plugify)** [[Website](https://plugify.net)] [[Discord](https://discord.gg/untrustedmodders)]\
   *A modding framework that support tons of programming languages, more information can be found in there discord channel and website.*
@@ -142,8 +145,8 @@ These are the websites with resources that you might need to check during develo
 - **[ModSharp Discord](https://discord.gg/wKarAjHm2G)**\
   *Official discord for modsharp, which is a currently unreleased modding framework.*
 
-- **[Swiftly Discord](https://discord.com/invite/Yv7hAM6erd)**\
-  *Official discord for swiftly, you can find swiftly plugins, code snippets, and discuss about swiftly modding framework here.*
+- **[SwiftlyS2 Discord](https://swiftlys2.net/discord)**\
+  *Official discord for swiftlys2, you can find swiftlys2 plugins, code snippets, and discuss about swiftlys2 modding framework here.*
 
 - **[Plugify Discord](https://discord.gg/untrustedmodders)**\
   *Official discord for plugify, you can find plugify plugins, code snippets, and discuss about plugify modding framework here.*
@@ -164,9 +167,11 @@ $METAMOD_PLUGINS
 
 $COUNTERSTRIKESHARP_PLUGINS
 
-## Swiftly Plugins
+## SwiftlyS2 Plugins
 
-$SWIFTLY_PLUGINS
+Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
+
+$SWIFTLYS2_PLUGINS
 
 # Contributors
 
