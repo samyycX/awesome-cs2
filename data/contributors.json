@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T03:19:56.664799+00:00",
-  "count": 258,
+  "generated_at": "2026-03-15T07:01:29.726924+00:00",
+  "count": 259,
   "contributors": [
     {
       "login": "1370533448",
@@ -30,12 +30,6 @@
       "login": "abnerfs",
       "html_url": "https://github.com/abnerfs",
       "avatar_url": "https://avatars.githubusercontent.com/u/14078661?v=4",
-      "type": "User"
-    },
-    {
-      "login": "actions-user",
-      "html_url": "https://github.com/actions-user",
-      "avatar_url": "https://avatars.githubusercontent.com/u/65916846?v=4",
       "type": "User"
     },
     {
@@ -135,12 +129,6 @@
       "type": "User"
     },
     {
-      "login": "blu133721",
-      "html_url": "https://github.com/blu133721",
-      "avatar_url": "https://avatars.githubusercontent.com/u/73272097?v=4",
-      "type": "User"
-    },
-    {
       "login": "BMathers35",
       "html_url": "https://github.com/BMathers35",
       "avatar_url": "https://avatars.githubusercontent.com/u/34012215?v=4",
@@ -162,6 +150,12 @@
       "login": "brkvlr",
       "html_url": "https://github.com/brkvlr",
       "avatar_url": "https://avatars.githubusercontent.com/u/50466021?v=4",
+      "type": "User"
+    },
+    {
+      "login": "btnrv",
+      "html_url": "https://github.com/btnrv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83274417?v=4",
       "type": "User"
     },
     {
@@ -348,6 +342,12 @@
       "login": "ehwhattaugonnado",
       "html_url": "https://github.com/ehwhattaugonnado",
       "avatar_url": "https://avatars.githubusercontent.com/u/54551926?v=4",
+      "type": "User"
+    },
+    {
+      "login": "ELDment",
+      "html_url": "https://github.com/ELDment",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79680886?v=4",
       "type": "User"
     },
     {
@@ -609,6 +609,12 @@
       "type": "User"
     },
     {
+      "login": "iWanheda",
+      "html_url": "https://github.com/iWanheda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34320875?v=4",
+      "type": "User"
+    },
+    {
       "login": "Iwhite67",
       "html_url": "https://github.com/Iwhite67",
       "avatar_url": "https://avatars.githubusercontent.com/u/9698964?v=4",
@@ -813,12 +819,6 @@
       "type": "User"
     },
     {
-      "login": "m3ntorsky",
-      "html_url": "https://github.com/m3ntorsky",
-      "avatar_url": "https://avatars.githubusercontent.com/u/98771679?v=4",
-      "type": "User"
-    },
-    {
       "login": "mAa4a97",
       "html_url": "https://github.com/mAa4a97",
       "avatar_url": "https://avatars.githubusercontent.com/u/34139457?v=4",
@@ -888,12 +888,6 @@
       "login": "milkywayfarer",
       "html_url": "https://github.com/milkywayfarer",
       "avatar_url": "https://avatars.githubusercontent.com/u/17110335?v=4",
-      "type": "User"
-    },
-    {
-      "login": "moongetsu",
-      "html_url": "https://github.com/moongetsu",
-      "avatar_url": "https://avatars.githubusercontent.com/u/111883135?v=4",
       "type": "User"
     },
     {
@@ -1203,6 +1197,12 @@
       "type": "User"
     },
     {
+      "login": "samayala22",
+      "html_url": "https://github.com/samayala22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72941105?v=4",
+      "type": "User"
+    },
+    {
       "login": "samyycX",
       "html_url": "https://github.com/samyycX",
       "avatar_url": "https://avatars.githubusercontent.com/u/60744529?v=4",
@@ -1236,6 +1236,12 @@
       "login": "schwarper",
       "html_url": "https://github.com/schwarper",
       "avatar_url": "https://avatars.githubusercontent.com/u/75811921?v=4",
+      "type": "User"
+    },
+    {
+      "login": "shmitzas",
+      "html_url": "https://github.com/shmitzas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46751666?v=4",
       "type": "User"
     },
     {
@@ -1329,9 +1335,9 @@
       "type": "User"
     },
     {
-      "login": "swiftly-solution",
-      "html_url": "https://github.com/swiftly-solution",
-      "avatar_url": "https://avatars.githubusercontent.com/u/118755242?v=4",
+      "login": "SwiftlyS2-Plugins",
+      "html_url": "https://github.com/SwiftlyS2-Plugins",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237630240?v=4",
       "type": "Organization"
     },
     {
