@@ -1,0 +1,38 @@
+[
+  {
+    "repo": "SwiftlyS2-Plugins/AddonsManager",
+    "desc": "This plugin is a port of Source2ZE's MultiAddonManager for SwiftlyS2, allowing you to use multiple workshop addons at once and have clients download them."
+  },
+  {
+    "repo": "SwiftlyS2-Plugins/Audio",
+    "desc": "A high performance VoIP audio lib for swiftlys2."
+  },
+  {
+    "repo": "SwiftlyS2-Plugins/Economy",
+    "desc": "The base economy plugin for your server."
+  },
+  {
+    "repo": "SwiftlyS2-Plugins/MapChooser",
+    "desc": "A powerful and customizable map voting system for SwiftlyS2."
+  },
+  {
+    "repo": "SwiftlyS2-Plugins/Admins",
+    "desc": "Base admin system for your server."
+  },
+  {
+    "repo": "SwiftlyS2-Plugins/Cookies",
+    "desc": "Server/Client persistent variables."
+  },
+  {
+    "repo": "SwiftlyS2-Plugins/MenuFlickeringFix",
+    "desc": "Fix the flickering menu. Won't have effect during warmup for game reason."
+  },
+  {
+    "repo": "SwiftlyS2-Plugins/VIPCore",
+    "desc": "A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2."
+  },
+  {
+    "repo": "samyycX/WeaponSkins",
+    "desc": "A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves."
+  }
+]
