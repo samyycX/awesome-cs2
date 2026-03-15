@@ -107,6 +107,9 @@ These are the websites with resources that you might need to check during develo
 - **[Protobufs](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/Protobufs)**\
   *A list of all cs2 protobuf definitions.*
 
+= **[Datamaps](https://swiftlys2.net/docs/api/datamaps/)**\
+  *A list of all cs2 datamap (entity keyvalues field, input, output and etc.)*
+
 - **[gdc.eternar.dev](https://gdc.eternar.dev)**\
   *A online gamedata tracker and validator, maintaining an active list for function signatures and offsets. If there's an game update that break your server, you might find the new gamedata here.*
 
