@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T02:51:53.277511+00:00",
-  "count": 259,
+  "generated_at": "2026-03-19T02:53:12.591229+00:00",
+  "count": 258,
   "contributors": [
     {
       "login": "1370533448",
@@ -775,12 +775,6 @@
       "html_url": "https://github.com/laazzee",
       "avatar_url": "https://avatars.githubusercontent.com/u/19431478?v=4",
       "type": "User"
-    },
-    {
-      "login": "Lan2Play",
-      "html_url": "https://github.com/Lan2Play",
-      "avatar_url": "https://avatars.githubusercontent.com/u/73311398?v=4",
-      "type": "Organization"
     },
     {
       "login": "lanslide-team",
