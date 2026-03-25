@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T02:45:48.553760+00:00",
+  "generated_at": "2026-03-25T02:50:36.249058+00:00",
   "count": 259,
   "contributors": [
     {
@@ -195,6 +195,12 @@
       "type": "User"
     },
     {
+      "login": "CounterStrike2-Plugins-Archive",
+      "html_url": "https://github.com/CounterStrike2-Plugins-Archive",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268485493?v=4",
+      "type": "Organization"
+    },
+    {
       "login": "counterstrikesharp-panel",
       "html_url": "https://github.com/counterstrikesharp-panel",
       "avatar_url": "https://avatars.githubusercontent.com/u/167018976?v=4",
@@ -276,12 +282,6 @@
       "login": "derkalle4",
       "html_url": "https://github.com/derkalle4",
       "avatar_url": "https://avatars.githubusercontent.com/u/15657782?v=4",
-      "type": "User"
-    },
-    {
-      "login": "devayee",
-      "html_url": "https://github.com/devayee",
-      "avatar_url": "https://avatars.githubusercontent.com/u/93475779?v=4",
       "type": "User"
     },
     {
