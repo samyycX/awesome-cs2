@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/03/29 03:23:31</strong>
+  Last Sync: <strong>2026/03/30 03:26:45</strong>
 </p>
 <p>
   Project Uptime: <strong>7 months</strong>
@@ -166,17 +166,17 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 342<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 179<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 8 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
   ⭐ 122<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 3 weeks ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
 - **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2)**<br>
@@ -226,12 +226,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
   ⭐ 18<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
   ⭐ 18<br>
-  ⏱️ updated 1 month ago<br>
+  ⏱️ updated 2 months ago<br>
   *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
 
 - **[samyycX/Audio](https://github.com/samyycX/Audio)**<br>
@@ -248,7 +248,7 @@ These are the websites with resources that you might need to check during develo
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
-  ⭐ 361<br>
+  ⭐ 360<br>
   ⏱️ updated 2 months ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
@@ -264,7 +264,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
   ⭐ 144<br>
-  ⏱️ updated 2 months ago<br>
+  ⏱️ updated 3 months ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
 - **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)**<br>
@@ -299,13 +299,18 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
   ⭐ 62<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *This plugin allows players to use Emotes & Dances just like Fortnite.*
 
 - **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote)**<br>
   ⭐ 60<br>
   ⏱️ updated 6 months ago<br>
   *General purpose map voting plugin, started as a simple RTV and now has more features.*
+
+- **[daffyyyy/CS2-Tags](https://github.com/daffyyyy/CS2-Tags)**<br>
+  ⭐ 59<br>
+  ⏱️ updated 5 months ago<br>
+  *Adds tags to the server that can be easily edited, tags can be assigned via permission or steamid64.*
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
   ⭐ 59<br>
@@ -317,13 +322,8 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 month ago<br>
   *Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.*
 
-- **[daffyyyy/CS2-Tags](https://github.com/daffyyyy/CS2-Tags)**<br>
-  ⭐ 57<br>
-  ⏱️ updated 5 months ago<br>
-  *Adds tags to the server that can be easily edited, tags can be assigned via permission or steamid64.*
-
 - **[CounterStrike2-Plugins-Archive/cs2-tags](https://github.com/CounterStrike2-Plugins-Archive/cs2-tags)**<br>
-  ⭐ 53<br>
+  ⭐ 52<br>
   ⏱️ updated 7 months ago<br>
   *A tag plugin designed to enhance your CS2 experience with a dynamic tagging system. Customise and manage player tags effortlessly for a more interactive and engaging game environment.*
 
@@ -344,7 +344,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[CounterStrike2-Plugins-Archive/CS2TraceRay](https://github.com/CounterStrike2-Plugins-Archive/CS2TraceRay)**<br>
   ⭐ 34<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *A trace ray library developed for use in Counter Strike 2, in conjunction with the CounterStrikeSharp API. This enables the use of trace ray with TraceMask, Contents and skip enums.*
 
 - **[HvH-gg/CS2-Essentials](https://github.com/HvH-gg/CS2-Essentials)**<br>
@@ -412,6 +412,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 5 months ago<br>
   *A plugin with various patches for cs2.*
 
+- **[Kandru/cs2-update-manager](https://github.com/Kandru/cs2-update-manager)**<br>
+  ⭐ 17<br>
+  ⏱️ updated 7 months ago<br>
+  *The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.*
+
 - **[zakriamansoor47/SLAYER_Duel](https://github.com/zakriamansoor47/SLAYER_Duel)**<br>
   ⭐ 16<br>
   ⏱️ updated 7 months ago<br>
@@ -436,11 +441,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 16<br>
   ⏱️ updated 1 month ago<br>
   *CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit.*
-
-- **[Kandru/cs2-update-manager](https://github.com/Kandru/cs2-update-manager)**<br>
-  ⭐ 16<br>
-  ⏱️ updated 7 months ago<br>
-  *The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.*
 
 - **[PhantomYopta/CS2_Speedometer](https://github.com/PhantomYopta/CS2_Speedometer)**<br>
   ⭐ 16<br>
@@ -504,12 +504,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[schwarper/cs2-store](https://github.com/schwarper/cs2-store)**<br>
   ⭐ 10<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 3 days ago<br>
   *A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.*
 
 - **[T3Marius/MVP-Anthem](https://github.com/T3Marius/MVP-Anthem)**<br>
   ⭐ 10<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 6 months ago<br>
   *A plugin that add custom mvp sound to the game.*
 
 - **[darkerz7/CS2-EntityFix](https://github.com/darkerz7/CS2-EntityFix)**<br>
@@ -527,6 +527,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 11 months ago<br>
   *This plugin detect player who is camping for a specific time.*
 
+- **[zakriamansoor47/SLAYER_UnrestrictedFOV](https://github.com/zakriamansoor47/SLAYER_UnrestrictedFOV)**<br>
+  ⭐ 8<br>
+  ⏱️ updated 11 months ago<br>
+  *This simple plugin allow players to change their FOV.*
+
 - **[darkerz7/CS2-HideTeammates](https://github.com/darkerz7/CS2-HideTeammates)**<br>
   ⭐ 8<br>
   ⏱️ updated 3 months ago<br>
@@ -541,11 +546,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 8<br>
   ⏱️ updated 3 months ago<br>
   *This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.*
-
-- **[zakriamansoor47/SLAYER_UnrestrictedFOV](https://github.com/zakriamansoor47/SLAYER_UnrestrictedFOV)**<br>
-  ⭐ 7<br>
-  ⏱️ updated 11 months ago<br>
-  *This simple plugin allow players to change their FOV.*
 
 - **[Ferks-FK/CS2-TeamLimiter](https://github.com/Ferks-FK/CS2-TeamLimiter)**<br>
   ⭐ 7<br>
@@ -564,7 +564,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[zakriamansoor47/SLAYER_Noscope](https://github.com/zakriamansoor47/SLAYER_Noscope)**<br>
   ⭐ 5<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *This plugin disables scope of scope weapons like AWP, scout, etc.*
 
 - **[asapverneri/CS2-Baninfo](https://github.com/asapverneri/CS2-Baninfo)**<br>
@@ -654,7 +654,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[TICHOJEBEC-SK/cs2-WarnSystem](https://github.com/TICHOJEBEC-SK/cs2-WarnSystem)**<br>
   ⭐ 1<br>
-  ⏱️ updated 6 months ago<br>
+  ⏱️ updated 7 months ago<br>
   *A plugin that allows admins to warn players.*
 
 - **[asapverneri/CS2-ChatLogs](https://github.com/asapverneri/CS2-ChatLogs)**<br>
@@ -673,7 +673,7 @@ These are the websites with resources that you might need to check during develo
 Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[samyycX/WeaponSkins](https://github.com/samyycX/WeaponSkins)**<br>
-  ⭐ 23<br>
+  ⭐ 24<br>
   ⏱️ updated 2 weeks ago<br>
   *A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.*
 
@@ -684,38 +684,38 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/Audio](https://github.com/SwiftlyS2-Plugins/Audio)**<br>
   ⭐ 8<br>
-  ⏱️ updated 1 month ago<br>
+  ⏱️ updated 2 months ago<br>
   *A high performance VoIP audio lib for swiftlys2.*
+
+- **[SwiftlyS2-Plugins/Admins](https://github.com/SwiftlyS2-Plugins/Admins)**<br>
+  ⭐ 8<br>
+  ⏱️ updated 5 days ago<br>
+  *Base admin system for your server.*
 
 - **[SwiftlyS2-Plugins/MapChooser](https://github.com/SwiftlyS2-Plugins/MapChooser)**<br>
   ⭐ 7<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *A powerful and customizable map voting system for SwiftlyS2.*
 
-- **[SwiftlyS2-Plugins/Admins](https://github.com/SwiftlyS2-Plugins/Admins)**<br>
-  ⭐ 7<br>
-  ⏱️ updated 3 days ago<br>
-  *Base admin system for your server.*
-
 - **[SwiftlyS2-Plugins/Economy](https://github.com/SwiftlyS2-Plugins/Economy)**<br>
-  ⭐ 5<br>
+  ⭐ 6<br>
   ⏱️ updated 2 weeks ago<br>
   *The base economy plugin for your server.*
 
 - **[SwiftlyS2-Plugins/Cookies](https://github.com/SwiftlyS2-Plugins/Cookies)**<br>
-  ⭐ 5<br>
-  ⏱️ updated 4 weeks ago<br>
+  ⭐ 6<br>
+  ⏱️ updated 1 month ago<br>
   *Server/Client persistent variables.*
+
+- **[SwiftlyS2-Plugins/MenuFlickeringFix](https://github.com/SwiftlyS2-Plugins/MenuFlickeringFix)**<br>
+  ⭐ 3<br>
+  ⏱️ updated 4 months ago<br>
+  *Fix the flickering menu. Won't have effect during warmup for game reason.*
 
 - **[SwiftlyS2-Plugins/VIPCore](https://github.com/SwiftlyS2-Plugins/VIPCore)**<br>
   ⭐ 3<br>
   ⏱️ updated 1 week ago<br>
   *A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.*
-
-- **[SwiftlyS2-Plugins/MenuFlickeringFix](https://github.com/SwiftlyS2-Plugins/MenuFlickeringFix)**<br>
-  ⭐ 2<br>
-  ⏱️ updated 4 months ago<br>
-  *Fix the flickering menu. Won't have effect during warmup for game reason.*
 
 
 # Contributors
@@ -1333,8 +1333,8 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/mavproductions">@mavproductions</a>
     </td>
     <td align="center" valign="top" width="80">
-      <a href="https://github.com/maxime1907"><img src="https://avatars.githubusercontent.com/u/19607336?v=4" width="64" height="64" alt="maxime1907" /></a><br/>
-      <a href="https://github.com/maxime1907">@maxime1907</a>
+      <a href="https://github.com/maximee-leroyy"><img src="https://avatars.githubusercontent.com/u/19607336?v=4" width="64" height="64" alt="maximee-leroyy" /></a><br/>
+      <a href="https://github.com/maximee-leroyy">@maximee-leroyy</a>
     </td>
   </tr>
   <tr>
