@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T03:30:25.151752+00:00",
-  "count": 259,
+  "generated_at": "2026-04-02T02:55:20.702498+00:00",
+  "count": 258,
   "contributors": [
     {
       "login": "1370533448",
@@ -354,12 +354,6 @@
       "login": "emilhaapalainen",
       "html_url": "https://github.com/emilhaapalainen",
       "avatar_url": "https://avatars.githubusercontent.com/u/47125778?v=4",
-      "type": "User"
-    },
-    {
-      "login": "erikpeik",
-      "html_url": "https://github.com/erikpeik",
-      "avatar_url": "https://avatars.githubusercontent.com/u/52178013?v=4",
       "type": "User"
     },
     {
