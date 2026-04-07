@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/04/05 03:26:01</strong>
+  Last Sync: <strong>2026/04/06 03:28:46</strong>
 </p>
 <p>
   Project Uptime: <strong>7 months</strong>
@@ -166,12 +166,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 345<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 178<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -243,13 +243,13 @@ These are the websites with resources that you might need to check during develo
 ## CounterStrikeSharp Plugins
 
 - **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy)**<br>
-  ⭐ 430<br>
+  ⭐ 431<br>
   ⏱️ updated 5 months ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
   ⭐ 362<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
@@ -287,15 +287,15 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 month ago<br>
   *A vip plugin for cs2.*
 
+- **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
+  ⭐ 66<br>
+  ⏱️ updated 2 months ago<br>
+  *Block/Hide unnecessaries in game.*
+
 - **[partiusfabaa/cs2-ranks](https://github.com/partiusfabaa/cs2-ranks)**<br>
   ⭐ 65<br>
   ⏱️ updated 8 months ago<br>
   *Each player is assigned a rank based on their accumulated experience points. Ranks range from "None" to the prestigious "The Global Elite."*
-
-- **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
-  ⭐ 65<br>
-  ⏱️ updated 2 months ago<br>
-  *Block/Hide unnecessaries in game.*
 
 - **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
   ⭐ 63<br>
@@ -412,6 +412,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 year ago<br>
   *This plugin is similar to the CS:GO version.*
 
+- **[Kandru/cs2-roll-the-dice](https://github.com/Kandru/cs2-roll-the-dice)**<br>
+  ⭐ 17<br>
+  ⏱️ updated 2 months ago<br>
+  *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
+
 - **[Kandru/cs2-update-manager](https://github.com/Kandru/cs2-update-manager)**<br>
   ⭐ 17<br>
   ⏱️ updated 8 months ago<br>
@@ -431,11 +436,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 16<br>
   ⏱️ updated 7 months ago<br>
   *Fixes convar `mp_randomspawn` for any game mode.*
-
-- **[Kandru/cs2-roll-the-dice](https://github.com/Kandru/cs2-roll-the-dice)**<br>
-  ⭐ 16<br>
-  ⏱️ updated 2 months ago<br>
-  *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
 
 - **[HvH-gg/TeleportFix](https://github.com/HvH-gg/TeleportFix)**<br>
   ⭐ 16<br>
@@ -474,7 +474,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Austinbots/CS2-BotAI](https://github.com/Austinbots/CS2-BotAI)**<br>
   ⭐ 14<br>
-  ⏱️ updated 6 months ago<br>
+  ⏱️ updated 7 months ago<br>
   *Improves the built in bots AI.*
 
 - **[asapverneri/CS2-Playervotes](https://github.com/asapverneri/CS2-Playervotes)**<br>
@@ -679,12 +679,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/AddonsManager](https://github.com/SwiftlyS2-Plugins/AddonsManager)**<br>
   ⭐ 11<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *This plugin is a port of Source2ZE's MultiAddonManager for SwiftlyS2, allowing you to use multiple workshop addons at once and have clients download them.*
 
 - **[SwiftlyS2-Plugins/Audio](https://github.com/SwiftlyS2-Plugins/Audio)**<br>
   ⭐ 8<br>
-  ⏱️ updated 2 months ago<br>
+  ⏱️ updated 13 hours ago<br>
   *A high performance VoIP audio lib for swiftlys2.*
 
 - **[SwiftlyS2-Plugins/Admins](https://github.com/SwiftlyS2-Plugins/Admins)**<br>
@@ -694,7 +694,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/MapChooser](https://github.com/SwiftlyS2-Plugins/MapChooser)**<br>
   ⭐ 7<br>
-  ⏱️ updated 7 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *A powerful and customizable map voting system for SwiftlyS2.*
 
 - **[SwiftlyS2-Plugins/Economy](https://github.com/SwiftlyS2-Plugins/Economy)**<br>
@@ -714,7 +714,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/VIPCore](https://github.com/SwiftlyS2-Plugins/VIPCore)**<br>
   ⭐ 3<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.*
 
 
