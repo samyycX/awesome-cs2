@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/04/11 02:52:39</strong>
+  Last Sync: <strong>2026/04/12 03:33:08</strong>
 </p>
 <p>
   Project Uptime: <strong>7 months</strong>
@@ -166,16 +166,16 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 345<br>
-  ⏱️ updated 13 hours ago<br>
+  ⏱️ updated 6 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 178<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
-  ⭐ 123<br>
+  ⭐ 124<br>
   ⏱️ updated 1 month ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
@@ -248,13 +248,13 @@ These are the websites with resources that you might need to check during develo
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
-  ⭐ 363<br>
+  ⭐ 367<br>
   ⏱️ updated 1 week ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
-  ⭐ 301<br>
-  ⏱️ updated 1 day ago<br>
+  ⭐ 302<br>
+  ⏱️ updated 13 hours ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
@@ -312,15 +312,15 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 year ago<br>
   *A plugin that allows players to instantly defuse the bomb.*
 
+- **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
+  ⭐ 59<br>
+  ⏱️ updated 1 month ago<br>
+  *Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.*
+
 - **[daffyyyy/CS2-Tags](https://github.com/daffyyyy/CS2-Tags)**<br>
   ⭐ 58<br>
   ⏱️ updated 6 months ago<br>
   *Adds tags to the server that can be easily edited, tags can be assigned via permission or steamid64.*
-
-- **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
-  ⭐ 58<br>
-  ⏱️ updated 1 month ago<br>
-  *Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.*
 
 - **[CounterStrike2-Plugins-Archive/cs2-tags](https://github.com/CounterStrike2-Plugins-Archive/cs2-tags)**<br>
   ⭐ 53<br>
@@ -412,6 +412,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 year ago<br>
   *This plugin is similar to the CS:GO version.*
 
+- **[qstage/CS2-FixRandomSpawn](https://github.com/qstage/CS2-FixRandomSpawn)**<br>
+  ⭐ 17<br>
+  ⏱️ updated 7 months ago<br>
+  *Fixes convar `mp_randomspawn` for any game mode.*
+
 - **[Kandru/cs2-roll-the-dice](https://github.com/Kandru/cs2-roll-the-dice)**<br>
   ⭐ 17<br>
   ⏱️ updated 2 months ago<br>
@@ -432,25 +437,20 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 5 months ago<br>
   *This plugin implements advanced control of friendly fire.*
 
-- **[qstage/CS2-FixRandomSpawn](https://github.com/qstage/CS2-FixRandomSpawn)**<br>
-  ⭐ 16<br>
-  ⏱️ updated 7 months ago<br>
-  *Fixes convar `mp_randomspawn` for any game mode.*
-
 - **[HvH-gg/TeleportFix](https://github.com/HvH-gg/TeleportFix)**<br>
   ⭐ 16<br>
   ⏱️ updated 2 months ago<br>
   *CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit.*
 
+- **[Kandru/cs2-quake-sounds](https://github.com/Kandru/cs2-quake-sounds)**<br>
+  ⭐ 16<br>
+  ⏱️ updated 2 months ago<br>
+  *This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.*
+
 - **[PhantomYopta/CS2_Speedometer](https://github.com/PhantomYopta/CS2_Speedometer)**<br>
   ⭐ 16<br>
   ⏱️ updated 2 years ago<br>
   *Just a speedometer for CS2.*
-
-- **[Kandru/cs2-quake-sounds](https://github.com/Kandru/cs2-quake-sounds)**<br>
-  ⭐ 15<br>
-  ⏱️ updated 2 months ago<br>
-  *This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.*
 
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
   ⭐ 15<br>
@@ -467,6 +467,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 month ago<br>
   *This plugin enhances weapon skin visibility by ensuring your equipped Steam inventory skins are displayed consistently across both teams.*
 
+- **[asapverneri/CS2-Playervotes](https://github.com/asapverneri/CS2-Playervotes)**<br>
+  ⭐ 14<br>
+  ⏱️ updated 4 months ago<br>
+  *Lightweight and efficient voting system for CS2 without anything pointless, allowing players to initiate votes for kicking, banning, and muting players.*
+
 - **[Quantor97/CS2-Kill-Plugin](https://github.com/Quantor97/CS2-Kill-Plugin)**<br>
   ⭐ 14<br>
   ⏱️ updated 2 years ago<br>
@@ -476,11 +481,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 14<br>
   ⏱️ updated 7 months ago<br>
   *Improves the built in bots AI.*
-
-- **[asapverneri/CS2-Playervotes](https://github.com/asapverneri/CS2-Playervotes)**<br>
-  ⭐ 13<br>
-  ⏱️ updated 4 months ago<br>
-  *Lightweight and efficient voting system for CS2 without anything pointless, allowing players to initiate votes for kicking, banning, and muting players.*
 
 - **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds)**<br>
   ⭐ 12<br>
@@ -547,6 +547,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 2 months ago<br>
   *CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.*
 
+- **[zakriamansoor47/SLAYER_HeadshotOnly](https://github.com/zakriamansoor47/SLAYER_HeadshotOnly)**<br>
+  ⭐ 7<br>
+  ⏱️ updated 12 months ago<br>
+  *This plugin enables headshot only to all players or enables headshot only on players themselves by using public command !hs.*
+
 - **[Ferks-FK/CS2-TeamLimiter](https://github.com/Ferks-FK/CS2-TeamLimiter)**<br>
   ⭐ 7<br>
   ⏱️ updated 1 year ago<br>
@@ -556,11 +561,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 7<br>
   ⏱️ updated 2 years ago<br>
   *Show only your kills/assists/deaths in the killfeed, useful for DM servers where the killfeed has too much kills going on.*
-
-- **[zakriamansoor47/SLAYER_HeadshotOnly](https://github.com/zakriamansoor47/SLAYER_HeadshotOnly)**<br>
-  ⭐ 6<br>
-  ⏱️ updated 12 months ago<br>
-  *This plugin enables headshot only to all players or enables headshot only on players themselves by using public command !hs.*
 
 - **[zakriamansoor47/SLAYER_Noscope](https://github.com/zakriamansoor47/SLAYER_Noscope)**<br>
   ⭐ 5<br>
@@ -589,7 +589,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[asapverneri/CS2-Gunsmenu](https://github.com/asapverneri/CS2-Gunsmenu)**<br>
   ⭐ 4<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 3 weeks ago<br>
   *Up to date and lightweight gunmenu for CS2, allowing players to choose guns at any time of the round.*
 
 - **[asapverneri/CS2-Baninfo](https://github.com/asapverneri/CS2-Baninfo)**<br>
@@ -684,12 +684,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/Audio](https://github.com/SwiftlyS2-Plugins/Audio)**<br>
   ⭐ 8<br>
-  ⏱️ updated 18 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *A high performance VoIP audio lib for swiftlys2.*
 
 - **[SwiftlyS2-Plugins/MapChooser](https://github.com/SwiftlyS2-Plugins/MapChooser)**<br>
   ⭐ 8<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *A powerful and customizable map voting system for SwiftlyS2.*
 
 - **[SwiftlyS2-Plugins/Admins](https://github.com/SwiftlyS2-Plugins/Admins)**<br>
@@ -714,7 +714,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/VIPCore](https://github.com/SwiftlyS2-Plugins/VIPCore)**<br>
   ⭐ 3<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.*
 
 
