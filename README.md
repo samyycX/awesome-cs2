@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/04/19 03:37:44</strong>
+  Last Sync: <strong>2026/04/20 03:39:21</strong>
 </p>
 <p>
   Project Uptime: <strong>7 months</strong>
@@ -165,22 +165,22 @@ These are the websites with resources that you might need to check during develo
 ## Metamod Plugins
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
-  ⭐ 345<br>
-  ⏱️ updated 3 hours ago<br>
+  ⭐ 346<br>
+  ⏱️ updated 1 hour ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 178<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
-  ⭐ 124<br>
+  ⭐ 123<br>
   ⏱️ updated 1 month ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
 - **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2)**<br>
-  ⭐ 62<br>
+  ⭐ 63<br>
   ⏱️ updated 6 months ago<br>
   *A simple plugin that allows you to filter out console prints with regular expressions.*
 
@@ -190,7 +190,7 @@ These are the websites with resources that you might need to check during develo
   *Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.*
 
 - **[Salvatore-Als/cs2-fake-rcon](https://github.com/Salvatore-Als/cs2-fake-rcon)**<br>
-  ⭐ 59<br>
+  ⭐ 60<br>
   ⏱️ updated 2 months ago<br>
   *Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).*
 
@@ -243,7 +243,7 @@ These are the websites with resources that you might need to check during develo
 ## CounterStrikeSharp Plugins
 
 - **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy)**<br>
-  ⭐ 435<br>
+  ⭐ 437<br>
   ⏱️ updated 5 months ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
@@ -254,7 +254,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 302<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
@@ -273,7 +273,7 @@ These are the websites with resources that you might need to check during develo
   *A cssharp plugin to change player models.*
 
 - **[NockyCZ/CS2-Deathmatch](https://github.com/NockyCZ/CS2-Deathmatch)**<br>
-  ⭐ 117<br>
+  ⭐ 118<br>
   ⏱️ updated 6 months ago<br>
   *A plugin to implement deathmatch gamemode.*
 
@@ -283,7 +283,7 @@ These are the websites with resources that you might need to check during develo
   *AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO.*
 
 - **[partiusfabaa/cs2-VIPCore](https://github.com/partiusfabaa/cs2-VIPCore)**<br>
-  ⭐ 73<br>
+  ⭐ 74<br>
   ⏱️ updated 2 months ago<br>
   *A vip plugin for cs2.*
 
@@ -389,7 +389,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/Clientprefs](https://github.com/Cruze03/Clientprefs)**<br>
   ⭐ 21<br>
-  ⏱️ updated 1 month ago<br>
+  ⏱️ updated 2 months ago<br>
   *This plugin exposes some natives for developers to save player data to SQLite / MySQL without actually adding sql code to your plugin giving developers easy access to save player cookie to database.*
 
 - **[wiruwiru/AutomaticAds-CS2](https://github.com/wiruwiru/AutomaticAds-CS2)**<br>
@@ -579,7 +579,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[asapverneri/CS2-ChatRelay](https://github.com/asapverneri/CS2-ChatRelay)**<br>
   ⭐ 5<br>
-  ⏱️ updated 10 months ago<br>
+  ⏱️ updated 11 months ago<br>
   *Lightweight plugin to send your cs2 server chat messages to discord channel using webhook.*
 
 - **[R0mz1k/CSS-Knockback](https://github.com/R0mz1k/CSS-Knockback)**<br>
@@ -659,7 +659,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[asapverneri/CS2-ChatLogs](https://github.com/asapverneri/CS2-ChatLogs)**<br>
   ⭐ 1<br>
-  ⏱️ updated 10 months ago<br>
+  ⏱️ updated 11 months ago<br>
   *Plugin that store chat messages to MySQL database.*
 
 - **[schwarper/cs2-anticheat](https://github.com/schwarper/cs2-anticheat)**<br>
@@ -684,12 +684,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/Admins](https://github.com/SwiftlyS2-Plugins/Admins)**<br>
   ⭐ 10<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *Base admin system for your server.*
 
 - **[SwiftlyS2-Plugins/MapChooser](https://github.com/SwiftlyS2-Plugins/MapChooser)**<br>
   ⭐ 9<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A powerful and customizable map voting system for SwiftlyS2.*
 
 - **[SwiftlyS2-Plugins/Audio](https://github.com/SwiftlyS2-Plugins/Audio)**<br>
@@ -714,7 +714,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/VIPCore](https://github.com/SwiftlyS2-Plugins/VIPCore)**<br>
   ⭐ 3<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.*
 
 
