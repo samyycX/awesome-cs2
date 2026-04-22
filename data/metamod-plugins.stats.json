@@ -2,91 +2,91 @@
   {
     "repo": "Source2ZE/CS2Fixes",
     "stars": 346,
-    "pushed_at": "2026-04-21T02:17:42+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
+    "pushed_at": "2026-04-22T01:50:36+00:00",
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
   },
   {
     "repo": "KZGlobalTeam/cs2kz-metamod",
     "stars": 178,
-    "pushed_at": "2026-04-16T22:22:16+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
+    "pushed_at": "2026-04-22T03:07:13+00:00",
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
   },
   {
     "repo": "Source2ZE/MultiAddonManager",
     "stars": 123,
-    "pushed_at": "2026-03-10T19:24:03+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
+    "pushed_at": "2026-04-21T11:51:57+00:00",
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
   },
   {
     "repo": "Source2ZE/CleanerCS2",
-    "stars": 63,
-    "pushed_at": "2025-10-16T21:20:01+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
-  },
-  {
-    "repo": "Source2ZE/ServerListPlayersFix",
-    "stars": 61,
-    "pushed_at": "2026-01-25T02:08:45+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
+    "stars": 62,
+    "pushed_at": "2026-04-22T01:19:38+00:00",
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
   },
   {
     "repo": "Salvatore-Als/cs2-fake-rcon",
     "stars": 60,
-    "pushed_at": "2026-02-07T09:38:48+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
+    "pushed_at": "2026-04-21T21:35:35+00:00",
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
+  },
+  {
+    "repo": "Source2ZE/ServerListPlayersFix",
+    "stars": 59,
+    "pushed_at": "2026-04-22T02:42:28+00:00",
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
   },
   {
     "repo": "Source2ZE/CS2ServerGUI",
     "stars": 57,
     "pushed_at": "2026-01-25T02:50:24+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
   },
   {
     "repo": "Source2ZE/MovementUnlocker",
     "stars": 57,
-    "pushed_at": "2026-01-25T02:01:00+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
+    "pushed_at": "2026-04-21T21:11:55+00:00",
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
   },
   {
     "repo": "Source2ZE/StripperCS2",
     "stars": 52,
-    "pushed_at": "2026-01-22T21:09:05+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
+    "pushed_at": "2026-04-22T02:25:34+00:00",
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
   },
   {
     "repo": "Cruze03/FakeRanks-RevealAll",
     "stars": 49,
-    "pushed_at": "2026-01-24T07:01:44+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
+    "pushed_at": "2026-04-21T12:52:40+00:00",
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
   },
   {
     "repo": "Interesting-exe/CS2Fixes-RampbugFix",
     "stars": 35,
     "pushed_at": "2026-01-27T05:22:06+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
   },
   {
     "repo": "Source2ZE/AcceleratorCS2",
     "stars": 31,
-    "pushed_at": "2026-03-11T15:39:10+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
+    "pushed_at": "2026-04-22T02:04:58+00:00",
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
   },
   {
     "repo": "GAMMACASE/Source2SchemaDumper",
     "stars": 18,
-    "pushed_at": "2026-03-25T11:13:24+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
+    "pushed_at": "2026-04-21T09:16:27+00:00",
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
   },
   {
     "repo": "Cruze03/GameBanFix",
     "stars": 18,
-    "pushed_at": "2026-01-29T13:42:36+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
+    "pushed_at": "2026-04-21T12:58:46+00:00",
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
   },
   {
     "repo": "samyycX/Audio",
     "stars": 16,
     "pushed_at": "2025-08-22T10:28:05+00:00",
-    "fetched_at": "2026-04-21T03:32:00.044464+00:00"
+    "fetched_at": "2026-04-22T03:29:51.815951+00:00"
   }
 ]
