@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/04/30 03:51:06</strong>
+  Last Sync: <strong>2026/05/01 04:02:35</strong>
 </p>
 <p>
   Project Uptime: <strong>8 months</strong>
@@ -166,12 +166,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 346<br>
-  ⏱️ updated 27 minutes ago<br>
+  ⏱️ updated 1 day ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 181<br>
-  ⏱️ updated 4 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -216,7 +216,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Interesting-exe/CS2Fixes-RampbugFix](https://github.com/Interesting-exe/CS2Fixes-RampbugFix)**<br>
   ⭐ 35<br>
-  ⏱️ updated 3 months ago<br>
+  ⏱️ updated 1 hour ago<br>
   *Minimizes rampbugs. This plugin isn't perfect and rampbugs will continue to occur until Valve decides to finally fix them.*
 
 - **[Source2ZE/AcceleratorCS2](https://github.com/Source2ZE/AcceleratorCS2)**<br>
@@ -226,7 +226,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
   ⭐ 20<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
@@ -249,7 +249,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
   ⭐ 373<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
@@ -298,13 +298,13 @@ These are the websites with resources that you might need to check during develo
   *This plugin allows players to use Emotes & Dances just like Fortnite.*
 
 - **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
-  ⭐ 65<br>
+  ⭐ 66<br>
   ⏱️ updated 3 months ago<br>
   *Block/Hide unnecessaries in game.*
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
   ⭐ 61<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *A plugin that allows players to instantly defuse the bomb.*
 
 - **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote)**<br>
@@ -354,7 +354,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 31<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 9 hours ago<br>
   *Notify players about entity interactions.*
 
 - **[ssypchenko/cs2-gungame](https://github.com/ssypchenko/cs2-gungame)**<br>
@@ -434,7 +434,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[mister-keno/advanced-ff-cs2](https://github.com/mister-keno/advanced-ff-cs2)**<br>
   ⭐ 16<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *This plugin implements advanced control of friendly fire.*
 
 - **[HvH-gg/TeleportFix](https://github.com/HvH-gg/TeleportFix)**<br>
@@ -449,7 +449,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
   ⭐ 16<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *A modern, improved third-person camera plugin for Counter-Strike 2.*
 
 - **[PhantomYopta/CS2_Speedometer](https://github.com/PhantomYopta/CS2_Speedometer)**<br>
@@ -499,7 +499,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[schwarper/cs2-store](https://github.com/schwarper/cs2-store)**<br>
   ⭐ 11<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 5 hours ago<br>
   *A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.*
 
 - **[HvH-gg/RapidFireFix](https://github.com/HvH-gg/RapidFireFix)**<br>
@@ -549,7 +549,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CSSharp-Fixes](https://github.com/darkerz7/CSSharp-Fixes)**<br>
   ⭐ 8<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.*
 
 - **[Ferks-FK/CS2-TeamLimiter](https://github.com/Ferks-FK/CS2-TeamLimiter)**<br>
@@ -564,7 +564,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[zakriamansoor47/SLAYER_Noscope](https://github.com/zakriamansoor47/SLAYER_Noscope)**<br>
   ⭐ 6<br>
-  ⏱️ updated 1 month ago<br>
+  ⏱️ updated 2 months ago<br>
   *This plugin disables scope of scope weapons like AWP, scout, etc.*
 
 - **[zakriamansoor47/SLAYER_Revive](https://github.com/zakriamansoor47/SLAYER_Revive)**<br>
@@ -684,12 +684,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/Admins](https://github.com/SwiftlyS2-Plugins/Admins)**<br>
   ⭐ 11<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 14 hours ago<br>
   *Base admin system for your server.*
 
 - **[SwiftlyS2-Plugins/MapChooser](https://github.com/SwiftlyS2-Plugins/MapChooser)**<br>
-  ⭐ 9<br>
-  ⏱️ updated 7 hours ago<br>
+  ⭐ 10<br>
+  ⏱️ updated 16 hours ago<br>
   *A powerful and customizable map voting system for SwiftlyS2.*
 
 - **[SwiftlyS2-Plugins/Audio](https://github.com/SwiftlyS2-Plugins/Audio)**<br>
@@ -704,7 +704,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/Cookies](https://github.com/SwiftlyS2-Plugins/Cookies)**<br>
   ⭐ 6<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *Server/Client persistent variables.*
 
 - **[SwiftlyS2-Plugins/MenuFlickeringFix](https://github.com/SwiftlyS2-Plugins/MenuFlickeringFix)**<br>
@@ -714,7 +714,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/VIPCore](https://github.com/SwiftlyS2-Plugins/VIPCore)**<br>
   ⭐ 3<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.*
 
 
