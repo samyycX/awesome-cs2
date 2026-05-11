@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/05/09 03:42:10</strong>
+  Last Sync: <strong>2026/05/10 03:59:22</strong>
 </p>
 <p>
   Project Uptime: <strong>8 months</strong>
@@ -165,24 +165,29 @@ These are the websites with resources that you might need to check during develo
 ## Metamod Plugins
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
-  ⭐ 348<br>
+  ⭐ 349<br>
   ⏱️ updated 1 week ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 181<br>
-  ⏱️ updated 13 hours ago<br>
+  ⏱️ updated 8 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
-  ⭐ 122<br>
+  ⭐ 123<br>
   ⏱️ updated 2 weeks ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
 - **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2)**<br>
-  ⭐ 62<br>
+  ⭐ 63<br>
   ⏱️ updated 2 weeks ago<br>
   *A simple plugin that allows you to filter out console prints with regular expressions.*
+
+- **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
+  ⭐ 60<br>
+  ⏱️ updated 2 weeks ago<br>
+  *A plugin that shows entities, net messages, events and etc with a GUI.*
 
 - **[Source2ZE/ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix)**<br>
   ⭐ 60<br>
@@ -193,11 +198,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 60<br>
   ⏱️ updated 2 weeks ago<br>
   *Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).*
-
-- **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
-  ⭐ 59<br>
-  ⏱️ updated 2 weeks ago<br>
-  *A plugin that shows entities, net messages, events and etc with a GUI.*
 
 - **[Source2ZE/MovementUnlocker](https://github.com/Source2ZE/MovementUnlocker)**<br>
   ⭐ 58<br>
@@ -226,7 +226,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
   ⭐ 20<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
@@ -243,17 +243,17 @@ These are the websites with resources that you might need to check during develo
 ## CounterStrikeSharp Plugins
 
 - **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy)**<br>
-  ⭐ 442<br>
+  ⭐ 444<br>
   ⏱️ updated 6 months ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
-  ⭐ 376<br>
+  ⭐ 378<br>
   ⏱️ updated 1 week ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
-  ⭐ 304<br>
+  ⭐ 305<br>
   ⏱️ updated 2 weeks ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
@@ -264,7 +264,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
   ⭐ 143<br>
-  ⏱️ updated 4 months ago<br>
+  ⏱️ updated 20 hours ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
 - **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)**<br>
@@ -278,7 +278,7 @@ These are the websites with resources that you might need to check during develo
   *A plugin to implement deathmatch gamemode.*
 
 - **[NiGHT757/AFKManager](https://github.com/NiGHT757/AFKManager)**<br>
-  ⭐ 82<br>
+  ⭐ 83<br>
   ⏱️ updated 7 months ago<br>
   *AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO.*
 
@@ -288,24 +288,29 @@ These are the websites with resources that you might need to check during develo
   *A vip plugin for cs2.*
 
 - **[partiusfabaa/cs2-ranks](https://github.com/partiusfabaa/cs2-ranks)**<br>
-  ⭐ 69<br>
+  ⭐ 70<br>
   ⏱️ updated 9 months ago<br>
   *Each player is assigned a rank based on their accumulated experience points. Ranks range from "None" to the prestigious "The Global Elite."*
 
 - **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
-  ⭐ 67<br>
+  ⭐ 68<br>
   ⏱️ updated 2 weeks ago<br>
   *This plugin allows players to use Emotes & Dances just like Fortnite.*
 
 - **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
-  ⭐ 66<br>
-  ⏱️ updated 4 hours ago<br>
+  ⭐ 68<br>
+  ⏱️ updated 1 day ago<br>
   *Block/Hide unnecessaries in game.*
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
-  ⭐ 61<br>
+  ⭐ 63<br>
   ⏱️ updated 1 week ago<br>
   *A plugin that allows players to instantly defuse the bomb.*
+
+- **[daffyyyy/CS2-Tags](https://github.com/daffyyyy/CS2-Tags)**<br>
+  ⭐ 59<br>
+  ⏱️ updated 7 months ago<br>
+  *Adds tags to the server that can be easily edited, tags can be assigned via permission or steamid64.*
 
 - **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote)**<br>
   ⭐ 59<br>
@@ -317,23 +322,18 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 2 months ago<br>
   *Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.*
 
-- **[daffyyyy/CS2-Tags](https://github.com/daffyyyy/CS2-Tags)**<br>
-  ⭐ 58<br>
-  ⏱️ updated 7 months ago<br>
-  *Adds tags to the server that can be easily edited, tags can be assigned via permission or steamid64.*
-
 - **[CounterStrike2-Plugins-Archive/cs2-tags](https://github.com/CounterStrike2-Plugins-Archive/cs2-tags)**<br>
   ⭐ 52<br>
   ⏱️ updated 9 months ago<br>
   *A tag plugin designed to enhance your CS2 experience with a dynamic tagging system. Customise and manage player tags effortlessly for a more interactive and engaging game environment.*
 
 - **[KillStr3aK/ResourcePrecacher](https://github.com/KillStr3aK/ResourcePrecacher)**<br>
-  ⭐ 45<br>
+  ⭐ 46<br>
   ⏱️ updated 10 months ago<br>
   *This plugin can precache custom resources.*
 
 - **[schwarper/CS2MenuManager](https://github.com/schwarper/CS2MenuManager)**<br>
-  ⭐ 42<br>
+  ⭐ 43<br>
   ⏱️ updated 3 months ago<br>
   *CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.*
 
@@ -359,21 +359,21 @@ These are the websites with resources that you might need to check during develo
 
 - **[ssypchenko/cs2-gungame](https://github.com/ssypchenko/cs2-gungame)**<br>
   ⭐ 29<br>
-  ⏱️ updated 13 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *GunGame is a gameplay plugin inspired by the SourceMode GunGame plugin.*
+
+- **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ)**<br>
+  ⭐ 29<br>
+  ⏱️ updated 11 months ago<br>
+  *Log chat to local/discord webhook/mysql/web server.*
 
 - **[oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ](https://github.com/oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ)**<br>
   ⭐ 29<br>
   ⏱️ updated 4 months ago<br>
   *Emit a sound when a player connects or disconnects.*
 
-- **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ)**<br>
-  ⭐ 28<br>
-  ⏱️ updated 11 months ago<br>
-  *Log chat to local/discord webhook/mysql/web server.*
-
 - **[R0mz1k/css-C4-Timer](https://github.com/R0mz1k/css-C4-Timer)**<br>
-  ⭐ 28<br>
+  ⭐ 29<br>
   ⏱️ updated 1 year ago<br>
   *This plugin adds countdown to c4 bomb explosion to your server.*
 
@@ -392,15 +392,15 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 2 months ago<br>
   *This plugin exposes some natives for developers to save player data to SQLite / MySQL without actually adding sql code to your plugin giving developers easy access to save player cookie to database.*
 
+- **[Kandru/cs2-update-manager](https://github.com/Kandru/cs2-update-manager)**<br>
+  ⭐ 21<br>
+  ⏱️ updated 2 weeks ago<br>
+  *The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.*
+
 - **[wiruwiru/AutomaticAds-CS2](https://github.com/wiruwiru/AutomaticAds-CS2)**<br>
   ⭐ 20<br>
   ⏱️ updated 6 months ago<br>
   *This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.*
-
-- **[Kandru/cs2-update-manager](https://github.com/Kandru/cs2-update-manager)**<br>
-  ⭐ 20<br>
-  ⏱️ updated 2 weeks ago<br>
-  *The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.*
 
 - **[samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher)**<br>
   ⭐ 19<br>
@@ -418,7 +418,7 @@ These are the websites with resources that you might need to check during develo
   *A plugin allow player to change their own skybox material, color and brightness on every map dynamically and seamlessly.*
 
 - **[KillStr3aK/CS2-AntiDLL](https://github.com/KillStr3aK/CS2-AntiDLL)**<br>
-  ⭐ 17<br>
+  ⭐ 18<br>
   ⏱️ updated 1 year ago<br>
   *This plugin is similar to the CS:GO version.*
 
@@ -449,53 +449,58 @@ These are the websites with resources that you might need to check during develo
 
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
   ⭐ 16<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *A modern, improved third-person camera plugin for Counter-Strike 2.*
+
+- **[Cruze03/cs2_blockradiocommands](https://github.com/Cruze03/cs2_blockradiocommands)**<br>
+  ⭐ 16<br>
+  ⏱️ updated 2 years ago<br>
+  *A CSSharp plugin to block all radio commands.*
 
 - **[PhantomYopta/CS2_Speedometer](https://github.com/PhantomYopta/CS2_Speedometer)**<br>
   ⭐ 16<br>
   ⏱️ updated 2 years ago<br>
   *Just a speedometer for CS2.*
 
-- **[Cruze03/cs2_blockradiocommands](https://github.com/Cruze03/cs2_blockradiocommands)**<br>
+- **[asapverneri/CS2-Playervotes](https://github.com/asapverneri/CS2-Playervotes)**<br>
   ⭐ 15<br>
-  ⏱️ updated 2 years ago<br>
-  *A CSSharp plugin to block all radio commands.*
+  ⏱️ updated 5 months ago<br>
+  *Lightweight and efficient voting system for CS2 without anything pointless, allowing players to initiate votes for kicking, banning, and muting players.*
 
 - **[Austinbots/CS2-BotAI](https://github.com/Austinbots/CS2-BotAI)**<br>
   ⭐ 15<br>
   ⏱️ updated 8 months ago<br>
   *Improves the built in bots AI.*
 
+- **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds)**<br>
+  ⭐ 14<br>
+  ⏱️ updated 4 months ago<br>
+  *This plugin allows for server owners to create billboard type advertisements that are placed on wall.*
+
 - **[K4ryuu/K4-AlwaysWeaponSkins](https://github.com/K4ryuu/K4-AlwaysWeaponSkins)**<br>
   ⭐ 14<br>
   ⏱️ updated 2 months ago<br>
   *This plugin enhances weapon skin visibility by ensuring your equipped Steam inventory skins are displayed consistently across both teams.*
 
-- **[asapverneri/CS2-Playervotes](https://github.com/asapverneri/CS2-Playervotes)**<br>
+- **[B3none/cs2-instaplant](https://github.com/B3none/cs2-instaplant)**<br>
   ⭐ 14<br>
-  ⏱️ updated 5 months ago<br>
-  *Lightweight and efficient voting system for CS2 without anything pointless, allowing players to initiate votes for kicking, banning, and muting players.*
+  ⏱️ updated 2 years ago<br>
+  *Plant the bomb instantly as a terrorist.*
 
 - **[Quantor97/CS2-Kill-Plugin](https://github.com/Quantor97/CS2-Kill-Plugin)**<br>
   ⭐ 14<br>
   ⏱️ updated 2 years ago<br>
   *A simple kill plugin that allows players to suicide via chat by entering '!suicide' or '/suicide'.*
 
-- **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds)**<br>
-  ⭐ 13<br>
-  ⏱️ updated 4 months ago<br>
-  *This plugin allows for server owners to create billboard type advertisements that are placed on wall.*
-
-- **[B3none/cs2-instaplant](https://github.com/B3none/cs2-instaplant)**<br>
-  ⭐ 12<br>
-  ⏱️ updated 2 years ago<br>
-  *Plant the bomb instantly as a terrorist.*
-
 - **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
-  ⭐ 11<br>
+  ⭐ 12<br>
   ⏱️ updated 3 months ago<br>
   *T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.*
+
+- **[zakriamansoor47/SLAYER_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp)**<br>
+  ⭐ 11<br>
+  ⏱️ updated 1 year ago<br>
+  *This plugin detect player who is camping for a specific time.*
 
 - **[schwarper/cs2-store](https://github.com/schwarper/cs2-store)**<br>
   ⭐ 11<br>
@@ -507,10 +512,10 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 6 months ago<br>
   *CounterStrikeSharp plugin to handle rapid fire in CS2.*
 
-- **[zakriamansoor47/SLAYER_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp)**<br>
-  ⭐ 10<br>
-  ⏱️ updated 1 year ago<br>
-  *This plugin detect player who is camping for a specific time.*
+- **[Kandru/cs2-demo-recorder](https://github.com/Kandru/cs2-demo-recorder)**<br>
+  ⭐ 11<br>
+  ⏱️ updated 2 weeks ago<br>
+  *This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.*
 
 - **[T3Marius/MVP-Anthem](https://github.com/T3Marius/MVP-Anthem)**<br>
   ⭐ 10<br>
@@ -526,11 +531,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 10<br>
   ⏱️ updated 1 year ago<br>
   *This plugin allows you to create Challenges for players. Challenges are tasks that players need to complete within a certain time frame (e.g., daily, weekly, monthly).*
-
-- **[Kandru/cs2-demo-recorder](https://github.com/Kandru/cs2-demo-recorder)**<br>
-  ⭐ 10<br>
-  ⏱️ updated 2 weeks ago<br>
-  *This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.*
 
 - **[zakriamansoor47/SLAYER_UnrestrictedFOV](https://github.com/zakriamansoor47/SLAYER_UnrestrictedFOV)**<br>
   ⭐ 9<br>
@@ -587,6 +587,16 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 2 years ago<br>
   *This plugin, when hit, repels the recipient of the damage.*
 
+- **[TICHOJEBEC-SK/cs2-WeaponRestrict](https://github.com/TICHOJEBEC-SK/cs2-WeaponRestrict)**<br>
+  ⭐ 4<br>
+  ⏱️ updated 7 months ago<br>
+  *A plugin that lets you restrict weapons by rules.*
+
+- **[M-archand/CS2FlashingHtmlHudFix](https://github.com/M-archand/CS2FlashingHtmlHudFix)**<br>
+  ⭐ 4<br>
+  ⏱️ updated 1 year ago<br>
+  *A CS2 CS# Plugin that uses a workaround found by Poggu to make .PrintToCenterHTML not flash every second by setting.*
+
 - **[asapverneri/CS2-Gunsmenu](https://github.com/asapverneri/CS2-Gunsmenu)**<br>
   ⭐ 4<br>
   ⏱️ updated 1 month ago<br>
@@ -611,16 +621,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 4<br>
   ⏱️ updated 10 months ago<br>
   *Extremely simple plugin to set admin/vip tag to scoreboard.*
-
-- **[TICHOJEBEC-SK/cs2-WeaponRestrict](https://github.com/TICHOJEBEC-SK/cs2-WeaponRestrict)**<br>
-  ⭐ 3<br>
-  ⏱️ updated 7 months ago<br>
-  *A plugin that lets you restrict weapons by rules.*
-
-- **[M-archand/CS2FlashingHtmlHudFix](https://github.com/M-archand/CS2FlashingHtmlHudFix)**<br>
-  ⭐ 3<br>
-  ⏱️ updated 1 year ago<br>
-  *A CS2 CS# Plugin that uses a workaround found by Poggu to make .PrintToCenterHTML not flash every second by setting.*
 
 - **[zakriamansoor47/SLAYER_1HitKill](https://github.com/zakriamansoor47/SLAYER_1HitKill)**<br>
   ⭐ 3<br>
@@ -673,7 +673,7 @@ These are the websites with resources that you might need to check during develo
 Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[samyycX/WeaponSkins](https://github.com/samyycX/WeaponSkins)**<br>
-  ⭐ 27<br>
+  ⭐ 29<br>
   ⏱️ updated 2 weeks ago<br>
   *A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.*
 
@@ -684,12 +684,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/Admins](https://github.com/SwiftlyS2-Plugins/Admins)**<br>
   ⭐ 11<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *Base admin system for your server.*
 
 - **[SwiftlyS2-Plugins/MapChooser](https://github.com/SwiftlyS2-Plugins/MapChooser)**<br>
   ⭐ 10<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *A powerful and customizable map voting system for SwiftlyS2.*
 
 - **[SwiftlyS2-Plugins/Audio](https://github.com/SwiftlyS2-Plugins/Audio)**<br>
@@ -704,18 +704,18 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/Cookies](https://github.com/SwiftlyS2-Plugins/Cookies)**<br>
   ⭐ 6<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *Server/Client persistent variables.*
+
+- **[SwiftlyS2-Plugins/VIPCore](https://github.com/SwiftlyS2-Plugins/VIPCore)**<br>
+  ⭐ 4<br>
+  ⏱️ updated 5 days ago<br>
+  *A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.*
 
 - **[SwiftlyS2-Plugins/MenuFlickeringFix](https://github.com/SwiftlyS2-Plugins/MenuFlickeringFix)**<br>
   ⭐ 3<br>
   ⏱️ updated 5 months ago<br>
   *Fix the flickering menu. Won't have effect during warmup for game reason.*
-
-- **[SwiftlyS2-Plugins/VIPCore](https://github.com/SwiftlyS2-Plugins/VIPCore)**<br>
-  ⭐ 3<br>
-  ⏱️ updated 4 days ago<br>
-  *A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.*
 
 
 # Contributors
