@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/06/02 04:48:15</strong>
+  Last Sync: <strong>2026/06/03 04:58:42</strong>
 </p>
 <p>
   Project Uptime: <strong>9 months</strong>
@@ -166,12 +166,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 350<br>
-  ⏱️ updated 21 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 182<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -185,7 +185,7 @@ These are the websites with resources that you might need to check during develo
   *A simple plugin that allows you to filter out console prints with regular expressions.*
 
 - **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
-  ⭐ 61<br>
+  ⭐ 62<br>
   ⏱️ updated 2 weeks ago<br>
   *A plugin that shows entities, net messages, events and etc with a GUI.*
 
@@ -210,7 +210,7 @@ These are the websites with resources that you might need to check during develo
   *A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.*
 
 - **[Cruze03/FakeRanks-RevealAll](https://github.com/Cruze03/FakeRanks-RevealAll)**<br>
-  ⭐ 51<br>
+  ⭐ 52<br>
   ⏱️ updated 1 month ago<br>
   *A metamod plugin that reveals ranks of all players in server for player who presses tab.*
 
@@ -243,7 +243,7 @@ These are the websites with resources that you might need to check during develo
 ## CounterStrikeSharp Plugins
 
 - **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy)**<br>
-  ⭐ 450<br>
+  ⭐ 451<br>
   ⏱️ updated 7 months ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
@@ -263,7 +263,7 @@ These are the websites with resources that you might need to check during develo
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
-  ⭐ 141<br>
+  ⭐ 140<br>
   ⏱️ updated 2 weeks ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
@@ -308,7 +308,7 @@ These are the websites with resources that you might need to check during develo
   *A plugin that allows players to instantly defuse the bomb.*
 
 - **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote)**<br>
-  ⭐ 60<br>
+  ⭐ 61<br>
   ⏱️ updated 8 months ago<br>
   *General purpose map voting plugin, started as a simple RTV and now has more features.*
 
@@ -354,7 +354,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 31<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 18 hours ago<br>
   *Notify players about entity interactions.*
 
 - **[ssypchenko/cs2-gungame](https://github.com/ssypchenko/cs2-gungame)**<br>
@@ -384,12 +384,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-update-manager](https://github.com/Kandru/cs2-update-manager)**<br>
   ⭐ 22<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.*
 
 - **[qstage/CS2-HidePlayers](https://github.com/qstage/CS2-HidePlayers)**<br>
   ⭐ 21<br>
-  ⏱️ updated 8 months ago<br>
+  ⏱️ updated 9 months ago<br>
   *Allows you to hide player models.*
 
 - **[Cruze03/Clientprefs](https://github.com/Cruze03/Clientprefs)**<br>
@@ -399,7 +399,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[wiruwiru/AutomaticAds-CS2](https://github.com/wiruwiru/AutomaticAds-CS2)**<br>
   ⭐ 20<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.*
 
 - **[samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher)**<br>
@@ -424,7 +424,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-quake-sounds](https://github.com/Kandru/cs2-quake-sounds)**<br>
   ⭐ 18<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 14 hours ago<br>
   *This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.*
 
 - **[qstage/CS2-FixRandomSpawn](https://github.com/qstage/CS2-FixRandomSpawn)**<br>
@@ -434,7 +434,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-roll-the-dice](https://github.com/Kandru/cs2-roll-the-dice)**<br>
   ⭐ 17<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
 
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
@@ -514,7 +514,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-demo-recorder](https://github.com/Kandru/cs2-demo-recorder)**<br>
   ⭐ 11<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.*
 
 - **[T3Marius/MVP-Anthem](https://github.com/T3Marius/MVP-Anthem)**<br>
@@ -524,7 +524,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CS2-EntityFix](https://github.com/darkerz7/CS2-EntityFix)**<br>
   ⭐ 10<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.*
 
 - **[Kandru/cs2-challenges](https://github.com/Kandru/cs2-challenges)**<br>
@@ -544,12 +544,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CS2-HideTeammates](https://github.com/darkerz7/CS2-HideTeammates)**<br>
   ⭐ 8<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *Hides Teammates on the entire map or distance.*
 
 - **[darkerz7/CSSharp-Fixes](https://github.com/darkerz7/CSSharp-Fixes)**<br>
   ⭐ 8<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.*
 
 - **[Ferks-FK/CS2-TeamLimiter](https://github.com/Ferks-FK/CS2-TeamLimiter)**<br>
@@ -684,12 +684,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/Admins](https://github.com/SwiftlyS2-Plugins/Admins)**<br>
   ⭐ 11<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *Base admin system for your server.*
 
 - **[SwiftlyS2-Plugins/MapChooser](https://github.com/SwiftlyS2-Plugins/MapChooser)**<br>
   ⭐ 10<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *A powerful and customizable map voting system for SwiftlyS2.*
 
 - **[SwiftlyS2-Plugins/Audio](https://github.com/SwiftlyS2-Plugins/Audio)**<br>
