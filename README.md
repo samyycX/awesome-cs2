@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/06/11 04:45:53</strong>
+  Last Sync: <strong>2026/06/12 04:48:30</strong>
 </p>
 <p>
   Project Uptime: <strong>9 months</strong>
@@ -166,12 +166,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 350<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 182<br>
-  ⏱️ updated 15 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -226,7 +226,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
   ⭐ 21<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
@@ -243,7 +243,7 @@ These are the websites with resources that you might need to check during develo
 ## CounterStrikeSharp Plugins
 
 - **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy)**<br>
-  ⭐ 453<br>
+  ⭐ 455<br>
   ⏱️ updated 7 months ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
@@ -254,7 +254,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 306<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
@@ -274,7 +274,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[NockyCZ/CS2-Deathmatch](https://github.com/NockyCZ/CS2-Deathmatch)**<br>
   ⭐ 120<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *A plugin to implement deathmatch gamemode.*
 
 - **[NiGHT757/AFKManager](https://github.com/NiGHT757/AFKManager)**<br>
@@ -304,7 +304,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
   ⭐ 63<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *A plugin that allows players to instantly defuse the bomb.*
 
 - **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote)**<br>
@@ -348,13 +348,13 @@ These are the websites with resources that you might need to check during develo
   *A trace ray library developed for use in Counter Strike 2, in conjunction with the CounterStrikeSharp API. This enables the use of trace ray with TraceMask, Contents and skip enums.*
 
 - **[HvH-gg/CS2-Essentials](https://github.com/HvH-gg/CS2-Essentials)**<br>
-  ⭐ 33<br>
+  ⭐ 34<br>
   ⏱️ updated 4 months ago<br>
   *It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes.*
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 31<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *Notify players about entity interactions.*
 
 - **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ)**<br>
@@ -414,7 +414,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-quake-sounds](https://github.com/Kandru/cs2-quake-sounds)**<br>
   ⭐ 19<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.*
 
 - **[zakriamansoor47/SLAYER_Duel](https://github.com/zakriamansoor47/SLAYER_Duel)**<br>
@@ -569,7 +569,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[zakriamansoor47/SLAYER_Revive](https://github.com/zakriamansoor47/SLAYER_Revive)**<br>
   ⭐ 5<br>
-  ⏱️ updated 8 months ago<br>
+  ⏱️ updated 9 months ago<br>
   *Revive teammates with 'E' (+use button).*
 
 - **[TICHOJEBEC-SK/cs2-WeaponRestrict](https://github.com/TICHOJEBEC-SK/cs2-WeaponRestrict)**<br>
@@ -689,7 +689,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/Admins](https://github.com/SwiftlyS2-Plugins/Admins)**<br>
   ⭐ 11<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *Base admin system for your server.*
 
 - **[SwiftlyS2-Plugins/Audio](https://github.com/SwiftlyS2-Plugins/Audio)**<br>
@@ -699,7 +699,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/Economy](https://github.com/SwiftlyS2-Plugins/Economy)**<br>
   ⭐ 6<br>
-  ⏱️ updated 2 months ago<br>
+  ⏱️ updated 3 months ago<br>
   *The base economy plugin for your server.*
 
 - **[SwiftlyS2-Plugins/Cookies](https://github.com/SwiftlyS2-Plugins/Cookies)**<br>
