@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/06/12 04:48:30</strong>
+  Last Sync: <strong>2026/06/13 04:36:53</strong>
 </p>
 <p>
   Project Uptime: <strong>9 months</strong>
@@ -165,18 +165,18 @@ These are the websites with resources that you might need to check during develo
 ## Metamod Plugins
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
-  ⭐ 350<br>
-  ⏱️ updated 4 days ago<br>
+  ⭐ 351<br>
+  ⏱️ updated 5 days ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 182<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
   ⭐ 124<br>
-  ⏱️ updated 4 weeks ago<br>
+  ⏱️ updated 1 month ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
 - **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2)**<br>
@@ -196,7 +196,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Salvatore-Als/cs2-fake-rcon](https://github.com/Salvatore-Als/cs2-fake-rcon)**<br>
   ⭐ 61<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 3 weeks ago<br>
   *Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).*
 
 - **[Source2ZE/MovementUnlocker](https://github.com/Source2ZE/MovementUnlocker)**<br>
@@ -226,7 +226,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
   ⭐ 21<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
@@ -243,28 +243,28 @@ These are the websites with resources that you might need to check during develo
 ## CounterStrikeSharp Plugins
 
 - **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy)**<br>
-  ⭐ 455<br>
+  ⭐ 459<br>
   ⏱️ updated 7 months ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
-  ⭐ 382<br>
+  ⭐ 383<br>
   ⏱️ updated 1 month ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 306<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
-  ⭐ 179<br>
+  ⭐ 180<br>
   ⏱️ updated 1 month ago<br>
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
-  ⭐ 141<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⭐ 142<br>
+  ⏱️ updated 4 weeks ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
 - **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)**<br>
@@ -304,7 +304,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
   ⭐ 63<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *A plugin that allows players to instantly defuse the bomb.*
 
 - **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote)**<br>
@@ -354,7 +354,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 31<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *Notify players about entity interactions.*
 
 - **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ)**<br>
@@ -384,7 +384,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-update-manager](https://github.com/Kandru/cs2-update-manager)**<br>
   ⭐ 23<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.*
 
 - **[Cruze03/Clientprefs](https://github.com/Cruze03/Clientprefs)**<br>
@@ -399,7 +399,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[wiruwiru/AutomaticAds-CS2](https://github.com/wiruwiru/AutomaticAds-CS2)**<br>
   ⭐ 21<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.*
 
 - **[samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher)**<br>
@@ -409,12 +409,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-roll-the-dice](https://github.com/Kandru/cs2-roll-the-dice)**<br>
   ⭐ 19<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
 
 - **[Kandru/cs2-quake-sounds](https://github.com/Kandru/cs2-quake-sounds)**<br>
   ⭐ 19<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.*
 
 - **[zakriamansoor47/SLAYER_Duel](https://github.com/zakriamansoor47/SLAYER_Duel)**<br>
@@ -437,6 +437,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 9 months ago<br>
   *Fixes convar `mp_randomspawn` for any game mode.*
 
+- **[HvH-gg/TeleportFix](https://github.com/HvH-gg/TeleportFix)**<br>
+  ⭐ 17<br>
+  ⏱️ updated 4 months ago<br>
+  *CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit.*
+
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
   ⭐ 17<br>
   ⏱️ updated 1 month ago<br>
@@ -451,11 +456,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 16<br>
   ⏱️ updated 1 month ago<br>
   *This plugin implements advanced control of friendly fire.*
-
-- **[HvH-gg/TeleportFix](https://github.com/HvH-gg/TeleportFix)**<br>
-  ⭐ 16<br>
-  ⏱️ updated 4 months ago<br>
-  *CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit.*
 
 - **[Cruze03/cs2_blockradiocommands](https://github.com/Cruze03/cs2_blockradiocommands)**<br>
   ⭐ 16<br>
@@ -484,7 +484,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[K4ryuu/K4-AlwaysWeaponSkins](https://github.com/K4ryuu/K4-AlwaysWeaponSkins)**<br>
   ⭐ 14<br>
-  ⏱️ updated 3 months ago<br>
+  ⏱️ updated 4 months ago<br>
   *This plugin enhances weapon skin visibility by ensuring your equipped Steam inventory skins are displayed consistently across both teams.*
 
 - **[B3none/cs2-instaplant](https://github.com/B3none/cs2-instaplant)**<br>
@@ -504,7 +504,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-demo-recorder](https://github.com/Kandru/cs2-demo-recorder)**<br>
   ⭐ 12<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.*
 
 - **[zakriamansoor47/SLAYER_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp)**<br>
