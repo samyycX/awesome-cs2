@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/06/17 04:57:06</strong>
+  Last Sync: <strong>2026/06/18 04:47:31</strong>
 </p>
 <p>
   Project Uptime: <strong>9 months</strong>
@@ -171,7 +171,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 185<br>
-  ⏱️ updated 5 hours ago<br>
+  ⏱️ updated 2 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -236,7 +236,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[samyycX/Audio](https://github.com/samyycX/Audio)**<br>
   ⭐ 17<br>
-  ⏱️ updated 9 months ago<br>
+  ⏱️ updated 10 months ago<br>
   *A demo and a metamod lib to provide similar functions to the previous SM-Ext-Audio extension in csgo, that is, sending custom audio streams such as a song through a bot's voice chat.*
 
 
@@ -248,7 +248,7 @@ These are the websites with resources that you might need to check during develo
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 - **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)**<br>
-  ⭐ 386<br>
+  ⭐ 387<br>
   ⏱️ updated 1 month ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
@@ -259,7 +259,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
   ⭐ 180<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *Manage your Counter-Strike 2 server with simple commands!*
 
 - **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans)**<br>
@@ -292,15 +292,15 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 month ago<br>
   *This plugin allows players to use Emotes & Dances just like Fortnite.*
 
+- **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
+  ⭐ 70<br>
+  ⏱️ updated 1 month ago<br>
+  *Block/Hide unnecessaries in game.*
+
 - **[partiusfabaa/cs2-ranks](https://github.com/partiusfabaa/cs2-ranks)**<br>
   ⭐ 69<br>
   ⏱️ updated 10 months ago<br>
   *Each player is assigned a rank based on their accumulated experience points. Ranks range from "None" to the prestigious "The Global Elite."*
-
-- **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
-  ⭐ 69<br>
-  ⏱️ updated 1 month ago<br>
-  *Block/Hide unnecessaries in game.*
 
 - **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote)**<br>
   ⭐ 63<br>
@@ -354,18 +354,18 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 31<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 9 hours ago<br>
   *Notify players about entity interactions.*
+
+- **[oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ](https://github.com/oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ)**<br>
+  ⭐ 31<br>
+  ⏱️ updated 5 months ago<br>
+  *Emit a sound when a player connects or disconnects.*
 
 - **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ)**<br>
   ⭐ 30<br>
   ⏱️ updated 1 year ago<br>
   *Log chat to local/discord webhook/mysql/web server.*
-
-- **[oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ](https://github.com/oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ)**<br>
-  ⭐ 30<br>
-  ⏱️ updated 5 months ago<br>
-  *Emit a sound when a player connects or disconnects.*
 
 - **[R0mz1k/css-C4-Timer](https://github.com/R0mz1k/css-C4-Timer)**<br>
   ⭐ 30<br>
