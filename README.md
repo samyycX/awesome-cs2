@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/06/18 04:47:31</strong>
+  Last Sync: <strong>2026/06/19 05:07:51</strong>
 </p>
 <p>
   Project Uptime: <strong>9 months</strong>
@@ -171,7 +171,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 185<br>
-  ⏱️ updated 2 hours ago<br>
+  ⏱️ updated 22 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -274,7 +274,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[NockyCZ/CS2-Deathmatch](https://github.com/NockyCZ/CS2-Deathmatch)**<br>
   ⭐ 120<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *A plugin to implement deathmatch gamemode.*
 
 - **[NiGHT757/AFKManager](https://github.com/NiGHT757/AFKManager)**<br>
@@ -293,7 +293,7 @@ These are the websites with resources that you might need to check during develo
   *This plugin allows players to use Emotes & Dances just like Fortnite.*
 
 - **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
-  ⭐ 70<br>
+  ⭐ 71<br>
   ⏱️ updated 1 month ago<br>
   *Block/Hide unnecessaries in game.*
 
@@ -313,7 +313,7 @@ These are the websites with resources that you might need to check during develo
   *A plugin that allows players to instantly defuse the bomb.*
 
 - **[daffyyyy/CS2-Tags](https://github.com/daffyyyy/CS2-Tags)**<br>
-  ⭐ 60<br>
+  ⭐ 59<br>
   ⏱️ updated 8 months ago<br>
   *Adds tags to the server that can be easily edited, tags can be assigned via permission or steamid64.*
 
@@ -352,18 +352,18 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 4 months ago<br>
   *It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes.*
 
-- **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
-  ⭐ 31<br>
-  ⏱️ updated 9 hours ago<br>
-  *Notify players about entity interactions.*
-
 - **[oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ](https://github.com/oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ)**<br>
-  ⭐ 31<br>
+  ⭐ 32<br>
   ⏱️ updated 5 months ago<br>
   *Emit a sound when a player connects or disconnects.*
 
+- **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
+  ⭐ 31<br>
+  ⏱️ updated 1 day ago<br>
+  *Notify players about entity interactions.*
+
 - **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ)**<br>
-  ⭐ 30<br>
+  ⭐ 31<br>
   ⏱️ updated 1 year ago<br>
   *Log chat to local/discord webhook/mysql/web server.*
 
@@ -389,7 +389,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Cruze03/Clientprefs](https://github.com/Cruze03/Clientprefs)**<br>
   ⭐ 22<br>
-  ⏱️ updated 3 months ago<br>
+  ⏱️ updated 4 months ago<br>
   *This plugin exposes some natives for developers to save player data to SQLite / MySQL without actually adding sql code to your plugin giving developers easy access to save player cookie to database.*
 
 - **[qstage/CS2-HidePlayers](https://github.com/qstage/CS2-HidePlayers)**<br>
@@ -524,7 +524,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CS2-EntityFix](https://github.com/darkerz7/CS2-EntityFix)**<br>
   ⭐ 10<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 17 hours ago<br>
   *Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.*
 
 - **[Kandru/cs2-challenges](https://github.com/Kandru/cs2-challenges)**<br>
@@ -544,12 +544,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CS2-HideTeammates](https://github.com/darkerz7/CS2-HideTeammates)**<br>
   ⭐ 8<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 18 hours ago<br>
   *Hides Teammates on the entire map or distance.*
 
 - **[darkerz7/CSSharp-Fixes](https://github.com/darkerz7/CSSharp-Fixes)**<br>
   ⭐ 8<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 13 hours ago<br>
   *CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.*
 
 - **[Ferks-FK/CS2-TeamLimiter](https://github.com/Ferks-FK/CS2-TeamLimiter)**<br>
@@ -689,7 +689,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/Admins](https://github.com/SwiftlyS2-Plugins/Admins)**<br>
   ⭐ 11<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 3 weeks ago<br>
   *Base admin system for your server.*
 
 - **[SwiftlyS2-Plugins/Audio](https://github.com/SwiftlyS2-Plugins/Audio)**<br>
