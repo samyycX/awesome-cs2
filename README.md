@@ -56,6 +56,10 @@
 - **[PltPatcher](https://github.com/GAMMACASE/PltPatcher)**\
   *A IDA python plugin to patch plt sections when IDA fails to do so automatically, you might encounter such problem when decompiling linux binaries, made by GAMMACASE.*
 
+
+- **[Oblivion Server Tool](https://github.com/oblivion-systems/OblivionServerTool)**\
+  *A desktop application for managing a CS2 dedicated server on Windows. One-click start/stop, map and mode picker, tournament map-veto workflow with Discord bot, and in-app plugin manager.*
+
 # Status Trackers
 
 - **[SteamDB](https://steamdb.info/app/730/charts/)**\
