@@ -58,5 +58,13 @@
   {
     "repo": "Salvatore-Als/cs2-fake-rcon",
     "desc": "Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken)."
+  },
+  {
+    "repo": "XBribo/CS2-Bot-Controller",
+    "desc": "CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour."
+  },
+  {
+    "repo": "XBribo/CS2-Bot-Hider",
+    "desc": "CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players."
   }
 ]
