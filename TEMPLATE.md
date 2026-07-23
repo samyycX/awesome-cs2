@@ -101,13 +101,19 @@ These are the websites with resources that you might need to check during develo
 - **[Schemas](https://github.com/SteamDatabase/GameTracking-CS2/tree/master/DumpSource2/schemas)**\
   *A list of all cs2 schema classes and fields, directly dumped from latest cs2 binary.*
 
+- **[Schema Explorer](https://s2v.app/SchemaExplorer/)**\
+  *A website that visualize all schema classes and fields, with advanced query features.
+
+- **[Source2 Dumper](https://boeing666.github.io/source2-dumper)**\
+  *A website that visualize all schema classes and fields, convars, commands and etc.
+
 - **[Entities](https://source2.wiki)**\
   *A list of all cs2 entities.*
 
 - **[Protobufs](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/Protobufs)**\
   *A list of all cs2 protobuf definitions.*
 
-= **[Datamaps](https://swiftlys2.net/docs/api/datamaps/)**\
+- **[Datamaps](https://swiftlys2.net/docs/api/datamaps/)**\
   *A list of all cs2 datamap (entity keyvalues field, input, output and etc.)*
 
 - **[gdc.eternar.dev](https://gdc.eternar.dev)**\
