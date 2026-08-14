@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/08/12 02:29:51</strong>
+  Last Sync: <strong>2026/08/13 02:31:09</strong>
 </p>
 <p>
   Project Uptime: <strong>11 months</strong>
@@ -172,12 +172,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 357<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
-  ⭐ 194<br>
-  ⏱️ updated 2 hours ago<br>
+  ⭐ 195<br>
+  ⏱️ updated 1 day ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -192,7 +192,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
   ⭐ 65<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *A plugin that shows entities, net messages, events and etc with a GUI.*
 
 - **[Source2ZE/ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix)**<br>
@@ -260,7 +260,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 312<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
@@ -290,7 +290,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[partiusfabaa/cs2-VIPCore](https://github.com/partiusfabaa/cs2-VIPCore)**<br>
   ⭐ 75<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *A vip plugin for cs2.*
 
 - **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
@@ -315,7 +315,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
   ⭐ 65<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A plugin that allows players to instantly defuse the bomb.*
 
 - **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
@@ -360,7 +360,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 32<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *Notify players about entity interactions.*
 
 - **[oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ](https://github.com/oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ)**<br>
@@ -415,12 +415,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-quake-sounds](https://github.com/Kandru/cs2-quake-sounds)**<br>
   ⭐ 20<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.*
 
 - **[zakriamansoor47/SLAYER_Duel](https://github.com/zakriamansoor47/SLAYER_Duel)**<br>
   ⭐ 19<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *This plugin allows players to do 1vs1 duel.*
 
 - **[samyycX/CSSharpPatcher](https://github.com/samyycX/CSSharpPatcher)**<br>
@@ -515,7 +515,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[zakriamansoor47/SLAYER_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp)**<br>
   ⭐ 11<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *This plugin detect player who is camping for a specific time.*
 
 - **[T3Marius/MVP-Anthem](https://github.com/T3Marius/MVP-Anthem)**<br>
@@ -525,7 +525,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[HvH-gg/RapidFireFix](https://github.com/HvH-gg/RapidFireFix)**<br>
   ⭐ 11<br>
-  ⏱️ updated 9 months ago<br>
+  ⏱️ updated 10 months ago<br>
   *CounterStrikeSharp plugin to handle rapid fire in CS2.*
 
 - **[zakriamansoor47/SLAYER_UnrestrictedFOV](https://github.com/zakriamansoor47/SLAYER_UnrestrictedFOV)**<br>
@@ -535,7 +535,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CS2-EntityFix](https://github.com/darkerz7/CS2-EntityFix)**<br>
   ⭐ 10<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.*
 
 - **[Kandru/cs2-challenges](https://github.com/Kandru/cs2-challenges)**<br>
@@ -550,12 +550,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/CS2-HideTeammates](https://github.com/darkerz7/CS2-HideTeammates)**<br>
   ⭐ 8<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *Hides Teammates on the entire map or distance.*
 
 - **[darkerz7/CSSharp-Fixes](https://github.com/darkerz7/CSSharp-Fixes)**<br>
   ⭐ 8<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.*
 
 - **[Ferks-FK/CS2-TeamLimiter](https://github.com/Ferks-FK/CS2-TeamLimiter)**<br>
