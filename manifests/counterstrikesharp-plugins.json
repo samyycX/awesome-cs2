@@ -1,5 +1,33 @@
 [
   {
+    "repo": "NeuTroNBZh/CS2-RETAKE",
+    "desc": "Feature-rich CS2 retake plugin with weapon selection menu, AWP restrictions, built-in InstaDefuse, CT kit distribution, and team scramble/queue management."
+  },
+  {
+    "repo": "NeuTroNBZh/CS2-SpawnEditor",
+    "desc": "In-game visual spawn editor companion for CS2-RETAKE — add, edit, delete and teleport to retake spawn points with live glow-pillar visualization."
+  },
+  {
+    "repo": "NeuTroNBZh/CS2-STATPLAY",
+    "desc": "Production-ready stats plugin — captures kills, rounds, objectives and grenades in real time, persists to MySQL, with !stats/!rank/!top commands and milestone webhooks."
+  },
+  {
+    "repo": "NeuTroNBZh/CS2-BreakerAndOpenDoor",
+    "desc": "Automatic round-start map cleanup for retake servers — opens doors and breaks windows/vents/breakables with a robust multi-pass, fallback-safe execution."
+  },
+  {
+    "repo": "NeuTroNBZh/CS2-Antibait",
+    "desc": "Through-wall glow highlight tool for retake servers — permanent admin-toggled glow plus automatic last-CT-alive highlighting."
+  },
+  {
+    "repo": "NeuTroNBZh/CS2-AntiSlow",
+    "desc": "Blocks Shift slow-walk for targeted players, with temporary or permanent blocks and full localization support."
+  },
+  {
+    "repo": "NeuTroNBZh/CS2-AdminTools",
+    "desc": "Admin toolkit for private/custom servers — wallhack, invisibility, god mode, speed boost and more, with CS2-SimpleAdmin menu integration."
+  },
+  {
     "repo": "zakriamansoor47/SLAYER_Duel",
     "desc": "This plugin allows players to do 1vs1 duel."
   },
