@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T01:46:27.769323+00:00",
-  "count": 267,
+  "generated_at": "2026-08-27T07:49:46.964173+00:00",
+  "count": 272,
   "contributors": [
     {
       "login": "1Mack",
@@ -897,6 +897,12 @@
       "type": "User"
     },
     {
+      "login": "Misaka17032",
+      "html_url": "https://github.com/Misaka17032",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40137262?v=4",
+      "type": "User"
+    },
+    {
       "login": "mister-keno",
       "html_url": "https://github.com/mister-keno",
       "avatar_url": "https://avatars.githubusercontent.com/u/129111509?v=4",
@@ -924,6 +930,12 @@
       "login": "Nereziel",
       "html_url": "https://github.com/Nereziel",
       "avatar_url": "https://avatars.githubusercontent.com/u/8618825?v=4",
+      "type": "User"
+    },
+    {
+      "login": "NeuTroNBZh",
+      "html_url": "https://github.com/NeuTroNBZh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135857979?v=4",
       "type": "User"
     },
     {
@@ -1467,6 +1479,12 @@
       "type": "User"
     },
     {
+      "login": "unicbm",
+      "html_url": "https://github.com/unicbm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136828391?v=4",
+      "type": "User"
+    },
+    {
       "login": "UpkkXnet",
       "html_url": "https://github.com/UpkkXnet",
       "avatar_url": "https://avatars.githubusercontent.com/u/96552017?v=4",
@@ -1527,9 +1545,21 @@
       "type": "User"
     },
     {
+      "login": "XBribo",
+      "html_url": "https://github.com/XBribo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63445088?v=4",
+      "type": "User"
+    },
+    {
       "login": "xen-000",
       "html_url": "https://github.com/xen-000",
       "avatar_url": "https://avatars.githubusercontent.com/u/24222257?v=4",
+      "type": "User"
+    },
+    {
+      "login": "xiaoyueyoqwq",
+      "html_url": "https://github.com/xiaoyueyoqwq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71379165?v=4",
       "type": "User"
     },
     {
