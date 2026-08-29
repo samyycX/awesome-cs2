@@ -2,103 +2,103 @@
   {
     "repo": "Source2ZE/CS2Fixes",
     "stars": 360,
-    "pushed_at": "2026-08-28T02:48:23+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "pushed_at": "2026-08-28T21:49:01+00:00",
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "KZGlobalTeam/cs2kz-metamod",
     "stars": 196,
     "pushed_at": "2026-08-26T21:05:19+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "Source2ZE/MultiAddonManager",
     "stars": 128,
     "pushed_at": "2026-08-18T21:51:20+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
+  },
+  {
+    "repo": "Source2ZE/CleanerCS2",
+    "stars": 66,
+    "pushed_at": "2026-08-18T06:56:37+00:00",
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "Source2ZE/CS2ServerGUI",
     "stars": 65,
     "pushed_at": "2026-08-19T05:50:05+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
-  },
-  {
-    "repo": "Source2ZE/CleanerCS2",
-    "stars": 65,
-    "pushed_at": "2026-08-18T06:56:37+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "Source2ZE/ServerListPlayersFix",
-    "stars": 64,
+    "stars": 65,
     "pushed_at": "2026-08-17T03:50:02+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "Source2ZE/MovementUnlocker",
     "stars": 62,
     "pushed_at": "2026-08-17T04:01:36+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "Salvatore-Als/cs2-fake-rcon",
     "stars": 62,
     "pushed_at": "2026-08-25T21:08:53+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "Cruze03/FakeRanks-RevealAll",
-    "stars": 53,
+    "stars": 54,
     "pushed_at": "2026-07-09T18:02:44+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "Source2ZE/StripperCS2",
     "stars": 51,
     "pushed_at": "2026-08-26T08:48:27+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "Interesting-exe/CS2Fixes-RampbugFix",
     "stars": 36,
     "pushed_at": "2026-05-02T02:12:40+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "Source2ZE/AcceleratorCS2",
     "stars": 31,
     "pushed_at": "2026-08-26T09:34:23+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "GAMMACASE/Source2SchemaDumper",
     "stars": 26,
     "pushed_at": "2026-07-26T08:23:35+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "XBribo/CS2-Bot-Hider",
-    "stars": 24,
-    "pushed_at": "2026-08-27T06:17:56+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "stars": 25,
+    "pushed_at": "2026-08-29T06:01:02+00:00",
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "Cruze03/GameBanFix",
-    "stars": 19,
+    "stars": 20,
     "pushed_at": "2026-08-26T07:19:13+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "samyycX/Audio",
     "stars": 17,
     "pushed_at": "2025-08-22T10:28:05+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   },
   {
     "repo": "XBribo/CS2-Bot-Controller",
     "stars": 17,
     "pushed_at": "2026-08-19T18:07:23+00:00",
-    "fetched_at": "2026-08-28T11:04:01.826427+00:00"
+    "fetched_at": "2026-08-29T06:48:49.045637+00:00"
   }
 ]
