@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/08/27 08:51:09</strong>
+  Last Sync: <strong>2026/08/28 11:04:08</strong>
 </p>
 <p>
   Project Uptime: <strong>1 year</strong>
@@ -177,7 +177,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 196<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -185,18 +185,18 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 week ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
+- **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2)**<br>
+  ⭐ 66<br>
+  ⏱️ updated 1 week ago<br>
+  *A simple plugin that allows you to filter out console prints with regular expressions.*
+
 - **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
   ⭐ 65<br>
   ⏱️ updated 1 week ago<br>
   *A plugin that shows entities, net messages, events and etc with a GUI.*
 
-- **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2)**<br>
-  ⭐ 65<br>
-  ⏱️ updated 1 week ago<br>
-  *A simple plugin that allows you to filter out console prints with regular expressions.*
-
 - **[Source2ZE/ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix)**<br>
-  ⭐ 64<br>
+  ⭐ 65<br>
   ⏱️ updated 1 week ago<br>
   *Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.*
 
@@ -207,11 +207,11 @@ These are the websites with resources that you might need to check during develo
 
 - **[Salvatore-Als/cs2-fake-rcon](https://github.com/Salvatore-Als/cs2-fake-rcon)**<br>
   ⭐ 62<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).*
 
 - **[Cruze03/FakeRanks-RevealAll](https://github.com/Cruze03/FakeRanks-RevealAll)**<br>
-  ⭐ 53<br>
+  ⭐ 54<br>
   ⏱️ updated 1 month ago<br>
   *A metamod plugin that reveals ranks of all players in server for player who presses tab.*
 
@@ -236,12 +236,12 @@ These are the websites with resources that you might need to check during develo
   *A plugin that can dump the schemas and generate a header file.*
 
 - **[XBribo/CS2-Bot-Hider](https://github.com/XBribo/CS2-Bot-Hider)**<br>
-  ⭐ 24<br>
-  ⏱️ updated 1 day ago<br>
+  ⭐ 25<br>
+  ⏱️ updated 47 minutes ago<br>
   *CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.*
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
-  ⭐ 19<br>
+  ⭐ 20<br>
   ⏱️ updated 2 days ago<br>
   *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
 
@@ -269,7 +269,7 @@ These are the websites with resources that you might need to check during develo
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
-  ⭐ 315<br>
+  ⭐ 316<br>
   ⏱️ updated 1 day ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
@@ -284,12 +284,12 @@ These are the websites with resources that you might need to check during develo
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
 - **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)**<br>
-  ⭐ 138<br>
+  ⭐ 139<br>
   ⏱️ updated 12 months ago<br>
   *A cssharp plugin to change player models.*
 
 - **[NockyCZ/CS2-Deathmatch](https://github.com/NockyCZ/CS2-Deathmatch)**<br>
-  ⭐ 127<br>
+  ⭐ 128<br>
   ⏱️ updated 3 weeks ago<br>
   *A plugin to implement deathmatch gamemode.*
 
@@ -314,7 +314,7 @@ These are the websites with resources that you might need to check during develo
   *This plugin allows players to use Emotes & Dances just like Fortnite.*
 
 - **[partiusfabaa/cs2-ranks](https://github.com/partiusfabaa/cs2-ranks)**<br>
-  ⭐ 68<br>
+  ⭐ 69<br>
   ⏱️ updated 1 year ago<br>
   *Each player is assigned a rank based on their accumulated experience points. Ranks range from "None" to the prestigious "The Global Elite."*
 
@@ -400,7 +400,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-update-manager](https://github.com/Kandru/cs2-update-manager)**<br>
   ⭐ 23<br>
-  ⏱️ updated 2 months ago<br>
+  ⏱️ updated 3 months ago<br>
   *The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.*
 
 - **[Cruze03/Clientprefs](https://github.com/Cruze03/Clientprefs)**<br>
@@ -419,7 +419,7 @@ These are the websites with resources that you might need to check during develo
   *Allows you to hide player models.*
 
 - **[Kandru/cs2-roll-the-dice](https://github.com/Kandru/cs2-roll-the-dice)**<br>
-  ⭐ 20<br>
+  ⭐ 21<br>
   ⏱️ updated 1 month ago<br>
   *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
 
@@ -455,7 +455,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped)**<br>
   ⭐ 18<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *A modern, improved third-person camera plugin for Counter-Strike 2.*
 
 - **[PhantomYopta/CS2_Speedometer](https://github.com/PhantomYopta/CS2_Speedometer)**<br>
@@ -478,6 +478,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 2 years ago<br>
   *A CSSharp plugin to block all radio commands.*
 
+- **[Austinbots/CS2-BotAI](https://github.com/Austinbots/CS2-BotAI)**<br>
+  ⭐ 16<br>
+  ⏱️ updated 11 months ago<br>
+  *Improves the built in bots AI.*
+
 - **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds)**<br>
   ⭐ 15<br>
   ⏱️ updated 8 months ago<br>
@@ -492,11 +497,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 15<br>
   ⏱️ updated 8 months ago<br>
   *Lightweight and efficient voting system for CS2 without anything pointless, allowing players to initiate votes for kicking, banning, and muting players.*
-
-- **[Austinbots/CS2-BotAI](https://github.com/Austinbots/CS2-BotAI)**<br>
-  ⭐ 15<br>
-  ⏱️ updated 11 months ago<br>
-  *Improves the built in bots AI.*
 
 - **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API)**<br>
   ⭐ 14<br>
@@ -520,7 +520,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Kandru/cs2-demo-recorder](https://github.com/Kandru/cs2-demo-recorder)**<br>
   ⭐ 12<br>
-  ⏱️ updated 2 months ago<br>
+  ⏱️ updated 3 months ago<br>
   *This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.*
 
 - **[zakriamansoor47/SLAYER_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp)**<br>
@@ -530,7 +530,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[T3Marius/MVP-Anthem](https://github.com/T3Marius/MVP-Anthem)**<br>
   ⭐ 11<br>
-  ⏱️ updated 10 months ago<br>
+  ⏱️ updated 11 months ago<br>
   *A plugin that add custom mvp sound to the game.*
 
 - **[HvH-gg/RapidFireFix](https://github.com/HvH-gg/RapidFireFix)**<br>
@@ -645,7 +645,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[NeuTroNBZh/CS2-BreakerAndOpenDoor](https://github.com/NeuTroNBZh/CS2-BreakerAndOpenDoor)**<br>
   ⭐ 3<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *Automatic round-start map cleanup for retake servers — opens doors and breaks windows/vents/breakables with a robust multi-pass, fallback-safe execution.*
 
 - **[Dliix66/CS2-BotSlay](https://github.com/Dliix66/CS2-BotSlay)**<br>
@@ -660,12 +660,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[NeuTroNBZh/CS2-RETAKE](https://github.com/NeuTroNBZh/CS2-RETAKE)**<br>
   ⭐ 2<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *Feature-rich CS2 retake plugin with weapon selection menu, AWP restrictions, built-in InstaDefuse, CT kit distribution, and team scramble/queue management.*
 
 - **[NeuTroNBZh/CS2-AdminTools](https://github.com/NeuTroNBZh/CS2-AdminTools)**<br>
   ⭐ 2<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *Admin toolkit for private/custom servers — wallhack, invisibility, god mode, speed boost and more, with CS2-SimpleAdmin menu integration.*
 
 - **[asapverneri/CS2-ScoutzKnivez](https://github.com/asapverneri/CS2-ScoutzKnivez)**<br>
@@ -685,12 +685,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[NeuTroNBZh/CS2-SpawnEditor](https://github.com/NeuTroNBZh/CS2-SpawnEditor)**<br>
   ⭐ 1<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *In-game visual spawn editor companion for CS2-RETAKE — add, edit, delete and teleport to retake spawn points with live glow-pillar visualization.*
 
 - **[NeuTroNBZh/CS2-AntiSlow](https://github.com/NeuTroNBZh/CS2-AntiSlow)**<br>
   ⭐ 1<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *Blocks Shift slow-walk for targeted players, with temporary or permanent blocks and full localization support.*
 
 - **[TICHOJEBEC-SK/cs2-WarnSystem](https://github.com/TICHOJEBEC-SK/cs2-WarnSystem)**<br>
@@ -710,7 +710,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[NeuTroNBZh/CS2-Antibait](https://github.com/NeuTroNBZh/CS2-Antibait)**<br>
   ⭐ 0<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *Through-wall glow highlight tool for retake servers — permanent admin-toggled glow plus automatic last-CT-alive highlighting.*
 
 - **[schwarper/cs2-anticheat](https://github.com/schwarper/cs2-anticheat)**<br>
