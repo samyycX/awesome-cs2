@@ -366,6 +366,9 @@
   {
     "repo": "zwolof/cs2-executes",
     "desc": "CS2 implementation of executes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis."
-
+  },
+  {
+    "repo": "nvmxre/cs2-hud-panel",
+    "desc": "Clickable, flicker-free HUD panels on the custom_hud_layout entity — one entity with per-player state, Show/Hide/SetText/SetClass and a Clicked event, plus a worked example and a list of the engine gotchas."
   }
 ]
