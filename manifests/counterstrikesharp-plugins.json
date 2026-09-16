@@ -370,5 +370,13 @@
   {
     "repo": "nvmxre/cs2-hud-panel",
     "desc": "Clickable, flicker-free HUD panels on the custom_hud_layout entity — one entity with per-player state, Show/Hide/SetText/SetClass and a Clicked event, plus a worked example and a list of the engine gotchas."
+  },
+  {
+    "repo": "LeqenddC/CS2-BhopCommand",
+    "desc": "Toggles bunnyhop with !bhop and puts the server back to its previous movement settings when turned off."
+  },
+  {
+    "repo": "LeqenddC/CS2-OnlyHS",
+    "desc": "Toggles headshot-only damage with !onlyhs, restored automatically when turned off or on map change."
   }
 ]
