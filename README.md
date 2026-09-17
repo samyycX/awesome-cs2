@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/09/16 04:29:46</strong>
+  Last Sync: <strong>2026/09/16 13:34:07</strong>
 </p>
 <p>
   Project Uptime: <strong>1 year</strong>
@@ -172,17 +172,17 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 362<br>
-  ⏱️ updated 12 hours ago<br>
+  ⏱️ updated 3 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 202<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
   ⭐ 131<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
 - **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2)**<br>
@@ -192,7 +192,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
   ⭐ 66<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *A plugin that shows entities, net messages, events and etc with a GUI.*
 
 - **[Source2ZE/ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix)**<br>
@@ -232,17 +232,17 @@ These are the websites with resources that you might need to check during develo
 
 - **[XBribo/CS2-Bot-Hider](https://github.com/XBribo/CS2-Bot-Hider)**<br>
   ⭐ 28<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.*
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
   ⭐ 27<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
 - **[XBribo/CS2-Bot-Controller](https://github.com/XBribo/CS2-Bot-Controller)**<br>
   ⭐ 21<br>
-  ⏱️ updated 22 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.*
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
@@ -270,7 +270,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 317<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 11 hours ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
@@ -345,7 +345,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[schwarper/CS2MenuManager](https://github.com/schwarper/CS2MenuManager)**<br>
   ⭐ 49<br>
-  ⏱️ updated 1 month ago<br>
+  ⏱️ updated 2 months ago<br>
   *CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.*
 
 - **[KillStr3aK/ResourcePrecacher](https://github.com/KillStr3aK/ResourcePrecacher)**<br>
@@ -380,7 +380,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 31<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *Notify players about entity interactions.*
 
 - **[ssypchenko/cs2-gungame](https://github.com/ssypchenko/cs2-gungame)**<br>
@@ -693,6 +693,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 year ago<br>
   *This is a legendary gamemode made for CS2. It's in early state, but it should be pretty stable.*
 
+- **[asapverneri/CS2-ChatLogs](https://github.com/asapverneri/CS2-ChatLogs)**<br>
+  ⭐ 2<br>
+  ⏱️ updated 1 year ago<br>
+  *Plugin that store chat messages to MySQL database.*
+
 - **[asapverneri/CS2-StaffList](https://github.com/asapverneri/CS2-StaffList)**<br>
   ⭐ 2<br>
   ⏱️ updated 2 years ago<br>
@@ -722,11 +727,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 1<br>
   ⏱️ updated 3 weeks ago<br>
   *Through-wall glow highlight tool for retake servers — permanent admin-toggled glow plus automatic last-CT-alive highlighting.*
-
-- **[asapverneri/CS2-ChatLogs](https://github.com/asapverneri/CS2-ChatLogs)**<br>
-  ⭐ 1<br>
-  ⏱️ updated 1 year ago<br>
-  *Plugin that store chat messages to MySQL database.*
 
 - **[schwarper/cs2-anticheat](https://github.com/schwarper/cs2-anticheat)**<br>
   ⭐ 0<br>
