@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/09/17 04:35:42</strong>
+  Last Sync: <strong>2026/09/18 04:20:47</strong>
 </p>
 <p>
   Project Uptime: <strong>1 year</strong>
@@ -172,12 +172,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 362<br>
-  ⏱️ updated 6 hours ago<br>
+  ⏱️ updated 8 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
   ⭐ 202<br>
-  ⏱️ updated 19 hours ago<br>
+  ⏱️ updated 6 minutes ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -232,7 +232,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[XBribo/CS2-Bot-Hider](https://github.com/XBribo/CS2-Bot-Hider)**<br>
   ⭐ 28<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.*
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
@@ -242,7 +242,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[XBribo/CS2-Bot-Controller](https://github.com/XBribo/CS2-Bot-Controller)**<br>
   ⭐ 22<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.*
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
@@ -270,7 +270,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 318<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
@@ -325,7 +325,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote)**<br>
   ⭐ 66<br>
-  ⏱️ updated 11 months ago<br>
+  ⏱️ updated 12 months ago<br>
   *General purpose map voting plugin, started as a simple RTV and now has more features.*
 
 - **[Lan2Play/PugSharp](https://github.com/Lan2Play/PugSharp)**<br>
@@ -380,7 +380,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 31<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *Notify players about entity interactions.*
 
 - **[ssypchenko/cs2-gungame](https://github.com/ssypchenko/cs2-gungame)**<br>
@@ -620,7 +620,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[asapverneri/CS2-Gunsmenu](https://github.com/asapverneri/CS2-Gunsmenu)**<br>
   ⭐ 4<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 6 months ago<br>
   *Up to date and lightweight gunmenu for CS2, allowing players to choose guns at any time of the round.*
 
 - **[asapverneri/CS2-Baninfo](https://github.com/asapverneri/CS2-Baninfo)**<br>
@@ -670,7 +670,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[nvmxre/cs2-hud-panel](https://github.com/nvmxre/cs2-hud-panel)**<br>
   ⭐ 3<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *Clickable, flicker-free HUD panels on the custom_hud_layout entity — one entity with per-player state, Show/Hide/SetText/SetClass and a Clicked event, plus a worked example and a list of the engine gotchas.*
 
 - **[LeqenddC/CS2-BhopCommand](https://github.com/LeqenddC/CS2-BhopCommand)**<br>
@@ -750,7 +750,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/MapChooser](https://github.com/SwiftlyS2-Plugins/MapChooser)**<br>
   ⭐ 14<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *A powerful and customizable map voting system for SwiftlyS2.*
 
 - **[SwiftlyS2-Plugins/Admins](https://github.com/SwiftlyS2-Plugins/Admins)**<br>
@@ -770,7 +770,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/Cookies](https://github.com/SwiftlyS2-Plugins/Cookies)**<br>
   ⭐ 6<br>
-  ⏱️ updated 4 months ago<br>
+  ⏱️ updated 15 hours ago<br>
   *Server/Client persistent variables.*
 
 - **[SwiftlyS2-Plugins/MenuFlickeringFix](https://github.com/SwiftlyS2-Plugins/MenuFlickeringFix)**<br>
