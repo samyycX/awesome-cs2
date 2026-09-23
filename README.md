@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/09/21 04:34:17</strong>
+  Last Sync: <strong>2026/09/22 04:30:13</strong>
 </p>
 <p>
   Project Uptime: <strong>1 year</strong>
@@ -172,12 +172,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes)**<br>
   ⭐ 363<br>
-  ⏱️ updated 1 hour ago<br>
+  ⏱️ updated 47 minutes ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
 - **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod)**<br>
-  ⭐ 202<br>
-  ⏱️ updated 3 days ago<br>
+  ⭐ 203<br>
+  ⏱️ updated 4 days ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 - **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)**<br>
@@ -187,12 +187,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2)**<br>
   ⭐ 68<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *A simple plugin that allows you to filter out console prints with regular expressions.*
 
 - **[Source2ZE/ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix)**<br>
   ⭐ 68<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.*
 
 - **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI)**<br>
@@ -202,12 +202,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Salvatore-Als/cs2-fake-rcon](https://github.com/Salvatore-Als/cs2-fake-rcon)**<br>
   ⭐ 63<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).*
 
 - **[Source2ZE/MovementUnlocker](https://github.com/Source2ZE/MovementUnlocker)**<br>
   ⭐ 62<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.*
 
 - **[Cruze03/FakeRanks-RevealAll](https://github.com/Cruze03/FakeRanks-RevealAll)**<br>
@@ -217,7 +217,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/StripperCS2](https://github.com/Source2ZE/StripperCS2)**<br>
   ⭐ 53<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.*
 
 - **[Interesting-exe/CS2Fixes-RampbugFix](https://github.com/Interesting-exe/CS2Fixes-RampbugFix)**<br>
@@ -227,12 +227,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[Source2ZE/AcceleratorCS2](https://github.com/Source2ZE/AcceleratorCS2)**<br>
   ⭐ 32<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *A plugin that generate a crash dump when there's a crash.*
 
 - **[XBribo/CS2-Bot-Hider](https://github.com/XBribo/CS2-Bot-Hider)**<br>
   ⭐ 28<br>
-  ⏱️ updated 3 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.*
 
 - **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper)**<br>
@@ -242,7 +242,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[XBribo/CS2-Bot-Controller](https://github.com/XBribo/CS2-Bot-Controller)**<br>
   ⭐ 22<br>
-  ⏱️ updated 14 hours ago<br>
+  ⏱️ updated 18 hours ago<br>
   *CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.*
 
 - **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix)**<br>
@@ -270,7 +270,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes)**<br>
   ⭐ 318<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 - **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)**<br>
@@ -305,7 +305,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ)**<br>
   ⭐ 74<br>
-  ⏱️ updated 1 month ago<br>
+  ⏱️ updated 2 months ago<br>
   *Block/Hide unnecessaries in game.*
 
 - **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)**<br>
@@ -320,7 +320,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**<br>
   ⭐ 67<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *A plugin that allows players to instantly defuse the bomb.*
 
 - **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote)**<br>
@@ -370,7 +370,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp)**<br>
   ⭐ 32<br>
-  ⏱️ updated 10 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *Notify players about entity interactions.*
 
 - **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ)**<br>
@@ -620,7 +620,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[NeuTroNBZh/CS2-RETAKE](https://github.com/NeuTroNBZh/CS2-RETAKE)**<br>
   ⭐ 4<br>
-  ⏱️ updated 9 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *Feature-rich CS2 retake plugin with weapon selection menu, AWP restrictions, built-in InstaDefuse, CT kit distribution, and team scramble/queue management.*
 
 - **[NeuTroNBZh/CS2-BreakerAndOpenDoor](https://github.com/NeuTroNBZh/CS2-BreakerAndOpenDoor)**<br>
@@ -675,12 +675,12 @@ These are the websites with resources that you might need to check during develo
 
 - **[nvmxre/cs2-hud-panel](https://github.com/nvmxre/cs2-hud-panel)**<br>
   ⭐ 3<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *Clickable, flicker-free HUD panels on the custom_hud_layout entity — one entity with per-player state, Show/Hide/SetText/SetClass and a Clicked event, plus a worked example and a list of the engine gotchas.*
 
 - **[LeqenddC/CS2-BhopCommand](https://github.com/LeqenddC/CS2-BhopCommand)**<br>
   ⭐ 3<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 3 weeks ago<br>
   *Toggles bunnyhop with !bhop and puts the server back to its previous movement settings when turned off.*
 
 - **[NeuTroNBZh/CS2-SpawnEditor](https://github.com/NeuTroNBZh/CS2-SpawnEditor)**<br>
@@ -690,7 +690,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[NeuTroNBZh/CS2-STATPLAY](https://github.com/NeuTroNBZh/CS2-STATPLAY)**<br>
   ⭐ 2<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *Production-ready stats plugin — captures kills, rounds, objectives and grenades in real time, persists to MySQL, with !stats/!rank/!top commands and milestone webhooks.*
 
 - **[NeuTroNBZh/CS2-Antibait](https://github.com/NeuTroNBZh/CS2-Antibait)**<br>
@@ -725,7 +725,7 @@ These are the websites with resources that you might need to check during develo
 
 - **[LeqenddC/CS2-OnlyHS](https://github.com/LeqenddC/CS2-OnlyHS)**<br>
   ⭐ 2<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 3 weeks ago<br>
   *Toggles headshot-only damage with !onlyhs, restored automatically when turned off or on map change.*
 
 - **[schwarper/cs2-anticheat](https://github.com/schwarper/cs2-anticheat)**<br>
@@ -770,7 +770,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 - **[SwiftlyS2-Plugins/Cookies](https://github.com/SwiftlyS2-Plugins/Cookies)**<br>
   ⭐ 6<br>
-  ⏱️ updated 7 hours ago<br>
+  ⏱️ updated 16 hours ago<br>
   *Server/Client persistent variables.*
 
 - **[SwiftlyS2-Plugins/MenuFlickeringFix](https://github.com/SwiftlyS2-Plugins/MenuFlickeringFix)**<br>
