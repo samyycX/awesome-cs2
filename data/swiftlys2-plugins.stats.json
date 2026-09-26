@@ -3,54 +3,54 @@
     "repo": "samyycX/WeaponSkins",
     "stars": 36,
     "pushed_at": "2026-08-30T10:12:26+00:00",
-    "fetched_at": "2026-09-25T04:35:03.358717+00:00"
+    "fetched_at": "2026-09-26T04:38:41.966504+00:00"
   },
   {
     "repo": "SwiftlyS2-Plugins/AddonsManager",
     "stars": 20,
     "pushed_at": "2026-09-23T07:41:08+00:00",
-    "fetched_at": "2026-09-25T04:35:03.358717+00:00"
+    "fetched_at": "2026-09-26T04:38:41.966504+00:00"
   },
   {
     "repo": "SwiftlyS2-Plugins/MapChooser",
     "stars": 15,
     "pushed_at": "2026-09-13T12:03:21+00:00",
-    "fetched_at": "2026-09-25T04:35:03.358717+00:00"
+    "fetched_at": "2026-09-26T04:38:41.966504+00:00"
   },
   {
     "repo": "SwiftlyS2-Plugins/Admins",
     "stars": 12,
     "pushed_at": "2026-07-06T09:47:47+00:00",
-    "fetched_at": "2026-09-25T04:35:03.358717+00:00"
+    "fetched_at": "2026-09-26T04:38:41.966504+00:00"
   },
   {
     "repo": "SwiftlyS2-Plugins/Audio",
     "stars": 8,
     "pushed_at": "2026-07-09T10:33:39+00:00",
-    "fetched_at": "2026-09-25T04:35:03.358717+00:00"
+    "fetched_at": "2026-09-26T04:38:41.966504+00:00"
+  },
+  {
+    "repo": "SwiftlyS2-Plugins/VIPCore",
+    "stars": 7,
+    "pushed_at": "2026-09-25T19:28:16+00:00",
+    "fetched_at": "2026-09-26T04:38:41.966504+00:00"
   },
   {
     "repo": "SwiftlyS2-Plugins/Economy",
     "stars": 6,
     "pushed_at": "2026-03-14T10:32:34+00:00",
-    "fetched_at": "2026-09-25T04:35:03.358717+00:00"
+    "fetched_at": "2026-09-26T04:38:41.966504+00:00"
   },
   {
     "repo": "SwiftlyS2-Plugins/Cookies",
     "stars": 6,
     "pushed_at": "2026-09-22T12:18:24+00:00",
-    "fetched_at": "2026-09-25T04:35:03.358717+00:00"
+    "fetched_at": "2026-09-26T04:38:41.966504+00:00"
   },
   {
     "repo": "SwiftlyS2-Plugins/MenuFlickeringFix",
     "stars": 6,
     "pushed_at": "2025-11-12T07:05:24+00:00",
-    "fetched_at": "2026-09-25T04:35:03.358717+00:00"
-  },
-  {
-    "repo": "SwiftlyS2-Plugins/VIPCore",
-    "stars": 6,
-    "pushed_at": "2026-05-05T16:31:43+00:00",
-    "fetched_at": "2026-09-25T04:35:03.358717+00:00"
+    "fetched_at": "2026-09-26T04:38:41.966504+00:00"
   }
 ]
