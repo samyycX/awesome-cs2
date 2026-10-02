@@ -368,8 +368,8 @@
     "desc": "CS2 implementation of executes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis."
   },
   {
-    "repo": "nvmxre/cs2-hud-panel",
-    "desc": "Clickable, flicker-free HUD panels on the custom_hud_layout entity — one entity with per-player state, Show/Hide/SetText/SetClass and a Clicked event, plus a worked example and a list of the engine gotchas."
+    "repo": "nvmxre/cs2-ui-kit",
+    "desc": "CS2UIKit — ready-made toasts and votes in the CS2 style (Workshop addon), your own clickable panels on custom_hud_layout, and the stock B key to open them. From C#, no Panorama needed."
   },
   {
     "repo": "LeqenddC/CS2-BhopCommand",
@@ -378,5 +378,9 @@
   {
     "repo": "LeqenddC/CS2-OnlyHS",
     "desc": "Toggles headshot-only damage with !onlyhs, restored automatically when turned off or on map change."
+  },
+  {
+    "repo": "nvmxre/cs2-zombie-mode",
+    "desc": "Open-source zombie mode core: hidden infected, bites that bleed, knockback, leap and berserk, sound pack on the Workshop; money, magazines and weapon damage as optional extensions, plus a typed API for your own plugins."
   }
 ]
