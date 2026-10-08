@@ -1,19 +1,11 @@
 [
   {
-    "repo": "NeuTroNBZh/CS2-RETAKE",
-    "desc": "Feature-rich CS2 retake plugin with weapon selection menu, AWP restrictions, built-in InstaDefuse, CT kit distribution, and team scramble/queue management."
-  },
-  {
-    "repo": "NeuTroNBZh/CS2-SpawnEditor",
-    "desc": "In-game visual spawn editor companion for CS2-RETAKE — add, edit, delete and teleport to retake spawn points with live glow-pillar visualization."
+    "repo": "NeuTroNBZh/CS2-RetakeV4",
+    "desc": "Complete, modular Retake game mode: teams and queue, spawns with in-game editor, remembered weapons, InstaDefuse, HUD, end-of-match map vote, map cleanup, admin tools and a public API. Replaces CS2-RETAKE (V3), CS2-SpawnEditor and CS2-BreakerAndOpenDoor."
   },
   {
     "repo": "NeuTroNBZh/CS2-STATPLAY",
     "desc": "Production-ready stats plugin — captures kills, rounds, objectives and grenades in real time, persists to MySQL, with !stats/!rank/!top commands and milestone webhooks."
-  },
-  {
-    "repo": "NeuTroNBZh/CS2-BreakerAndOpenDoor",
-    "desc": "Automatic round-start map cleanup for retake servers — opens doors and breaks windows/vents/breakables with a robust multi-pass, fallback-safe execution."
   },
   {
     "repo": "NeuTroNBZh/CS2-Antibait",
