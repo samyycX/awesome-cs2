@@ -378,5 +378,9 @@
   {
     "repo": "LeqenddC/CS2-OnlyHS",
     "desc": "Toggles headshot-only damage with !onlyhs, restored automatically when turned off or on map change."
+  },
+  {
+    "repo": "sink3x/cs2-server-admin-plugin",
+    "desc": "Companion plugin for a CS2 web admin panel: in-game !menu, sounds, team names and logos, clan tags and map cleanup."
   }
 ]
