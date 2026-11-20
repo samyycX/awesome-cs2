@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T06:59:43.918534+00:00",
-  "count": 289,
+  "generated_at": "2026-11-20T06:52:07.357096+00:00",
+  "count": 290,
   "contributors": [
     {
       "login": "123suarez96",
@@ -42,6 +42,12 @@
       "login": "adammyllykoski",
       "html_url": "https://github.com/adammyllykoski",
       "avatar_url": "https://avatars.githubusercontent.com/u/150072141?v=4",
+      "type": "User"
+    },
+    {
+      "login": "afikpr123",
+      "html_url": "https://github.com/afikpr123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46192403?v=4",
       "type": "User"
     },
     {
@@ -528,12 +534,6 @@
       "login": "Gorakel",
       "html_url": "https://github.com/Gorakel",
       "avatar_url": "https://avatars.githubusercontent.com/u/29128011?v=4",
-      "type": "User"
-    },
-    {
-      "login": "grrhn",
-      "html_url": "https://github.com/grrhn",
-      "avatar_url": "https://avatars.githubusercontent.com/u/105857708?v=4",
       "type": "User"
     },
     {
@@ -1572,6 +1572,12 @@
       "login": "Tsukasa-Nefren",
       "html_url": "https://github.com/Tsukasa-Nefren",
       "avatar_url": "https://avatars.githubusercontent.com/u/89155368?v=4",
+      "type": "User"
+    },
+    {
+      "login": "ugurhn",
+      "html_url": "https://github.com/ugurhn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105857708?v=4",
       "type": "User"
     },
     {
