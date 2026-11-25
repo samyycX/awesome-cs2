@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T09:33:00.111501+00:00",
-  "count": 292,
+  "generated_at": "2026-11-25T08:03:36.128473+00:00",
+  "count": 293,
   "contributors": [
     {
       "login": "0xpierre-dev",
@@ -150,6 +150,12 @@
       "login": "B3none",
       "html_url": "https://github.com/B3none",
       "avatar_url": "https://avatars.githubusercontent.com/u/24966460?v=4",
+      "type": "User"
+    },
+    {
+      "login": "Bat-Ireedui",
+      "html_url": "https://github.com/Bat-Ireedui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86697441?v=4",
       "type": "User"
     },
     {
