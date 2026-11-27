@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T07:54:40.063266+00:00",
-  "count": 293,
+  "generated_at": "2026-11-27T07:55:46.938861+00:00",
+  "count": 294,
   "contributors": [
     {
       "login": "0xpierre-dev",
@@ -354,6 +354,12 @@
       "login": "dr3fty",
       "html_url": "https://github.com/dr3fty",
       "avatar_url": "https://avatars.githubusercontent.com/u/12001194?v=4",
+      "type": "User"
+    },
+    {
+      "login": "Duuns",
+      "html_url": "https://github.com/Duuns",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265900482?v=4",
       "type": "User"
     },
     {
